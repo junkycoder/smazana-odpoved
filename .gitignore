@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editory
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Dočasné / exporty
+*.tmp
+*.bak
+/export/
+*.epub
+*.pdf
+*.docx
+!zadani/**/*.pdf
