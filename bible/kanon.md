@@ -107,3 +107,4 @@ Zaseje se ve 3, plná konvergence v 5. V rozhodující scéně **robot nesmí ro
 - Slovník se vrství podle mluvčího; zmizení místo smrti musí nést význam.
 - **Quotable:** *„Kabel na dně oceánu se sám nepřekopne."*
 - **Symboly:** Odkaz (fyzický + páteř Odkaz vs. hromadění); „nenech to ležet" (3×); junk vs. Odpověď (skryté vzory).
+- **Šifra-guard (od K1):** morseová abeceda je **veřejná** — zveřejněná v Knize 1 (Klíč). Reálný morse *ciphertext* (dešifrovatelný obsah Cvokovy věty) se nesmí objevit **nikde**, ani v K2–K5; „cvak, cvak-cvak, cvak" je nečitelná próza, ne přepsatelná morse. Falešný klíč (K1) ukázán jako past, jeho „obsah" se nikdy nevyrenderuje. Klíče K2–K5 musí počítat s tím, že abeceda je veřejná.

@@ -21,10 +21,16 @@ Vypravěčem je **robot Cvok** — jediný funkční stroj ve vesnici, postaven�
 ├── bible/                     # story bible — kánon, postavy, svět, pravidla
 │   └── kanon.md
 └── knihy/
-    └── kniha-1-vesnice/       # KNIHA 1: Vesnice
+    └── kniha-1-vesnice/       # KNIHA 1: Vesnice — KOMPLETNÍ
         ├── README.md          # osnova a stav knihy 1
         ├── 00-predmluva.md    # předmluva (hlas Cvoka)
-        └── 01-kapitola.md     # Kapitola 1
+        ├── 01-kapitola.md     # Kapitola 1 — Cvok
+        ├── 02-kapitola.md     # Kapitola 2 — Šum
+        ├── 03-kapitola.md     # Kapitola 3 — Nebe
+        ├── 04-kapitola.md     # Kapitola 4 — Sklo
+        ├── 05-kapitola.md     # Kapitola 5 — Stopa
+        ├── 06-kapitola.md     # Kapitola 6 — Tvar
+        └── 07-klic.md         # Klíč (morse + falešný klíč, hlas Cvoka)
 ```
 
 ## Oblouk pěti knih
