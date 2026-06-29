@@ -25,11 +25,14 @@
 - **Sítě zablokované**, jen P2P. Čistý text se nikdy nevysílá a nikdy ze stejného místa.
 - **Přenos obrazu = prompt, ne pixely.** (1) Podpis stroje (hash) — padělatelný, svět plný podvrhů. (2) Pixelové stopy — generování pustí pár reálných pixelů, **bon žáci** je triangulují (víc pošleš → přesněji tě zaměří). (3) **Morse jako jazyk odporu** — děti se ho učí jako „historický", underground živě; přenosný zvukem (tóny, klepání), nemusí znít jako hlas → slepé místo sledovacích botů (ti hlídají hlas a text).
 - **Nebe.** Promítá se na něj počasí i zprávy/propaganda — ať lidi koukají nahoru a ne kolem sebe.
+- **Atomizovaný svět.** Pád rozdrobil svět na země (s výjimkami); každá má **vlastní etalon, vlastní oficiální vysílání (své nebe) a jiné poměry**. Není jeden pán nad celkem — je jich tolik co zemí. **Brno a Praha (bývalá Czechia)** jsou teď v centru dění a patří k bohatším; **většina světa je chudší.**
 
 ## Ekonomika
 
 - **Peníze nejsou, jsou jen data.** Stará měna umřela po „qvacet-dva-triliardové" koupi (asteroidový materiál). Dvě valuty: město = BTC, podzemí = data + vzájemná pomoc.
 - **BTC jako obojek.** Etalon vlastní většinu BTC, dvojí měna = peníz i vodítko. Bez BTC se ve městě nenajíš. **Měna, kterou platíš, prozrazuje, do kterého světa patříš.** Most: klonaři a poustevníci (bi-měnoví → privilegovaní, na hraně).
+- **Oficiální peněženky.** Kdo je ve městě přihlášený, drží oficiální BTC peněženky — typicky **jednu osobní + několik k tomu, co dělá** (byznys, projekt, mise), na živobytí i provoz ve městech. Peněženka = persona/projekt; kolik a jakých jich máš, prozrazuje, kdo jsi a co provozuješ.
+- **QR peněženky (in-world × realita) — „ten gól".** V knihách jsou peněženky person/projektů zveřejněné jako **QR** a **odkazují na reálné BTC peněženky**: čtenář může poslat **skutečné satoshi** na podporu persony/projektu z knihy — klidně **ironicky** (podpoř i padoucha, i pasenou spodinu). Reálná vrstva nad fikcí: BTC-obojek z příběhu se venku obrací v dobrovolný dar. Ironie i fintech zároveň; rýmuje se s donate-paradoxem (pánův pětník vzatý zpět na volnou věc).
 - **Poustevníci.** Boháči s klonem (veřejno) a tajným životem (z domu nevylezou). Stacionární burzy: lidi k nim chodí prodávat info, data a vzácně **originální média** (negenerovaná — skutečné pixely; vzácnost i risk, reálné pixely = poloha).
 - **Leak-paradox (centrální problém).** Datová měna nefungibilní: cena = obsah, ověřit obsah = utratit ho. Jak prodáš něco, co ztratí cenu ve chvíli, kdy to ukážeš? Trh: brokeři s reputací místo důkazu, vzorky schválně bezcenné ale ověřitelné, deadpan smlouvání o krámy se smrtelnou vážností.
 - **Odkaz = fintech.** Sklo „přečteš jednou, nezjeví se tomu, kdo už to zná" = nástroj na leak-paradox (ověř na místě, nezkopíruj). Bankovní technologie undergroundu.
@@ -41,6 +44,8 @@
 - **Tonální pravidlo:** nikdo si svobodu neuvědomuje jako volbu — je to standard. Nefilozofují, neobhajují, nechlubí se. Čtenář vidí absurditu aparátu (nebe, klony, obojek, „bez nás chaos"), kterou postavy berou jako normální. **Absurdní je pán, ne svoboda.**
 - **Etalonova hlavní lež:** „bez nás chaos." Musí malovat underground jako bordel.
 - **Zbylé dvě třetiny:** **Takbysetomělové** (mlčící střed, bílé pásky, „neberu strany"; ne problém, ale ani řešení) · **Lojálové** (kolaboranti, tetování **„P"** = Přihlášen na krku jako obojek, nosí hrdě) · **Klony** (odřou městskou práci za undergrounďáky).
+- **Vyschlí, a přesto září.** Ve všech frakcích i stavech se rodí dobří lidé. Kdo zůstal v systému, **hnije zevnitř**, až v něm nic nezbude — a navenek je **uměle symetrický, neodolatelný, vyschlý, a přesto září**. Lesk = maska na prázdnu (rýmuje se s celebritou-maskou, s Lhářem i s **falešným Odkazem**: září, a uvnitř nic).
+- **Pasení bezdomovci.** Výjimka z lesku. Ve městě **nejsou dobrovolně** — někdo je tam **pase a drží**, mj. jako **odstrašení** pro „nemakačenky" a „feťáky": *takhle dopadneš, když nebudeš poslouchat.* Viditelná spodina jako nástroj kontroly.
 
 ## Páteř / motor
 
