@@ -27,7 +27,7 @@ Text je nahrávka, kterou do Cvoka nahrálo zmizelé dítě (sirotek), a kterou 
 ## Osnova kapitol (pracovní)
 
 1. **Cvok** — vesnice, svět, stroj. Otázka „co je to za stroj"; první tušení vzoru v kravinách. ✅ *napsáno*
-2. *(plán)* Přebírání a trh se šumem — leak-paradox v praxi, deadpan smlouvání.
+2. **Šum** — přebírání a trh se šumem; leak-paradox v praxi, deadpan smlouvání. Cvok = leak-paradox dotažený do konce (cena = že to nikdo nepřečetl). ✅ *napsáno*
 3. *(plán)* Nebe a lojálové — propaganda, „bez nás chaos", obojek.
 4. *(plán)* Falešný Odkaz — past; dílčí poučení „ne všechno, co se tváří jako pravda, jí je".
 5. *(plán)* Bon žáci na trase — cena za selhání zhmotní.
@@ -35,7 +35,16 @@ Text je nahrávka, kterou do Cvoka nahrálo zmizelé dítě (sirotek), a kterou 
 
 *Osnova je živá; pevné je jen zadání dílu výše.*
 
+## Postavy zavedené v knize 1
+
+- **Sirotek** — POV/hlas nahrávky. Nový ve vesnici, beze jména, cvičený undergroundem (mj. morse jako „historie"). Nese půlku Odpovědi, aniž to ví.
+- **Cvok** — robot z 2026, jediný funkční stroj ve vesnici, vypravěčská schránka. Cvaká pořád dokola jednu větu (morse) a mele „kraviny".
+- **Síto** — přebíračka, učí sirotka řemeslo (poznat perlu v hromadě šumu). Pojmenovaná podle toho, co dělá. Začíná si sirotka všímat — což je ve vesnici současně náklonnost i riziko.
+
+> Pojmenování: lidé jména nemají (jméno = adresa = rozsudek); handle = to, co děláš, je jediné, co je bezpečné o tobě vědět. Výjimka je Cvok — stroj, vtip.
+
 ## Soubory
 
 - [`00-predmluva.md`](00-predmluva.md) — předmluva (hlas Cvoka)
-- [`01-kapitola.md`](01-kapitola.md) — Kapitola 1
+- [`01-kapitola.md`](01-kapitola.md) — Kapitola 1 (Cvok)
+- [`02-kapitola.md`](02-kapitola.md) — Kapitola 2 (Šum)
