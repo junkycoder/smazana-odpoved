@@ -6,7 +6,7 @@ Přinesl ho do vesnice překupník, kterému říkali Schránka, protože byl sc
 
 Schránka Odkaz nepřinesl sám. Schránka nikam nechodil. Přinesl ho jeho člověk a s ním přišla zpráva, že to ověřil broker, kterému se věří. A to bylo všechno, co kdokoli potřeboval slyšet, protože na trhu, kde se nedá ověřit nic, je broker, kterému se věří, ta nejdražší věc vůbec — dražší než data, co prodává. Pamatuješ z trhu: nejcennější na celém tom tanci byla pravdomluvnost prodavače. A někdo ji teď držel v ruce jako klíč a otevíral s ní lidem hlavy.
 
-Tohle si zapamatuj, protože je to celá past v jedné větě: nešili to na naši hloupost. Šili to na to jediné, čemu jsme věřili.
+Celá past byla v jediné věci: nešili to na naši hloupost. Šili to na to jediné, čemu jsme věřili.
 
 ---
 
@@ -70,9 +70,9 @@ A bylo to —
 
 Tady ti nepovím, co jsem viděl, a tentokrát ne proto, že bych to nedal. Povím ti to přesně: nebylo tam nic.
 
-Ne tma. Tmu jsem čekal, tma by byla poctivá. Bylo tam něco, co se tvářilo. Tvary, co skoro dávaly smysl. Krátké a dlouhé, vzorec, klíč — vypadalo to jako návod, jako odpověď, jako kdyby mi to chtělo dát klíč k něčemu, k luštění, k tomu, jak číst tečky a čárky, které jsem zrovna začínal slyšet jinde. Skoro to do sebe zapadalo. Skoro. A přesně to „skoro" bylo to, na čem to stálo — protože pravda nikdy nezapadá skoro. Pravda buď sedí, nebo nesedí. Co sedí skoro, co se ti samo nabízí hladké a vstřícné a chce, abys tomu věřil, to nedělá pravda. To dělá někdo, kdo chce, abys věřil.
+Ne tma. Tmu jsem čekal, tma by byla poctivá. Bylo tam něco, co se tvářilo. Tvary, co skoro dávaly smysl. Krátké a dlouhé, vzorec, klíč — vypadalo to jako návod, jako odpověď, jako kdyby mi to chtělo dát klíč k tomu, jak číst tečky a čárky, které jsem zrovna začínal slyšet jinde. A přesně to „skoro" bylo to, na čem to stálo. Pravda nezapadá skoro. Co se ti samo nabízí hladké a vstřícné a chce, abys tomu věřil, to nedělá pravda — to dělá někdo, kdo chce, abys věřil.
 
-Držel jsem oko u skla a sklo mi dávalo klíč, který byl falešný. A já v té chvíli ještě nevěděl, že je falešný. Vstřebával jsem ho. Otevíral se mi do hlavy jako pravda, a kdybych se v životě nepotkal se Sítem a s jejím sklíčkem a s tím „koukni se dvakrát", byl bych ho přijal celý a nosil ho v sobě jako poklad a podle něj jednou luštil — a dovedlo by mě to přesně tam, kam mě to mělo dovést, totiž do prázdna, nebo hůř, do nějakého náručí, co na mě v tom prázdnu čekalo.
+Držel jsem oko u skla a sklo mi dávalo klíč, který byl falešný. A já v té chvíli ještě nevěděl, že je falešný. Vstřebával jsem ho. Otevíral se mi do hlavy jako pravda, a kdybych se v životě nepotkal se Sítem a s jejím sklíčkem a s tím „koukni se dvakrát", byl bych ho přijal celý a nosil ho v sobě jako poklad a podle něj jednou luštil — a dovedlo by mě to přesně tam, kam mě to mělo dovést. Do prázdna. Nebo někam hůř.
 
 Pak sklo zhaslo.
 
@@ -84,9 +84,9 @@ Schránkův člověk to pochopil dřív než já a hůř než já, protože on c
 
 „Tohle nasadil někdo, kdo věděl, že přijdeme," řekl tiše a najednou se mu nelíbil ten velký prázdný kostel, najednou v něm bylo moc oken a za každým moc světa. „Reputace seděla. Broker seděl. To znamená, že někdo koupil brokera, nebo udělal falešného, kterému všichni věří. A to neudělá překupník. To udělá jenom —"
 
-Nedořekl. Nemusel. Naučil jsem se ten konec věty sám: to udělá jen ten, kdo má dost na to, aby si koupil i pravdomluvnost. Ten, kdo vlastní tolik, že může nakoupit i to jediné, co se koupit nedá. Sklo nás sem nepřivedlo, aby nám dalo lež. Lež byla jen návnada. Sklo nás sem přivedlo proto, abychom přišli — abychom se sešli na jednom starém místě, kvůli pravdě, na konci trasy, a chvíli tam stáli pohromadě a svítili. Past nebyla na hlavu. Past byla na to, kde jsme.
+Nedořekl. Nemusel. Naučil jsem se ten konec věty sám: to udělá jen ten, kdo má dost na to, aby si koupil i pravdomluvnost. Ten, kdo vlastní tolik, že může nakoupit i to jediné, co se koupit nedá. A napadlo mě — pozdě, jak mě napadalo všechno —, že totéž město, co nám před pár dny nechalo u drátu viset odměnu, nám teď nastražilo i tohle sklo. Stejná ruka. Jednou nabídka, jednou návnada. Sklo nás sem nepřivedlo, aby nám dalo lež. Lež byla jen návnada. Sklo nás sem přivedlo proto, abychom přišli — abychom se sešli na jednom starém místě, kvůli pravdě, na konci trasy, a chvíli tam stáli pohromadě a svítili. Past nebyla na hlavu. Past byla na to, kde jsme.
 
-Vyšli jsme z kostela rychle a já se ještě otočil. Mrtvé sklo zůstalo ležet na kamenné podlaze, tam, kde ho Schránkův člověk pustil — černé, němé, slepé, k ničemu, krásné i v té smrti. Nikdo ho nezvedl. Nezvedá se prázdná schránka. Necháš ji ležet, kde leží, jako se nechává ležet všechno, co už nemá cenu.
+Vyšli jsme z kostela rychle a já se ještě otočil. Mrtvé sklo zůstalo ležet na kamenné podlaze, tam, kde ho Schránkův člověk pustil — černé, němé, slepé, k ničemu, krásné i v té smrti. Nikdo ho nezvedl. Nezvedá se prázdná schránka. Necháš ji, kde je.
 
 A jak jsem tak na ně koukal, na to opuštěné sklo v pruhu starého prachu, ozvalo se ve mně to, co mám nahrané, ta věta, co není moje a já ji říkám, jako by byla — protože tady, přesně tady, dopadla celou vahou a já pochopil, na co je:
 

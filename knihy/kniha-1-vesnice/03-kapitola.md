@@ -44,13 +44,13 @@ A šla dál, jako by nic neřekla.
 
 ---
 
-Přihlášený byl zdvořilý a to bylo nejhorší. Kdyby řval, kdyby mlátil, bylo by to čitelné, věděl bys, na čem jsi. On se usmíval. Ptal se, jak se daří. Litoval nás.
+Přihlášený byl zdvořilý, a to se snáší hůř než řev. Kdyby mlátil, věděl bys, na čem jsi. On se usmíval. Ptal se, jak se daří. Litoval nás.
 
 To mě dostalo nejvíc — že nás litoval. Stál uprostřed vesnice, která ho neživila a nepotřebovala a nikdy mu nic neudělala, a bylo mu nás upřímně líto.
 
 „Jak tady vůbec žijete," řekl a rozhlédl se, a nebyl v tom posměch, byl v tom soucit. „Bez obojku. Jak vůbec víte, kdo si co zaslouží?"
 
-Nikdo mu neodpověděl. Síto zrovna nesla mísu od baráku k baráku a beze slova mu jednu plnou postavila do ruky, jak míjela, jako se podává kolemjdoucímu, co vypadá hladově — ne vlídně, ne nevlídně, prostě proto, že se to dělá. On tu mísu vzal a díval se na ni a nevěděl, co s ní. Viděl jsem mu to na očích. Hledal, kde se to účtuje. Komu za to dluží, kdo mu to připíše, jaká je za to cena a kam se ta cena zapíše. A ono se to nikam nezapisovalo, byla to jen mísa jídla od ženské, co jde kolem, a tohle on neuměl. Neměl na to orgán. Stál tam s plnou mísou v ruce, přihlášený, ocejchovaný, napojený na proud informací, co mu z kapsy říkal, kde je doma a co tam má, a nedokázal pobrat jednu mísu kaše, protože nešla zaúčtovat.
+Nikdo mu neodpověděl. Síto zrovna nesla mísu od baráku k baráku a beze slova mu jednu plnou postavila do ruky, jak míjela, jako se podává kolemjdoucímu, co vypadá hladově — ne vlídně, ne nevlídně, prostě proto, že se to dělá. On tu mísu vzal a nevěděl, co s ní. Viděl jsem mu to na očích: hledal, kde se to účtuje. A ono se to nikam neúčtovalo. Byla to mísa kaše od ženské, co jde kolem, a tohle on neuměl. Stál tam, ocejchovaný, napojený na proud, co mu z kapsy říkal, kde je doma — a nedokázal pobrat jednu mísu, protože nešla zaúčtovat.
 
 „Bez nás by tu byl chaos," řekl nakonec, spíš pro sebe, jako se říká věc, na kterou jsi zvyklý a nepotřebuješ ji dokazovat. Řekl to a kolem něj tekl proud do drátu, a lidi jedli, a kola se točila, a všechno do jednoho běželo bez něj i bez toho, k čemu se on přihlásil. Stál uprostřed pracujícího řádu a litoval nás, že žádný nemáme. Nikdo se nezasmál. Smát se nahlas je hluk a hluk je adresa. Smál jsem se uvnitř, kde to nikdo neměří, a ani to nebyl moc smích, spíš taková zima v bránici.
 
@@ -74,7 +74,7 @@ Odešel k drátu. Obešel ho, sáhl si na něj tam, kde se na něj smělo sahat,
 
 A šel.
 
-Trvalo mi dlouho, než mi došlo, co řekl. Neřekl hrozbu. Hrozba se pozná. On řekl nabídku, a nabídka je horší, protože nabídka nepotřebuje jeho. Stačí, že ji slyšel někdo z nás. Stačí, že odteď ví aspoň jeden člověk ve vesnici, že existuje cena, kterou někdo zaplatí za to, co se tady válí, a že tu cenu platí město rád. Hrozbu drží ten, kdo ji řekl. Nabídku už drží ten, kdo ji uslyšel. Přihlášený si ji nesl pryč prázdnou rukou — nechal ji celou tady, mezi námi, položenou ve vzduchu jak ten Odkaz, o kterém jsem ještě nevěděl. Drát teče, řekl, a bylo by ho škoda. Tím nás nezval, aby udával. Tím nám připomněl, že stačí jeden z nás, a že on i my teď víme, že stačí jeden z nás. Odešel a nechal nám tu sebe v každém z nás, kdo přemýšlel o slušné odměně.
+Trvalo mi dlouho, než mi došlo, co řekl. Neřekl hrozbu — hrozba se pozná a drží ji ten, kdo ji vyslovil. Řekl nabídku. A nabídku už drží ten, kdo ji slyšel. Odešel s prázdnou rukou a nechal ji viset ve vzduchu mezi námi, ať si ji vezme, kdo bude mít hlad. Stačil jeden z nás. A teď to věděl on i my.
 
 ---
 

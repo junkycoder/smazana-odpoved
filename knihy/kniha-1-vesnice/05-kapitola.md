@@ -8,6 +8,8 @@ Druhá čára přišla z vesnice a tu jsem si nepřivedl já. Někdo poslal obra
 
 Jedna čára z kostela. Jedna čára z vesnice. A tam, kde se dvě čáry protnou, není místo. Je tam bod. A v tom bodě jsme stáli my.
 
+Půlku té druhé čáry jsem nenakreslil já. Ale vinu si člověk nedělí na půl — buď ji unese celou, nebo to není jeho vina.
+
 ---
 
 Síto to poznala z nebe dřív, než to kdokoli z nás mohl vědět odjinud.
@@ -18,7 +20,7 @@ Stáli jsme u její boudy, byl podvečer, na nebi dávali počasí — měkké, 
 
 „Jdou sem," řekla. Ne nahlas. Ne jako poplach. Jako předpověď. Odpoledne přejde fronta, k večeru přijdou pro nás. „Sbalte se. Tiše."
 
-A vesnice se sbalila tiše, a to bylo to nejhroznější a nejkrásnější, co jsem do té doby viděl — jak se vesnice, o které celé město na nebi tvrdilo, že je to chaos a bordel a propadlá kdovíkam, sbalila beze slova, bez křiku, bez jediného, kdo by velel, a každý věděl, co má dělat, a dělal to, a pomáhali si, a do čtvrt hodiny byla půlka vesnice připravená zmizet do tmy a druhá půlka rozhodnutá zůstat u drátu, protože drát se nedá sbalit a někdo u něj zůstat musí. Nikdo to neřídil. A běželo to. Přesně to, co nám nebe ukazovalo jako důkaz zkázy, nás teď zachraňovalo, hladce a tiše a bez pána, zatímco pán se k nám stahoval shora, aby nám připomněl, jak bychom bez něj byli ztracení.
+A vesnice se sbalila tiše, a to bylo to nejhroznější a nejkrásnější, co jsem do té doby viděl — jak se vesnice, o které celé město na nebi tvrdilo, že je to chaos a bordel a propadlá kdovíkam, sbalila beze slova, bez křiku, bez jediného, kdo by velel, a každý věděl, co má dělat, a dělal to, a pomáhali si, a do čtvrt hodiny byla půlka vesnice připravená zmizet do tmy a druhá půlka rozhodnutá zůstat u drátu, protože drát se nedá sbalit a někdo u něj zůstat musí. Nikdo to neřídil. A běželo to. Přesně to, co nám nebe ukazovalo jako důkaz zkázy, nás teď tiše zachraňovalo, zatímco se pán stahoval shora.
 
 ---
 
@@ -28,7 +30,7 @@ Přišlo to po zemi, vzduchem i přes vodu, ze tří stran, tiše a věcně, jak
 
 Schoval jsem se se Sítem v kůlně, kde se sušilo to, co nebylo prádlo, a dírou po vypadlém prkně jsem se díval ven, ačkoli se dívat nemělo. Viděl jsem, jak to prošlo kolem. Viděl jsem, jak se to zastavilo u baráku, kde ještě před chvílí někdo byl, a jak po chvíli u toho baráku nikdo nebyl. Žádný zvuk. Žádný boj. Nikdo nekřičel, protože křičet je hluk a hluk je adresa a tihle lidé celý život věděli, že poslední, co uděláš, je, že na sebe upozorníš — tak i v té poslední chvíli mlčeli, a to mlčení bylo horší než každý křik, jaký jsem si uměl představit. Byli, a pak nebyli. Zůstala po nich díra a v té díře stál prach a nehýbal se.
 
-Síto mě držela za rameno a tiskla, ne aby mě uklidnila, ale aby mě udržela, protože jsem se chtěl dívat nahoru, na to, co přelétalo, a ona mi nedovolila zvednout hlavu. „Nahoru se koukni, až to budou chtít," sykla. „Teď koukej dolů. Dolů, slyšíš." A držela mě skloněného, dívala se mi do očí svým jedním okem bez sklíčka, holým, lidským, a v tom oku byl strach, ale nebyl o ni. Poprvé jsem viděl, že Síto má strach o někoho jiného než o sebe, a ten někdo jsem byl já, a měl jsem v té chvíli pochopit, že tím je ztracená — že každý, kdo se o tebe v tomhle světě začne bát, právě tím o krok ustoupil ze svého bezpečí a postavil se k tobě, na terč.
+Síto mě držela za rameno a tiskla, ne aby mě uklidnila, ale aby mě udržela, protože jsem se chtěl dívat nahoru, na to, co přelétalo, a ona mi nedovolila zvednout hlavu. „Nahoru se koukni, až to budou chtít," sykla. „Teď koukej dolů. Dolů, slyšíš." A držela mě skloněného, dívala se mi do očí svým jedním okem bez sklíčka, holým, lidským, a v tom oku byl strach, ale nebyl o ni. Poprvé jsem viděl, že se Síto bojí o někoho jiného než o sebe, a ten někdo jsem byl já. To ji řadilo ke mně. A ke mně se řadit nevyplácelo.
 
 ---
 
@@ -42,15 +44,15 @@ Tam uvnitř, ve tmě, svítilo to jedno oko a to druhé ne, a Cvok cvakal. Cvak,
 
 A nechalo ji být.
 
-Zastavilo se to, vzalo si to míru toho, co uvnitř kape, podržel jsem to v hlavě jako věčnost a bylo to možná dvě vteřiny, a pak se to pohnulo dál. Protože to slyšelo kohoutek. Protože to bylo cvičené na cenu a tahle bedna neměla cenu — cvakala jako porouchaný stroj, jakých byly plné všechny vesnice, k ničemu, mluvící samé kraviny, blázen, co kape. Nikdo nesbírá odpad. Nikdo nepohřbívá smetí. Kavalerie prošla kolem největší věci v té vesnici a minula ji přesně z toho důvodu, z jakého ji míjela vesnice dvacet šest let: protože vypadala, že se má nechat ležet.
+Zastavilo se to, vzalo si to míru toho, co uvnitř kape, podržel jsem to v hlavě jako věčnost a bylo to možná dvě vteřiny, a pak se to pohnulo dál. Slyšelo to kohoutek. Poslouchalo hlas a poslouchalo písmena, jako poslouchá všechno, co loví — a tohle nebyl hlas ani písmena, bylo to krátké a dlouhé bez hlasu, slepé místo, na které jsou tihle hluší. A i kdyby ne: bylo to cvičené na cenu, a tahle bedna žádnou neměla. Cvakala jako porouchaný stroj, jakých byly plné všechny vesnice, k ničemu, blázen, co kape. Nikdo nesbírá odpad. Nikdo nepohřbívá smetí. Kavalerie prošla kolem největší věci v té vesnici a minula ji přesně z toho důvodu, z jakého ji míjela vesnice dvacet šest let: protože vypadala, že se má nechat ležet.
 
-Tehdy jsem to pochopil celé, a pochopil jsem to tělem, ne hlavou, tím vydechnutím, když se to od boudy konečně pohnulo pryč. Pochopil jsem, proč Odpověď přežila konec světa, jestli to teda byla Odpověď, což jsem ještě nevěděl. Přežila tak, jak přežil Cvok. Schovaná tak blbě, tak bezcenně, tak okatě k ničemu, že ji čistka minula. Velké mazání šlo dům od domu a bralo všechno, co mělo cenu, a tahle jediná věc přežila právě tím, že vypadala, že žádnou nemá. Nejlepší trezor není ten nejpevnější. Nejlepší trezor je ten, který nikdo nechce vyloupit, protože vypadá prázdný. Lesklé sklo v kostele bylo prázdné a všichni mu věřili. Bedna v kůlně byla plná a všichni ji míjeli. A já se na to celou dobu díval a viděl jsem to obráceně, jako se to vidět má, jako to ten, kdo to schoval, chtěl, aby se to vidělo.
+Pochopil jsem to až tělem, tím vydechnutím, když se to od boudy konečně pohnulo pryč. Pochopil jsem, proč Odpověď přežila konec světa — jestli to teda Odpověď byla, což jsem ještě nevěděl. Přežila tak, jak teď přežil Cvok: schovaná tak blbě, tak okatě k ničemu, že ji čistka minula. Velké mazání šlo dům od domu a bralo všechno, co mělo cenu, a tahle jediná věc přežila právě tím, že vypadala, že žádnou nemá.
 
 ---
 
 Když to odešlo, vesnice byla menší.
 
-To se nedá říct líp. Nebyla rozbitá. Nehořela. Stála skoro celá, dráty visely, kola byla na svých místech, mísy ležely, kde je kdo nechal. Jen v ní bylo míň lidí, a ti, co zbyli, se nedívali jeden na druhého, protože dívat se jeden na druhého by znamenalo počítat, kdo chybí, a počítat nahlas, kdo chybí, je další způsob, jak udělat z bolesti adresu. Tak se nepočítalo. Mlčelo se a uklízelo a večer se vařilo, a na některých talířích zůstalo víc, než kdo snědl, protože ten, komu se to nakládalo, tu už nebyl. Pamatuješ, jak jsem poznal, že mě mají rádi — z talíře, ne z pusy, z toho, že mi nechali víc jídla. Teď jsem se učil to opačné. Plný talíř, který nikdo nesní, je člověk, co zmizel. Láska a ztráta se ve vesnici poznávaly stejně, ze stejného místa, z toho, kolik zbylo na talíři. Jednou víc, protože tě mají rádi. Jednou víc, protože tě už nemá kdo mít rád.
+To se nedá říct líp. Nebyla rozbitá. Nehořela. Stála skoro celá, dráty visely, kola byla na svých místech, mísy ležely, kde je kdo nechal. Jen v ní bylo míň lidí, a ti, co zbyli, se nedívali jeden na druhého, protože dívat se jeden na druhého by znamenalo počítat, kdo chybí, a počítat nahlas, kdo chybí, je další způsob, jak udělat z bolesti adresu. Tak se nepočítalo. Mlčelo se a uklízelo a večer se vařilo, a na některých talířích zůstalo víc, než kdo snědl, protože ten, komu se to nakládalo, tu už nebyl. Jeden z těch talířů byl po tom od trhu, o kom říkali, že nikdy neprodal hovno. Pověst, že nelže, byla na trhu ta nejdražší věc vůbec — a jeho nezachránila. Pamatuješ, jak jsem poznal, že mě mají rádi — z talíře, ne z pusy, z toho, že mi nechali víc jídla. Teď jsem se učil to opačné. Plný talíř, který nikdo nesní, je člověk, co zmizel. Láska a ztráta se ve vesnici poznávaly stejně, ze stejného místa, z toho, kolik zbylo na talíři. Jednou víc, protože tě mají rádi. Jednou víc, protože tě už nemá kdo mít rád.
 
 Síto mě tu noc nepustila k sobě domů spát samotného o kus dál, jak to bývalo. Nechala mě u sebe, u dveří, na dosah. Neřekla proč a já se neptal, protože proč jsem věděl: protože mě teď nechtěla pustit z dohledu, a to bylo to nejhezčí a nejhloupější, co pro mě mohla udělat. Nejhezčí, protože to znamenalo, že jsem pro ni přestal být kluk, co přebírá hromadu, a stal jsem se někým, koho drží na očích. Nejhloupější, protože v tom světě byl člověk, kterého držíš na očích, přesně ten člověk, kvůli kterému tě jednou najdou. Měla mě pustit. Věděla, že mě má pustit. Nepustila. Mít rád a prozradit se dělalo i tady jedním pohybem, a Síto ten pohyb udělala, s otevřenýma očima, protože některé věci uděláš, i když víš, že tě stojí krk, a možná je děláš právě proto.
 

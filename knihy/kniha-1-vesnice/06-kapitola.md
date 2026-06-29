@@ -1,6 +1,6 @@
 # Kapitola šestá — Tvar
 
-Aby člověk slyšel tu větu, musela napřed zmizet půlka vesnice. To je na tom to nejhorší a já to říkám rovnou, protože to tak bylo a předstírat, že to bylo jinak, bych neuměl o nic líp než Cvok.
+Aby člověk uslyšel tu větu, musela napřed zmizet půlka vesnice. Tak to bylo. Předstírat, že to bylo jinak, bych neuměl o nic líp než Cvok.
 
 Dokud vesnice dělala plný proud, dokud se točila všechna kola a šlapalo se ve dne v noci a kašlalo se do tmy a vrzalo a drhlo a žilo, Cvokovo cvakání bylo jen jedna nitka v tom všem, slabá, na kraji, lehko přeslechnutelná. Proto ho nikdo neslyšel celý. Ne proto, že by byli hluší — protože ho přehlušoval život. A teď, když života ubylo, když na talířích zbývalo víc a kol se točilo míň a v tom novém řídkém tichu nebylo skoro nic, co by tu nitku přehlušilo, bylo cvakání najednou slyšet čistě. Vystouplo. Jako vystoupí kámen na dně, když z potoka odteče voda.
 
@@ -30,9 +30,9 @@ A teprve tehdy to cvaklo.
 
 ---
 
-Tady ti musím něco říct na rovinu, protože jsi to čekal a já tě nenechám čekat dál nadarmo: nepřečetl jsem ji.
+Řeknu ti to na rovinu: nepřečetl jsem ji.
 
-Tu větu, co Cvok cvaká, jsem ti nerozluštil a nerozluštím ti ji tady, a tentokrát to není proto, že bych narazil na díru v nahrávce, ani proto, že bych to tenkrát nedal. Je to proto, že to přečíst — pořádně, celé, pravým klíčem, ne tím falešným — by stálo víc, než jsem byl tenkrát ochotný zaplatit, a než jsem to byl ochotný zaplatit, byl jsem jinde a věci byly jinak a to už je opravdu jiná kapitola, na kterou tady ještě nejsme. Tady, v té kůlně, to ráno, jsem nedostal větu. Dostal jsem něco menšího a většího zároveň. Dostal jsem jistotu, že ta věta je.
+Tu větu, co Cvok cvaká, jsem ti nerozluštil a nerozluštím ti ji tady. Tentokrát ne proto, že bych narazil na díru v nahrávce. Přečíst ji pořádně, celou, pravým klíčem, ne tím falešným — to by stálo víc, než jsem byl tenkrát ochotný zaplatit. A to je jiná kapitola, na kterou tady ještě nejsme. Tady, v té kůlně, to ráno, jsem nedostal větu. Dostal jsem něco menšího a většího zároveň. Dostal jsem jistotu, že ta věta je.
 
 Protože bez falešného klíče, jen s tím, co mě naučila Síto — poznat tvar —, jsem konečně přestal poslouchat, co to znamená, a začal poslouchat, jak to je postavené. A bylo to postavené. Mělo to krátké a dlouhé na stálých místech. Mělo to mezery, a mezery padaly pokaždé stejně. Mělo to začátek a konec a mezi nimi tvar, který se dořekl, na okamžik se zarazil, jako se člověk nadechne, a pak začal zase od začátku, přesně stejně, beze změny, znova a znova. Nebyl to kapající kohoutek. Kohoutek kape mrtvě, nahodile, pokaždé jinak a pokaždé stejně nudně. Tohle byla věta. Jedna jediná věta, řečená pořád dokola, dvacet šest let, trpělivě, do prázdné kůlny, do vesnice, co poslouchala na půl ucha a slyšela blázna.
 
@@ -56,13 +56,11 @@ Cvok ztichl dýl než předtím. Cvak. Cvak-cvak. Cvak. Jako by hledal v sobě m
 
 Mám slova, nemám, čí jsou.
 
-Stál jsem v té kůlně a Cvok mi právě, aniž to věděl, aniž tušil, co mi tím udělal, podal celou tu otázku obrácenou naruby. Protože já se celou knihu, celé ty dny, od prvního večera ve dveřích té boudy, ptal: co je to za stroj? Co to je, co dělá, k čemu je, co znamená to cvakání. A byla to celou dobu špatná otázka. Stroj není nic. Stroj je bedna, co páchne prachem a má křivou hvězdu a kape jednu větu. Na stroji nezáleží. Záleží na tom, že tu větu tam někdo dal — a ten někdo ji tam dal před tím vším, dávno, předem, do schránky, o které věděl, že přežije, protože vypadá, že se má nechat ležet. Někdo tu větu schoval a čekal. A jestli ji schoval, schoval ji před někým. A jestli ji schoval před někým, pak ta správná otázka nezní co je to za stroj.
+Stál jsem v té kůlně a ta věta mi obrátila otázku naruby, aniž to Cvok tušil. Ptal jsem se celou dobu: co je to za stroj? Špatně. Stroj je bedna, co kape. Na stroji nezáleží. Záleží na tom, že tu větu tam někdo dal — dávno, předem, do schránky, o které věděl, že přežije, protože vypadá, že se má nechat ležet. Schoval ji a čekal. A kdo něco schová, schová to před někým. Otázka nezní co je to za stroj.
 
 Zní: čí je ten stroj.
 
-Kdo do něj tu větu vložil. Před kým ji schoval. Komu patří — ne ta bedna, ta je k ničemu, ale to, co bedna nese. Čí to je. A na tu otázku v té kůlně nebyla odpověď a já věděl, že v té vesnici nebude, protože vesnice znala Cvoka dvacet šest let jako blázna, co kape, a kdo by se ptal, čí je blázen. Odpověď na čí byla někde jinde. Venku. Za trasou. Ve světě, odkud sklo přišlo a kam stoupal drát a kde seděl ten, kdo si může koupit i pravdomluvnost.
-
-Tak jsem si to tehdy srovnal. Že odpověď je venku a že za ní budu muset ven.
+Na to v té vesnici odpověď nebyla — vesnice znala Cvoka dvacet šest let jako blázna, co kape, a kdo by se ptal, čí je blázen. Odpověď na čí byla venku. Za trasou. Tam, odkud přišlo sklo a kam stoupal drát. Tak jsem si to tehdy srovnal: že je venku a že za ní budu muset jít.
 
 Mýlil jsem se a nevěděl jsem to, a ty to ještě taky nevíš, tak ti to nepokazím. Řeknu jen, co jsem věděl tenkrát, v té poloze, ve které si člověk v noci není jistý, jestli to vůbec myslel: že hon, který se kvůli té větě jednou rozjede, zamíří ven, do měst, do světa, za půlkou, co tam někde je. A že celou tu dobu bude mířit špatně, protože ta věc, za kterou se honí, seděla od první stránky v kůlně na kraji vesnice a kapala, a nikdo, ani ti, co po ní šli, ani ti, co ji schovávali, ani já, kdo na ni první přišel, se nepodíval na tu nejlevnější věc v dohledu a neřekl si: tady. Tady to celou dobu leží. Pod cenou. Tam, kde se nikdo nepere.
 
@@ -72,21 +70,21 @@ Síto věděla, že odejdu, dřív než já. Síto věděla většinu věcí dř
 
 Když jsem se vrátil od Cvoka, čekala u své boudy a měla na sobě ten výraz, co jsem u ní viděl, jen když přebírala — ten, kterým se dívala na hromadu a hodnotila, co nechat a co donést. Akorát teď se tak dívala na mě.
 
-„Tobě to došlo," řekla. Nebyla to otázka. Ve vesnici se otázky neptaly, otázky se konstatovaly.
+„Tobě to došlo," řekla. Nebyla to otázka. U Síta nikdy.
 
 „Co mi došlo?"
 
-„To je jedno co. Důležitý je, že ti něco došlo, a vidím ti to na očích, a když to vidím já, uvidí to i ten, kdo bude koukat hůř než já a chtít víc." Prosypala mě naposledy přes to svoje sklíčko, přes ten holý pohled, a tentokrát jsem cítil, jak mnou propadá, a jak jí na dně něco zůstává, a jak to něco není radost. „Učíš se rychle. To už jsem ti říkala, že to není vždycky dobře. Teď ti řeknu, proč to není dobře. Dokud jsi byl kluk, co nic neumí, byl jsi pod cenou. Nejlevnější věc ve vesnici. O nejlevnější věc se nikdo nepere a je to ten nejbezpečnější druh existence, jakej znám. Tys přestal být pod cenou. Něco víš. A kdo něco ví, ten v tomhle světě svítí, a kdo svítí, toho najdou."
+„To je jedno co. Důležitý je, že ti něco svítí na očích, a když to vidím já, uvidí to i ten, kdo kouká hůř a chce víc." Prosypala mě naposledy přes to svoje sklíčko, přes ten holý pohled, a tentokrát jsem cítil, jak mnou propadá, a jak jí na dně něco zůstává, a jak to něco není radost. „Učíš se rychle. To už jsem ti říkala, že to není vždycky dobře. Teď ti řeknu, proč to není dobře. Dokud jsi byl kluk, co nic neumí, byl jsi pod cenou. Nejlevnější věc ve vesnici. O nejlevnější věc se nikdo nepere a je to ten nejbezpečnější druh existence, jakej znám. Tys přestal být pod cenou. Něco víš. A kdo něco ví, ten v tomhle světě svítí, a kdo svítí, toho najdou."
 
 Mlčel jsem, protože měla pravdu a protože říct to nahlas by tu pravdu jen postavilo doprostřed, kde si ji každý mohl vzít.
 
-„Trasa se otevře ráno," řekla. „Půjdeš po ní. Ne proto, že tě poháním. Proto, že zůstat na místě, když ti došlo, co tobě došlo, je totéž jako stát, a stát, to víš." Stůj, a jsi mrtvý. Říká se to jako počasí. „Půjdeš sám. Tak se nestojí na místě ani uvnitř hlavy."
+„Trasa se otevře ráno," řekla. „Půjdeš po ní. Ne proto, že tě poháním. Proto, že zůstat na místě teď, když víš, je totéž jako stát, a stát, to víš." Stůj, a jsi mrtvý. Říká se to jako počasí. „Půjdeš sám. Tak se nestojí na místě ani uvnitř hlavy."
 
-Chtěl jsem říct, že nechci jít sám. Že bych radši zůstal u ní, u její boudy, u jejího sklíčka, u talíře, na kterém mi nechávala víc. Neřekl jsem to, protože jsem věděl, co by řekla ona: že zůstat u ní je to nejnebezpečnější, co můžu udělat, protože ona je vidět, má rukopis, je čitelná, krmí i toho, kdo by ji udal — a kdyby u ní zůstal kluk, co svítí, byli by vidět dva a našli by oba. Mít rád a pustit bylo v tom světě jedním pohybem stejně jako mít rád a prozradit. Držet mě by mě zabilo. Pustit mě byl jediný způsob, jak mě nechat žít, a Síto, která mě tu noc předtím nepustila z dohledu, mě teď pouštěla do světa, a obojí byla táž láska, jen jednou slabá a jednou silná.
+Chtěl jsem říct, že nechci jít sám. Že bych radši zůstal u ní, u její boudy, u jejího sklíčka, u talíře, na kterém mi nechávala víc. Neřekl jsem to, protože jsem věděl, co by řekla: že zůstat u ní je to nejnebezpečnější, co můžu udělat. Ona je vidět. Má rukopis. A kdyby u ní zůstal kluk, co svítí, našli by oba. Držet mě by mě zabilo. Pustit byl jediný způsob, jak mě nechat žít.
 
 Ráno mi na cestu nedala radu. Nedala mi mapu, protože mapy nejsou a být nesmějí. Dala mi talíř. Plný, plnější než kdy předtím, víc, než jsem mohl sníst, a to, co jsem nesnědl, mi zabalila s sebou, beze slova, protože ve vesnici se láska neříkala z pusy, říkala se z talíře, a tohle byl největší talíř, jaký mi kdy naložila, a oba jsme věděli, co znamená, a ani jeden to neřekl.
 
-Zeptal jsem se jí kdysi, hned na začátku, jestli mě mají rádi. Řekli ano. A já slyšel, jak si pak špitli: zatím. To slovo jsem si nechal, bylo upřímnější. A teď, když jsem stál na začátku otevřené trasy s plným talířem v ruce a Síto za mnou ve dveřích své boudy, došlo mi, že „zatím" právě skončilo. Ne tím, že by mě přestali mít rádi. Tím, že odcházím dřív, než to „zatím" stihne dojít ke svému konci sám. Pustila mě, aby to „zatím“ nikdy nemuselo dopovědět tu druhou půlku.
+Zeptal jsem se jí kdysi, hned na začátku, jestli mě mají rádi. Řekli ano. A já slyšel, jak si pak špitli: zatím. To slovo jsem si nechal, bylo upřímnější. A teď, když jsem stál na začátku otevřené trasy s plným talířem v ruce a Síto za mnou ve dveřích své boudy, došlo mi, že „zatím" právě skončilo. Ne tím, že by mě přestali mít rádi. Tím, že odcházím dřív, než to „zatím" stihne dojít ke svému konci sám. Pustila mě, aby to „zatím" nikdy nemuselo dopovědět tu druhou půlku.
 
 ---
 
@@ -96,7 +94,7 @@ Za zády mi zůstala vesnice, menší, než když jsem do ní přišel, s dráte
 
 Šel jsem hledat, čí je ten stroj. Mířil jsem ven, do světa, protože jsem si byl jistý, že odpověď je tam.
 
-Měl jsem se otočit. Měl jsem se podívat naposledy na tu kůlnu a na sebe a položit ty dvě věci vedle sebe a pak možná, možná, by mi to bylo došlo o čtyři knihy dřív, a stálo by to o čtyři knihy míň. Neotočil jsem se. Šel jsem dál a nepřestával, protože jít a nepřestat je celé to umění, a já se ho konečně naučil — zrovna včas na to, abych šel špatným směrem.
+Měl jsem se otočit. Měl jsem se podívat naposledy na tu kůlnu a na sebe a položit ty dvě věci vedle sebe — a možná by mi to bylo došlo o moc dřív a stálo o moc míň. Neotočil jsem se. Šel jsem dál a nepřestával, protože jít a nepřestat je celé to umění, a já se ho konečně naučil — zrovna včas na to, abych šel špatným směrem.
 
 Cvak. Cvak-cvak. Cvak.
 
