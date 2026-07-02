@@ -32,7 +32,8 @@
 - **Peníze nejsou, jsou jen data.** Stará měna umřela po „qvacet-dva-triliardové" koupi (asteroidový materiál). Dvě valuty: město = BTC, podzemí = data + vzájemná pomoc.
 - **BTC jako obojek.** Etalon vlastní většinu BTC, dvojí měna = peníz i vodítko. Bez BTC se ve městě nenajíš. **Měna, kterou platíš, prozrazuje, do kterého světa patříš.** Most: klonaři a poustevníci (bi-měnoví → privilegovaní, na hraně).
 - **Oficiální peněženky.** Kdo je ve městě přihlášený, drží oficiální BTC peněženky — typicky **jednu osobní + několik k tomu, co dělá** (byznys, projekt, mise), na živobytí i provoz ve městech. Peněženka = persona/projekt; kolik a jakých jich máš, prozrazuje, kdo jsi a co provozuješ.
-- **QR peněženky (in-world × realita) — „ten gól".** V knihách jsou peněženky person/projektů zveřejněné jako **QR** a **odkazují na reálné BTC peněženky**: čtenář může poslat **skutečné satoshi** na podporu persony/projektu z knihy — klidně **ironicky** (podpoř i padoucha, i pasenou spodinu). Reálná vrstva nad fikcí: BTC-obojek z příběhu se venku obrací v dobrovolný dar. Ironie i fintech zároveň; rýmuje se s donate-paradoxem (pánův pětník vzatý zpět na volnou věc).
+- **QR peněženky (in-world × realita) — „ten gól".** V knihách jsou peněženky person/projektů zveřejněné jako **QR** a **odkazují na reálné BTC peněženky**: čtenář může poslat **skutečné satoshi** na podporu persony/projektu z knihy — klidně **ironicky** (podpoř i padoucha, i pasenou spodinu). Reálná vrstva nad fikcí: BTC-obojek z příběhu se venku obrací v dobrovolný dar. Ironie i fintech zároveň; rýmuje se s donate-paradoxem (pánův pětník vzatý zpět na volnou věc). **Diegetické krytí:** oficiální peněženky jsou ve městě **povinně veřejné** (transparentnost jako propaganda „my nemáme co skrývat") — knihy je proto tisknou jako **úřední údaj** (rámeček u persony), žádná výzva, žádné „podpoř"; ironie se nikdy nekomentuje v textu. Rozpis person: K1 cedule odměny (u drátu) · K2 broker agory · K3 Lhářova „charita" + žebrací peněženky pasené spodiny (klíče drží pán) · K4 mrtvé peněženky převratu (náhrobky; prázdnota = důkaz) · K5 Sítin „projekt drát". Technicky: soubor `09-penezenky.md` v každé knize, adresy zatím **placeholder** (`bc1q-DOPLNIT-…`) — před vydáním nahradit reálnými.
+- **Kolík = USB flash disk.** Nejmenší fyzická jednotka dat toho světa; kurýři nosí kolíky, dead-drop žargon „zatlouct kolík". **Sirotkův kolík** = jediné dědictví po rodiči (na šňůrce, zavedeno v K1), nepřečtený — čtečky nejsou. Až na jednu: **Cvok má port** (stroj z 2026); nikdo ho nikdy nezasunul (kdo by strkal kolík do blázna). Zasune se až v K5 kap. 1. V K3 je vyrvaný Cvokův modul „kolík", který pán drží a neví, co má. Finální obraz K5: Cvok = poslední kolík. **Reálná vrstva:** každá kniha má zadní stránku „Kolík" (hlas Cvoka, suchý protokol): zkopíruj knihu na flash disk, polož, kde se nekouká, odejdi — čtenář vykoná dead-drop.
 - **Poustevníci.** Boháči s klonem (veřejno) a tajným životem (z domu nevylezou). Stacionární burzy: lidi k nim chodí prodávat info, data a vzácně **originální média** (negenerovaná — skutečné pixely; vzácnost i risk, reálné pixely = poloha).
 - **Leak-paradox (centrální problém).** Datová měna nefungibilní: cena = obsah, ověřit obsah = utratit ho. Jak prodáš něco, co ztratí cenu ve chvíli, kdy to ukážeš? Trh: brokeři s reputací místo důkazu, vzorky schválně bezcenné ale ověřitelné, deadpan smlouvání o krámy se smrtelnou vážností.
 - **Odkaz = fintech.** Sklo „přečteš jednou, nezjeví se tomu, kdo už to zná" = nástroj na leak-paradox (ověř na místě, nezkopíruj). Bankovní technologie undergroundu.
@@ -101,13 +102,17 @@
 | 4 (Archiv) | Co se stalo v 00? | Asteroidové dole | Spuštění nového mazání (B-finta) | Cross-book |
 | 5 (Kopie 00) | Co je Odpověď? | Robot + Sirotek — spojení půlek | Smyčka se zavře | Sjednocení |
 
-Zaseje se ve 3, plná konvergence v 5. V rozhodující scéně **robot nesmí rozumět.**
+Zaseje se ve 3, plná konvergence v 5. V rozhodující scéně **robot nesmí rozumět** (smí být přesný, nikdy vědoucí).
+
+- **Otázková štafeta:** každá kniha končí obrácením své otázky (K1 co je to za stroj → čí je · K2 kdo je to dítě → co nese · K3 proč chybí → kdo ji doplní · K4 co se stalo v 00 → co se stane v 00 · K5 co je Odpověď → vykonej ji). Závazný vzorec.
+- **Eskalace cen:** K1 půlka vesnice → K2 kurýr + agora → K3 Cvokova paměť (modul) → K4 Rozpůlitel + spuštěné mazání 2.0 → K5 Síto + sirotek. Každá kniha bere něco, co předchozí naučila čtenáře milovat; nikdy nebrat dvakrát totéž.
+- **Playbackové díry** (rámec nahrávky): K2 žádná → K3 tři, poprvé v klimaxu (moment poškození) → K4 v nejtemnějším bodě → K5 playback dožene přítomnost a přejde v nahrávání; kapitoly K5 nesou odpočet 05→00.
 
 ## Tón a co hlídat
 
 - **Satira podaná deadpan.** Mezera mezi plochým tónem a absurdním světem JE ta satira. Postavy berou absurdní svět jako normální. **Absurdní je pán a kreténi, ne svoboda.** Robot nikdy nemrkne. Čeština suchá, jedovatá, klidně sprostá; Adams přes českou cyniku.
 - Stroj zůstává hloupý tam, kde to bolí; autorská vrstva neviditelná.
-- Refrén **„nenech to ležet"** jen **3×, s posunem** (K1 o střepu → K3 o Cvokovi → K5 k čtenáři). Šetřit!
+- Refrén **„nenech to ležet"** jen **3×, s posunem**: ① K1 kap. 4 (o střepu/skle) → ② K3 kap. 4 „Modul" (o Cvokovi — rozhodnutí vrátit se pro „bezcenný" stroj) → ③ K5 Klíč (ke čtenáři). **Předmluva K1 = táž instance ③** (Cvok tlumočí sirotkův závěrečný vzkaz; poslední strana K5 teče slovo za slovem do předmluvy K1 — smyčka se zaklapne, čtvrté použití nevzniká). Šetřit!
 - *„To už jsme jednou dovolili"* = spor K3.
 - Slovník se vrství podle mluvčího; zmizení místo smrti musí nést význam.
 - **Quotable:** *„Kabel na dně oceánu se sám nepřekopne."*
