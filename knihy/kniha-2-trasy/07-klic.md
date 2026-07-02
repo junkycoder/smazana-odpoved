@@ -26,8 +26,8 @@ Jsou i znaky, co neznačí cesty. Značí náklad. Ty ti nedám — ne že bych 
 
 A to jedno, co ti tahle kniha dala, kdybys zapomněl všechno kolem: **znak beze čtenáře neznamená nic.** Můžeš popsat celý svět — dokud to nikdo neumí přečíst, nenapsal jsi nic. A obráceně, a to si nech projít hlavou pomalu: co vypadá jako nic, může být popsaný celý svět. Rozdíl nedělá znak. Rozdíl děláš ty.
 
-Ptal ses celou knihu, kdo je to dítě. Špatně ses ptal. Dítě nikdo není — jméno je adresa a tohle dítě žádnou nemá.
+Ptal ses celou knihu, kdo je to dítě. Špatně ses ptal. Dítě nikdo není. Jméno by byla jen další adresa — a tohle dítě žádnou nemá.
 
 Ptej se: co to dítě nese.
 
-Drž se té otázky. Vede do města. Tam, kde mluví i nebe a kde slova nikomu nic neznamenají. Tam se schovává druhá půlka — a taky ten, kdo ví, proč se vůbec něco muselo půlit.
+Drž se té otázky. Vede do města. Tam, kde mluví i nebe a kde slova nikomu nic neznamenají. Tam vede ta stopa. Jestli vede dobře, nevím — stopa je taky jen znak, a co znak potřebuje, už víš.

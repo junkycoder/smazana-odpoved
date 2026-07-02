@@ -2,7 +2,7 @@
 
 *(Postup znáš z první knihy. Neopakuju ho celý. Opakuju, co se mění.)*
 
-Nic, co je na jednom místě, nepřežije. Tohle je teď u tebe, a ty už možná svůj kolík zatloukl. Dobře. Teď to druhé pravidlo, kurýrské:
+Nic, co je na jednom místě, nepřežije. Tohle je teď u tebe, a tys už možná svůj kolík zatloukl. Dobře. Teď to druhé pravidlo, kurýrské:
 
 Nikdy dvakrát stejnou trasou.
 

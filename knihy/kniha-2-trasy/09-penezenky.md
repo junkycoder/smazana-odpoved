@@ -14,7 +14,7 @@ Agora obchoduje i s městem — přes klonaře, protože město bere jen svoji m
 └──────────────────────────────────────────┘
 ```
 
-A ještě jedna. Tahle nevisí nikde; našla se v botě. Kurýři mívali městskou peněženku pro případ, že by museli platit tam, kde se platí obojkem. Klíče k téhle už nemá nikdo. Co tam pošleš, tam zůstane — nikdo to nevybere, nikdy.
+A ještě jedna. Tahle nevisela. Opíšu ji stejně; našla se v botě a boty nemluví. Kurýři mívali městskou peněženku pro případ, že by museli platit tam, kde se platí obojkem. Klíče k téhle už nemá nikdo. Co tam pošleš, tam zůstane — nikdo to nevybere, nikdy.
 
 ```
 ┌──────────────────────────────────────────┐

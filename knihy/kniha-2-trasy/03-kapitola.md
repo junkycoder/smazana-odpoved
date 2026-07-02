@@ -16,7 +16,7 @@ Bylo to na náspu staré železnice, druhý den od párty. Hák s tečkou jsem p
 
 Neřeknu ti, co po tom náspu přijelo, protože jsem to neviděl — viděl jsem prach nad kolejištěm vpředu a slyšel totéž zezadu a mezi tím byl jen svah dolů, do trní a do potoka. Seděl jsem v tom potoce po krk do soumraku, s hlavou mezi kořeny, a počítal nádechy, a potom, když bylo ticho dost dlouho na to, aby ticho něco znamenalo, jsem vylezl, modrý a rozdrápaný, a hledal v hlíně, čím jsem si to zasloužil.
 
-Tečka pod hákem. Věděl jsem o ní. Přešel jsem ji, protože jsem jí nerozuměl, a čemu nerozumíš, to se rozhodneš nevidět, aby ses nemusel bát. Tam v tom potoce jsem se rozhodl, že radši budu bát.
+Tečka pod hákem. Věděl jsem o ní. Přešel jsem ji, protože jsem jí nerozuměl, a čemu nerozumíš, to se rozhodneš nevidět, aby ses nemusel bát. Tam v tom potoce jsem se rozhodl, že se radši budu bát.
 
 Od té noci jsem se učil glyfy tak, jak se nikdo učit nemá: sám, za pochodu, z chyb. Kreslil jsem si je uhlíkem na vnitřek předloktí, kde si je člověk umyje, kdyby ho prohledávali, a večer je překresloval do hlíny a mazal. Skládal jsem si pravopis z toho, kde znaky stály a co po nich následovalo. Hloubka rytí je hlasitost. Tečka je z obou stran. Dvojitá čára je spěch. Nikdo mě neopravoval, takže každou chybu jsem platil celou cenou, a proto mi vydržely.
 
@@ -36,7 +36,7 @@ Nebylo v tom nic náhodného.
 
 Šel jsem od vesnice tak, jak se posílá balík. Kurýr mě označkoval a od té doby si mě trasy předávaly: tenhle statek mě nakrmil, protože jsem byl v provozu; tamta párty mě poslala východním odchodem, protože na tabuli stála moje značka a šipka; ta ženská, co mi třetí týden „náhodou" nechala na patníku boty po synovi, věděla, že tudy půjde zásilka s mou značkou a v rozpadajících se botách. Každá laskavost, kterou jsem cestou dostal, byla skutečná laskavost — to je na tom to zvláštní, nikdo se nepřetvařoval, ty boty byly teplé a kaše taky. A každá byla zároveň logistika. Milovali mě a doručovali mě, jedním pohybem, a nikdo z nich by nepochopil, proč ty dvě věci od sebe vůbec zkouším odtrhnout.
 
-Seděl jsem tenkrát na kraji lesa nad údolím, žvýkal tvrdý chleba od lidí, co mě měli rádi podle jízdního řádu, a zkoušel se zlobit. Nešlo to pořádně. Zlobit se na trasy za to, že tě nesou, je jako zlobit se na řeku. Ale jedna otázka se z toho vylouply celá a ostrá a už se nezasunula zpátky:
+Seděl jsem tenkrát na kraji lesa nad údolím, žvýkal tvrdý chleba od lidí, co mě měli rádi podle jízdního řádu, a zkoušel se zlobit. Nešlo to pořádně. Zlobit se na trasy za to, že tě nesou, je jako zlobit se na řeku. Ale jedna otázka se z toho vyloupla celá a ostrá a už se nezasunula zpátky:
 
 balík se neposílá jen tak. Balík se posílá někam. Kdo je adresát?
 

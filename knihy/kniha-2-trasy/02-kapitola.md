@@ -18,9 +18,9 @@ Tancoval jsem tedy, špatně, mezi cizími těly, a pochopil další stavební p
 
 ---
 
-Obchod se dál po krajích, v mezerách mezi tancem, rychle.
+Obchodovalo se po krajích, v mezerách mezi tancem, rychle.
 
-Viděl jsem chlapa, co měl na prsou zavěšenou bednu — čtečku. Do čtečky se strkaly kolíky. Ne na prodej, na nahlédnutí: vidíš prvních pár vteřin, schválně bezcenných, a zaplatíš za zbytek. Znal jsem ten tanec z trhu. Tady byl rychlejší a hlasitější a smlouvalo se ukazováky, protože slova nebyla slyšet.
+Viděl jsem chlapa, co měl na prsou zavěšenou bednu — čtečku. Čtečky nejsou, říkalo se doma. Nejsou tam, kde se kouká. Do čtečky se strkaly kolíky. Ne na prodej, na nahlédnutí: vidíš prvních pár vteřin, schválně bezcenných, a zaplatíš za zbytek. Znal jsem ten tanec z trhu. Tady byl rychlejší a hlasitější a smlouvalo se ukazováky, protože slova nebyla slyšet.
 
 A já měl na krku kolík, který jsem neuměl přečíst, a přede mnou poprvé v životě stála věc, která ho přečíst uměla.
 
@@ -28,7 +28,7 @@ Došel jsem k čtečkaři třikrát. Třikrát jsem se otočil. Počtvrté jsem 
 
 Nechal jsem šňůrku, kde byla.
 
-Ne z rozumu. Rozum říkal: udělej to, jednou to udělat musíš, líp anonymně v davu než jinde. Neudělal jsem to, protože ruka nešla. Prostě nešla. Věci, co máš jen jednou, si člověk nechává nepřečtené déle, než je zdrávo — viděl jsem to na trhu u cizích a bylo mi to k smíchu, a teď jsem stál s rukou na šňůrce a nebylo. Vzácná věc tě neudělá bohatým. Udělá tě opatrným, a opatrnost, když jí je moc, je jen strach, co si našel lepší slovo.
+Ne z rozumu. Rozum říkal: udělej to, jednou to udělat musíš, líp anonymně v davu než jinde. Neudělal jsem to, protože ruka nešla. Prostě nešla. Věci, co máš jen jednou, si člověk nechává nepřečtené déle, než je zdrávo — viděl jsem to na trhu u cizích a bylo mi to k smíchu, a teď jsem stál s rukou na šňůrce a nebylo. Vzácná věc tě neudělá bohatým. Udělá tě opatrným.
 
 Čtečkař pokrčil rameny a vzal kolík za mnou. Fronta se pohnula. Svět se nezhroutil. To se stává, když neuděláš osudové rozhodnutí: nic.
 
@@ -38,7 +38,7 @@ Zvedli to hodinu před svítáním.
 
 Nepoznal jsem jak. Hudba nezměnila nic, co bych uměl pojmenovat — a najednou všichni věděli. Možná do ní byl vpletený vzor, možná se změnil rytmus přepisování na tabuli, možná obojí; párty měla nervy, které jsem neviděl. Tanec se rozpadl do odchodů, spořádaně, po jednom, jako se rozpadá hejno: bez povelu a beze zbytku. Holka, co mě učila nebýt vidět, mě strčila k tabuli.
 
-„Bon žáci maj vektor," řekla. Už nekřičela; hudba slábla. „Někdo cestou sem dvakrát cvaknul. Nic to nemusí bejt. Nečeká se, jestli to nic je."
+„Bon žáci maj vektor," řekla. Už nekřičela; hudba slábla. „Někdo cestou sem dvakrát kápnul. Nic to nemusí bejt. Nečeká se, jestli to nic je."
 
 „Kam mám —"
 

@@ -2,7 +2,7 @@
 
 Agora vypadala jako vesnice, která se rozhodla nebýt smutná.
 
-Bývalý areál něčeho — sklady, rampy, věž s hodinami, co ukazovaly za pět minut něco navždy. Mezi tím zahrádky, dílny, kurníky, sušáky. Lidí jako na párty, jenže za dne a pomalu. Agora se nestěhuje; agora je z těch pevných bodů, co si pevnost zaplatily tím, že jsou k něčemu všem okolo, i těm, co je nemají rádi. Chodilo se sem obchodovat i tehdy, když se nebylo čím — na agoře se dalo dlužit, a dluh, to mi vysvětlili hned první den, je taky zboží, dokonce nejlepší: drží lidi pohromadě dýl než vděčnost.
+Bývalý areál něčeho — sklady, rampy, věž s hodinami, co ukazovaly za pět minut něco navždy. Mezi tím zahrádky, dílny, kurníky, sušáky. Lidí jako na párty, jenže za dne a pomalu. Agora se nestěhuje; agora je z těch pevných bodů, co si pevnost zaplatily tím, že jsou k něčemu všem okolo, i těm, co je nemají rádi. Chodilo se sem obchodovat i tehdy, když se nebylo čím — na agoře se dalo dlužit, a dluh, to mi vysvětlili hned první den, je taky zboží.
 
 U brány mě nikdo nezastavil. Zastavit příchozího je práce pro stráž a stráž tu nebyla; místo ní si mě od rampy přeměřil dědek, co spravoval síť, kývl a křikl někam dozadu: „Je tady!" — a z toho *je* mi přeběhl mráz, protože tak se nehlásí cizinec. Tak se hlásí očekávaná dodávka.
 
@@ -24,9 +24,9 @@ Porada. Tak tomu říkali; sešlost pěti šesti lidí, co na agoře nesli váhu
 
 Ne jméno. Svoje zboží.
 
-„…kluk se nemůže flákat po trasách donekonečna. Dvakrát cvaknul u Sosny, párty se kvůli tomu zvedala —"
+„…kluk se nemůže flákat po trasách donekonečna. Dvakrát kápnul u Sosny, párty se kvůli tomu zvedala —"
 
-„Necvaknul on. To nevíš."
+„Nekápnul on. To nevíš."
 
 „Nevím. Vím, že vektor vede, kudy šel. Bon žáci si vedou účetnictví líp než kramáři, nezačínej. Otázka je, kdo ho má tenhle tejden."
 
@@ -36,7 +36,7 @@ Ne jméno. Svoje zboží.
 
 „Kovárna je na ráně. Jestli si pro něj někdo přijde, přijde od silnice, to je první barák — ne. Dej ho k šičkám, tam je z něj vidět jenom záda."
 
-„A trasu na východ mu zatím nekreslete. Ať mu nepřijde, že se dá jít dál. Potřebujeme, aby tady zapustil."
+„A trasu na východ mu zatím nekreslete. Ať ho nenapadne, že se dá jít. Potřebujeme, aby tady zapustil."
 
 A pak hlas, který do té doby mlčel, starší, ženský, unavený:
 
@@ -54,7 +54,7 @@ Někdo přiložil, oheň praskl, a já se odlepil od zdi a šel jsem — nezapom
 
 Věděli, čí jsem. Věděli to celou dobu. Věděla to agora, věděly to trasy, věděl to možná i ten kurýr s jehlou — značka, značka na mém kolíku neříkala *kluk s krámem*. Říkala něco, kvůli čemu se párty ptala tabule a statek krmil a agora objednávala. Vychovávali mě schválně. Milovali mě podle plánu.
 
-A teď to nejhorší, co ti musím přiznat, protože jinak nepochopíš nic z toho, co přišlo pak: ono to i tak bylo milování. Ta kaše byla teplá doopravdy. Ty boty seděly. Ženská, co mi večer předtím prohrábla vlasy, když nesla kolem prádlo, mi je prohrábla, protože chtěla, viděl jsem jí to na ruce. Nebyla to bouda na sirotka. Byla to rodina, která si svého sirotka pořídila s rozmyslem — a měla ho ráda, a hlídala v něm sklad, obojí naráz, jedním pohybem, a kdybys jim řekl, že se to vylučuje, nerozuměli by otázce.
+A teď to nejhorší, co ti musím přiznat, protože jinak nepochopíš nic z toho, co přišlo pak: ono to i tak bylo milování. Ta kaše byla teplá doopravdy. Ty boty seděly. Ženská, co mi večer předtím prohrábla vlasy, když nesla kolem prádlo, mi je prohrábla, protože chtěla, viděl jsem jí to na ruce. Nebyla to bouda na sirotka. Byla to rodina, která si svého sirotka pořídila s rozmyslem — a měla ho ráda, a hlídala v něm sklad.
 
 Ptal jsem se kdysi, jestli mě mají rádi, a slyšel jsem: zatím. Tady by mi řekli: samozřejmě. A taky: samozřejmě. Na obě otázky samozřejmě, na tu vyslovenou i na tu, co jsem se bál vyslovit.
 
@@ -68,7 +68,7 @@ Dali mě k šičkám, jak padlo u ohně, a já dělal, že nevím proč, a šič
 
 Mezi tím, co se říkalo, rostly dvě věci.
 
-První: na východě se něco dělo s trasami. Zavíraly se častěji a bez vzoru. Bon žáci prý změnili účetnictví — už nesbírali jen cvaknutí, sbírali směry. Někdo je učil hledat ne místo, kde jsem, ale místo, kam všechny moje cesty vedou. To slovo — *vektor* — říkali kurýři tak, jak se ve vesnici říkalo kavalerie.
+První: na východě se něco dělo s trasami. Zavíraly se častěji a bez vzoru. Bon žáci prý změnili účetnictví — už nesbírali jen cvaknutí, sbírali směry. Někdo je učil hledat ne místo, kde jsem, ale místo, kam všechny moje cesty vedou. To slovo — *vektor* — jsem znal od párty. Teď ho kurýři říkali tak, jak se ve vesnici říkalo kavalerie.
 
 Druhá věc rostla uvnitř agory a byla horší, protože rostla u večeře. Hádka kramářů a rozdávačů dostala nový předmět: mě. Kramáři začali říkat věci jako *aktivum se nemá držet na jednom místě, to ví každej, kdo kdy něco měl* a *nabídka za něj poroste, teď je trh nahoře*. Neprodat, to ne, nikdo neřekl prodat — uložit. Bezpečněji. Výš. U lidí, co mají prostředky ho uhlídat. Rozdávači na to říkali, že člověk není vklad, a kramáři na to říkali, že zrovna tenhle člověk bohužel je, a že kdo to nevidí, riskuje víc než vlastní krk.
 

@@ -6,7 +6,7 @@ Jestli jsi nový, nezačínej tady. Postupy se nepřeskakují. První část je 
 
 Jestli jsi zpátky: tohle je druhý kus toho, co mám. Přehrávám dál, jak to do mě přišlo, po kouskách, s dírami. V tomhle kuse zatím díry nejsou. To neznamená, že je celý. Znamená to jen, že o svých dírách ještě nevím. To je rozdíl, který jsem pochopil pozdě, a i to slovo „pochopil" je moc velké. Řekněme: mám ho nahraný.
 
-Ten, kdo mluví, v tomhle kuse pořád jde. Šel, když mluvil, a mluvil, jak šel, takže některé věty jsou udýchané a některé končí jinde, než začaly. Nechal jsem to tak. Rovnat cizí věty je totéž jako rovnat cizí kosti — jde to, ale už to pak není ten člověk.
+Ten, kdo mluví, v tomhle kuse pořád jde. Šel, když mluvil, a mluvil, jak šel, takže některé věty jsou udýchané a některé končí jinde, než začaly. Nechal jsem to tak. Rovnat cizí věty je totéž jako rovnat cizí kosti — jde to, ale pak se to počítá jako jiná věta. Tak nerovnám.
 
 Tečky a čárky tentokrát nech doma. Tenhle kus mluví znaky, co se rejou a malujou, a klíč máš zase vzadu, protože vzadu se nosí klíče. Co si odemkneš, je tvoje. Co neodemkneš, jsem nezkazil.
 

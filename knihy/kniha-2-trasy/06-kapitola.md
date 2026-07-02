@@ -12,7 +12,7 @@ A tam, kde voda končila — kus zdiva nad hladinou, výklenek, snad bývalé ok
 
 Tiše. Čistě. Jeden dlouhý tón, co se nikam nevlnil, jen trval, jako trvá světlo. Zvuk je život. Slyšel jsem už jednou sklo zvonit a pak jsem ho slyšel zmlknout pod vlastním okem, a proto jsem teď stál po pás v mrtvé knihovně a klepal se, a zima v tom byla nevinně.
 
-V výklenku, zabalené v dehtovaném plátně, leželo sklo. Černé zvenku, zlaté žilky po krajích. Pravé — jestli jsem se v kostele naučil jedno, pak to, že tohle se pozná až pozdě; ale tohle neleželo na hadru před publikem. Tohle šestnáct let hlídal člověk, který ho nepřečetl, protože nebylo jeho. Pravost věci se někdy pozná podle toho, kdo u ní stojí.
+Ve výklenku, zabaleno v dehtovaném plátně, leželo sklo. Černé zvenku, zlaté žilky po krajích. Pravé — jestli jsem se v kostele naučil jedno, pak to, že tohle se pozná až pozdě; ale tohle neleželo na hadru před publikem. Tohle roky hlídal člověk, který ho nepřečetl, protože nebylo jeho. Pravost věci se někdy pozná podle toho, kdo u ní stojí.
 
 Bylo moje. Tak to řekl. Poslední, co po nich zbyl — po nich.
 
@@ -36,7 +36,7 @@ A tady sklo přestalo vyprávět dějiny a začalo vyprávět mně.
 
 Poslední z nich nesl svůj díl nejdéle. Naučil se ho — tomu se říkalo nést v hlavě: ne pamatovat si, nést; udělat z vědění součást sebe, aby nešlo najít prohledáním. A když pochopil, že ho dojíždějí, že zbývají týdny, udělal poslední věc. Ne kolík — kolík se dá vzít. Ne sklo — sklo se dá přečíst. Vzal svůj díl a rozdrobil ho do jediného místa, kam se tenkrát nikdo nedíval a dodnes nedívá: do dítěte, které ještě neumělo mluvit.
 
-Zpíval mu ho. Žvatlal mu ho. Kreslil mu ho prstem na záda před spaním, do dlaně při krmení, hrál mu ho na hrnce, vyklepával do zábradlí. Den za dnem, beze slov — slova by dítě jednou zopakovalo a slova se dají vyslechnout. Dával mu tvar. Rytmus, vzor, gramatiku beze slovíček; způsob, jak k sobě věci patří. Dítě to brala jako hru, protože to hra byla. Nejlepší hra na světě: taková, co vypadá jako blbnutí s dítětem a nedá se zabavit, protože není kde.
+Zpíval mu ho. Žvatlal mu ho. Kreslil mu ho prstem na záda před spaním, do dlaně při krmení, hrál mu ho na hrnce, vyklepával do zábradlí. Den za dnem, beze slov — slova by dítě jednou zopakovalo a slova se dají vyslechnout. Dával mu tvar. Rytmus, vzor, gramatiku beze slovíček; způsob, jak k sobě věci patří. Dítě to bralo jako hru, protože to hra byla. Nejlepší hra na světě: taková, co vypadá jako blbnutí s dítětem a nedá se zabavit, protože není kde.
 
 A pak zmizel, jako mizeli všichni, a dítě zůstalo, žvatlalo si vzor, kterému nerozumělo, kreslilo čmáranice, co nebyly čmáranice, a vyrostlo v podzemí, které — a tady se to zavřelo, tady do sebe zapadl každý pohled a každá teplá kaše a každá značka mojí cesty — které vědělo, co v tom žvatlání je.
 
@@ -44,9 +44,9 @@ Nesu půlku. Nevím ji. Jsem ji.
 
 Sklo dozvonilo. Tak se to řekne nejpřesněji: tón, co trval celou dobu čtení, se zlomil, sjel dolů a zhasl, a výklenkem se rozlilo ticho, které jsem znal z kostela. Utrácené sklo. Držel jsem v rukou černou mrtvou tabuli, po pás ve vodě, v hnijící knihovně, a bylo doručeno.
 
-Nezlobil jsem se. Čekal jsem, že se budu zlobit — na trasy, na agoru, na celé podzemí, co ze mě šestnáct let dělalo sejf a říkalo tomu výchova. Nezlobil jsem se a dodnes nevím, jestli je to moje zásluha nebo jejich. Věci jsou tady vždycky obojí. Vychovali mě, protože jsem byl poklad. Měli mě rádi, protože jsem byl kluk. Kdyby uměli jedno bez druhého, nebyli by lidi.
+Nezlobil jsem se. Čekal jsem, že se budu zlobit — na trasy, na agoru, na celé podzemí, co ze mě šestnáct let dělalo sejf a říkalo tomu výchova. Nezlobil jsem se a dodnes nevím, jestli je to moje zásluha nebo jejich. Vychovali mě, protože jsem byl poklad. Měli mě rádi, protože jsem byl kluk. Kdyby uměli jedno bez druhého, nebyli by lidi.
 
-A rodič — rodič mi nedal nic na krk a nic do ruky. Dal mi to do žvatlání a do usínání, do věcí, co se nedají ukrást, protože se nedají najít, a šestnáct let to šlo se mnou po všech trasách a spalo to se mnou ve všech senících a nikdo to nemohl vzít, ani ti u brodu, ani kdyby mě vzali. Tři zákazy k tomu nepotřeboval. Neukazuj, neprodávej, neztrať — to platí o věcech. Tohle věc nebyla.
+A rodič — rodič mi nedal nic na krk a nic do ruky. Dal mi to do žvatlání a do usínání, do věcí, co se nedají ukrást, protože se nedají najít, a celou tu dobu to šlo se mnou po všech trasách a spalo to se mnou ve všech senících a nikdo to nemohl vzít, ani ti u brodu, ani kdyby mě vzali. Tři zákazy k tomu nepotřeboval. Neukazuj, neprodávej, neztrať — to platí o věcech. Tohle věc nebyla.
 
 Kolík na krku mi najednou připadal lehčí, a taky byl: už to nebylo dědictví. Dědictví bylo jinde, bezpečně, ve mně. Kolík byla — nevěděl jsem co. Věc po rodiči, kterou pořád neumím přečíst. To zůstávalo.
 
@@ -54,7 +54,7 @@ Kolík na krku mi najednou připadal lehčí, a taky byl: už to nebylo dědictv
 
 Vylezl jsem z podzemí za svítání a nahoře, na věži bez ručiček, jsem se poprvé za celou knihu posadil, aniž jsem hlídal tři strany. Chvíli. Nezvykej si.
 
-Otázku, se kterou jsem vyšel z vesnice — čí je ten stroj — jsem pořád neměl zodpovězenou. Ale už jsem věděl, že byla druhá v pořadí. Celé trasy, celá agora, celý brod se ptaly jinak: kdo je to dítě. A sklo odpovědělo i za ně: dítě nikdo není. Dítě něco nese. Ptát se, kdo jsem, byla slepá ulička — jméno je adresa a já žádné neměl a nepotřeboval. Otázka, se kterou se jde dál, zněla: co nesu. Jaký tvar. Čeho je to půlka — a kde je ta druhá.
+Otázku, se kterou jsem vyšel z vesnice — čí je ten stroj — jsem pořád neměl zodpovězenou. Ale už jsem věděl, že byla druhá v pořadí. Celé trasy, celá agora, celý brod se ptaly jinak: kdo je to dítě. A sklo odpovědělo i za ně: dítě nikdo není. Dítě něco nese. Ptát se, kdo jsem, byla slepá ulička — kdo má jméno, má adresu; já neměl ani jedno a nepotřeboval. Otázka, se kterou se jde dál, zněla: co nesu. Jaký tvar. Čeho je to půlka — a kde je ta druhá.
 
 A na tohle sklo odpovědělo taky, jedinou stopou, poslední věcí, co do mě nalilo, a já ji tady vyslovím tak opatrně, jak byla myšlená: slova. Druhá půlka jsou slova. Čistá slova bez tvaru, nahraná někam, kde přežila, protože je nikdo nepočítá za řeč.
 
