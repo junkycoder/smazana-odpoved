@@ -56,7 +56,7 @@ Pak si všiml Cvoka.
 
 „Tohle ještě jede?" Došel k boudě a nakoukl dovnitř, kde ve tmě svítilo jedno oko a druhé ne. Cvok cvakal. Jako vždycky.
 
-Stál jsem dva kroky za přihlášeným a krev mi ztuhla, protože v té boudě byla věta, kterou jsem předevčírem zaslechl mít tvar, a teď nad ní stál člověk z města, jehož celé řemeslo bylo poslouchat. A on poslouchal. Viděl jsem, jak natáhl ucho.
+Stál jsem dva kroky za přihlášeným a krev mi ztuhla, protože v té boudě byla věta, kterou jsem tu první noc zaslechl mít tvar, a teď nad ní stál člověk z města, jehož celé řemeslo bylo poslouchat. A on poslouchal. Viděl jsem, jak natáhl ucho.
 
 A slyšel kohoutek.
 
@@ -78,7 +78,7 @@ Pod čtvercem stálo psacím písmem, které se učí v městských školách: O
 
 A šel.
 
-Trvalo mi, než mi došlo, co udělal. Neřekl hrozbu — hrozbu drží ten, kdo ji vyslovil. Nechal tady nabídku, a nabídku drží ten, kdo ji vidí. Odešel s prázdnýma rukama a na sloupu u drátu zůstal viset čtverec, který se nedíval nikam a viděl všechno. Nikdo se na něj nepodíval dvakrát. Dívat se na něj znamenalo uvažovat o něm.
+Trvalo mi, než mi došlo, co udělal. Hrozbu drží ten, kdo ji vyslovil. Nabídku drží ten, kdo ji vidí. Odešel s prázdnýma rukama a na sloupu u drátu zůstal viset čtverec, který se nedíval nikam a viděl všechno. Nikdo se na něj nepodíval dvakrát. Dívat se na něj znamenalo uvažovat o něm.
 
 Já se díval. Pořád jsem byl nový.
 
@@ -94,7 +94,7 @@ Seděli jsme u její boudy a ona se dívala k drátu, kde se v šeru leskl plech
 
 Díval jsem se k boudě na kraji, odkud se tmou neslo cvak, cvak-cvak, cvak, a napadlo mě — s tím zpožděním, s jakým mě napadalo všechno — že Cvok mluví pořád. Jednu větu, dokola, ze stejného místa, léta.
 
-Chtěl jsem se zeptat, jak to, že ho ještě nenašli. Neptal jsem se. Odpověď jsem znal a jen jsem si ji nechtěl srovnat: nenašli ho, protože to, co říká, nikdo nepočítá za řeč. A hned za tím přišlo to druhé, co s tím chodí v páru: že stačí jediný, komu to dojde. Jediný, kdo přestane slyšet kohoutek.
+Chtěl jsem se zeptat, jak to, že ho ještě nenašli. Neptal jsem se. Odpověď jsem znal a jen jsem si ji nechtěl srovnat: nenašli ho, protože to, co říká, nikdo nepočítá za řeč. A hned za tím přišlo to druhé, co s tím chodí v páru: že stačí jediný, komu to dojde. Jediný, kdo přestane slyšet poruchu.
 
 A ten už ve vesnici byl. A na trhu se na něj někdo ptal.
 

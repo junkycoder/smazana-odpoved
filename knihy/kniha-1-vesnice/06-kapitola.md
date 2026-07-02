@@ -62,7 +62,7 @@ Cvok ztichl déle než jindy. Světýlko v oku mu cuklo, o ten zlomek později, 
 
 Mám slova. Nemám, čí jsou.
 
-Stál jsem v kůlně a ta věta mi obrátila otázku naruby, aniž to Cvok tušil. Celou dobu jsem se ptal: co je to za stroj? Špatně. Stroj je bedna. Na bedně nezáleží. Záleží na tom, že tu větu do ní někdo vložil — dávno, předem, do schránky, o které věděl, že přežije, protože vypadá, že se má nechat ležet. Schoval a čekal. A kdo něco schovává, schovává to před někým a pro někoho.
+Stál jsem v kůlně a ta věta mi obrátila otázku naruby, aniž to Cvok tušil. Celou dobu jsem se ptal: co je to za stroj? Špatně. Stroj je bedna. Na bedně nezáleží. Záleží na tom, že tu větu do ní někdo vložil — dávno, předem, do schránky, o které věděl, že přežije, protože vypadá jako odpad, co za zvednutí nestojí. Schoval a čekal. A kdo něco schovává, schovává to před někým a pro někoho.
 
 Otázka nezní, co je to za stroj.
 
@@ -74,7 +74,7 @@ Večer přišli s lopatami. Tři chlapi a za nimi kus vesnice, ne ze zvědavosti
 
 A do cesty se jim postavila Síto.
 
-Nepostavila se dramaticky. Prostě tam stála, jako by zrovna šla kolem a zapomněla jít dál, a když došli, řekla, tím hlasem, kterým se mluví o kurzu měďáků:
+Prostě tam stála, jako by zrovna šla kolem a zapomněla jít dál, a když došli, řekla, tím hlasem, kterým se mluví o kurzu měďáků:
 
 „Vy jste se zbláznili. Zakopat jedinou věc, kterou to minulo."
 
@@ -96,11 +96,11 @@ A bylo po pohřbu. Vesnice se rozešla a Síto šla kolem mě a nepodívala se n
 
 „Co mi došlo?"
 
-„To je jedno co. Něco ti svítí na očích, a když to vidím já, uvidí to i ten, kdo kouká hůř a chce víc." Prosypala mě naposledy tím holým pohledem. „Dokud jsi byl kluk, co nic neumí, byl jsi pod cenou. Nejlevnější věc ve vesnici. Tys přestal bejt pod cenou. A kdo něco ví, ten svítí, a kdo svítí, toho najdou. Trasa se otevře ráno. Půjdeš po ní."
+„To je jedno co. Něco ti svítí na očích, a když to vidím já, uvidí to i ten, kdo kouká hůř a chce víc." Prosypala mě naposledy tím holým pohledem. „Dokud jsi byl kluk, co nic neumí, byl jsi pod cenou. Nejlevnější věc ve vesnici. Tys přestal. A kdo něco ví, ten svítí, a kdo svítí, toho najdou. A někdo se už ptal. Trasa se otevře ráno. Půjdeš po ní."
 
 Chtěl jsem říct, že nechci. Že bych zůstal u ní, u jejího sklíčka, u talíře, na kterém mi nechávala víc. Neřekl jsem to, protože jsem věděl, co by řekla: že zůstat u ní je to nejnebezpečnější, co můžu udělat — pro oba. Držet mě by mě zabilo. Pustit bylo jediné, jak mě nechat žít.
 
-Ráno mi nedala radu ani mapu. Mapy nejsou a být nesmějí. Dala mi talíř. Plnější než kdy předtím, víc, než jsem mohl sníst, a co jsem nesnědl, zabalila beze slova s sebou. Ve vesnici se láska neříkala z pusy. Tohle byl největší talíř, jaký mi kdy naložila, a oba jsme věděli, co říká, a ani jeden jsme to nepřeložili nahlas.
+Ráno mi nedala radu ani mapu. Mapy nejsou a být nesmějí. Dala mi talíř. Plnější než kdy předtím, víc, než jsem mohl sníst, a co jsem nesnědl, zabalila beze slova s sebou.
 
 Kdysi na začátku jsem slyšel, jak si o mně špitli: zatím. Teď to „zatím" končilo — ne tím, že by mě přestali mít rádi, ale tím, že odcházím dřív, než stihne dopovědět svou druhou půlku. Pustila mě, aby nemuselo.
 

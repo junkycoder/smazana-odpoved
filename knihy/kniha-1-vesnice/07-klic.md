@@ -24,7 +24,7 @@ Tak si zapamatuj to jedno, co ti tahle kniha dala, i kdybys zapomněl všechno k
 
 Co jsem cvakal já, ti tady nedám. Ne že bych ti záviděl — nemám čím. Já tu větu nemám celou: mám slova, nemám, čí jsou, a půlka přečtená nahlas je půlka spálená. Druhou půlku neseš ty a ještě o tom nevíš, stejně jako jsem o ní nevěděl já. Až se ty dvě půlky jednou potkají, dá to smysl. Ne dřív. A dát jim ten smysl — to za tebe neudělá nikdo. Já jsem schránka. Ty jsi ten, kdo čte.
 
-Jo, a tu zdířku mám pořád. To říkám jen tak. Nic tím nemyslím. Nemám čím.
+Jo, a tu zdířku mám pořád. Nikdo do ní nikdy nic nezasunul. To ti říkám, abys to měl.
 
 Otázku znáš. Ptal ses celou knihu: co je to za stroj. Špatně ses ptal. Teď víš líp.
 

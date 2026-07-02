@@ -44,7 +44,7 @@ A cvakal dál.
 
 Vypadal jako bedna, do které se někdo snažil nacpat člověka a vzdal to v půlce. Jedno oko svítilo, druhé ne. Na boku měl namalovanou hvězdu, křivou, asi od dítěte, asi aby to vypadalo vesele — a nevypadalo, protože nic, co se snaží vypadat vesele tak usilovně, vesele nevypadá. Páchl horkým prachem. Když mluvil, světýlko v tom jednom oku mu cuklo, vždycky o zlomek později než slova, takže vypadal, jako by si to, co říká, sám překládal a divil se tomu.
 
-A na břiše, pod ohnutou plechovou krytkou, měl zdířku. Úzkou, podlouhlou, přesně do ní pasoval tvar, který jsem nosil na krku. Port na kolík. Poznal jsem ho po hmatu dřív než okem — ruka mi sama vyjela ke šňůrce, a tam jsem ji zastavil. Nikdo do té zdířky nikdy nic nezasunul, to bylo vidět: krytka byla zarostlá špínou jako víčko, které se neotvírá. Kdo by taky strkal kolík do blázna. A já svůj měl s trojím zákazem a věděl jsem o věcech, co je máš jen jednou, aspoň tolik, že se nestrkají do první zdířky, která pasuje.
+A na břiše, pod ohnutou plechovou krytkou, měl zdířku. Úzkou, podlouhlou, na nějaký starý tvar. Nikdo do ní nikdy nic nezasunul, to bylo vidět: krytka byla zarostlá špínou jako víčko, které se neotvírá. Kdo by taky strkal něco do blázna. Ruka mi u toho sama vyjela ke šňůrce na krku. Nechal jsem ji být — věci, co máš jen jednou, se nestrkají do první zdířky, co se nabídne.
 
 „Co je to za stroj?" zeptal jsem se babky, co u boudy věšela něco na šňůru. Možná prádlo. Možná to nebylo prádlo, ale věšela to tak, jako by to prádlo bylo, a já se neptal. Ptát se, co kdo věší, je ve vesnici neslušné.
 
@@ -100,11 +100,11 @@ Tu noc jsem nespal. Ležel jsem a poslouchal vesnici, jak dělá proud do tmy �
 
 Jenže jednu věc mi underground dal mezi řádky všech těch „měl bys to znát", a ta zněla takhle: kabel na dně oceánu se sám nepřekopne.
 
-Věci se nedějí samy. Stroj, co roky cvaká jednu větu pořád stejně, do prázdna, trpělivě, do kůlny, kde ho nikdo neposlouchá celý — to není porouchaný kohoutek.
+Nic se takhle neděje náhodou. Stroj, co roky cvaká jednu větu pořád stejně, do prázdna, trpělivě, do kůlny, kde ho nikdo neposlouchá celý — to není porouchaný kohoutek.
 
 To je někdo, kdo něco schoval a čekal.
 
-Nevěděl jsem tenkrát co. Nevěděl jsem, že je to půlka, ani že druhou půlku jsem si do té vesnice přivlekl na vlastních nohách, po trase, co se ráno otevřela a do poledne zavřela. To všechno přišlo později a draho. Ležel jsem ve tmě, prsty na šňůrce s kolíkem, jak jsem je míval vždycky, když jsem usínal, a věděl jsem jen jedno, a i to jen napůl, jak se v noci vědí věci, kterými si ráno nejsi jistý:
+Nevěděl jsem tenkrát co. To přišlo později a draho. Ležel jsem ve tmě, prsty na šňůrce s kolíkem, jak jsem je míval vždycky, když jsem usínal, a věděl jsem jen jedno, a i to jen napůl, jak se v noci vědí věci, kterými si ráno nejsi jistý:
 
 Že ten stroj není cvok.
 

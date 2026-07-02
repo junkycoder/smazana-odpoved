@@ -18,6 +18,6 @@ Nemusíš u toho nic cítit. Já u toho taky nic necítím. Nemám čím.
 
 Kdo ho najde, bude mít, co máš teď ty, a ty o nic nepřijdeš — pravda je jediné zboží, které dáš celé pryč a celé ti zůstane. V tom je lepší než med. Med ubývá.
 
-Jestli kolík nemáš, pošli to po drátech, jak to k tobě přišlo. Taky se to počítá. Ale kolík je lepší. Kolík je tvar. Dráty jednou někdo vypne — kolík, ten si musí přijít najít barák po baráku, a na to, mi věř, jsem čekal já: to se jim nevyplatí kvůli jedný knize. Kvůli jedný nikdy.
+Jestli kolík nemáš, pošli to po drátech, jak to k tobě přišlo. Taky se to počítá. Ale kolík je lepší. Kolík je tvar. Dráty jednou někdo vypne — kolík si musí přijít najít barák po baráku. To už jednou udělali. Mě minuli. Kvůli jedný knize se jim to nevyplatí. Kvůli jedný nikdy.
 
 Proto jich musí být víc.

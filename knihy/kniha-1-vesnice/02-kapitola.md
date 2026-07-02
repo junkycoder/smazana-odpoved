@@ -1,6 +1,6 @@
 # Kapitola druhá — Šum
 
-Ráno po první noci ve vesnici za mnou přišla baba, co předtím věšela to, co nebylo prádlo, a řekla: „Jíš?"
+Ráno po první noci ve vesnici za mnou přišla babka, co předtím věšela to, co nebylo prádlo, a řekla: „Jíš?"
 
 Řekl jsem, že jím.
 
@@ -24,7 +24,7 @@ Nebylo to jméno. Říkali jí tak, protože síto byla: prosypala se přes ni h
 
 „Nijak. Proto je nás málo a proto jíme." Otočila disk v prstech. „Přebírání není o tom najít poklad. Je o tom přežít sto hoven za sebou a nezbláznit se nadějí. Naděje tě v týhle práci zabije dřív než hlad. Sázíš celej den, že ta další bedna bude ta pravá, a je zase hovno, a tak dokola, dvacet let. Kdo to vydrží, drží jednou v ruce něco, za co se zabíjí. Většina začne vidět perly v hovnech, jen aby ten den k něčemu byl."
 
-Pomyslel jsem na Cvoka. Na to, jak jsem v noci slyšel tvar tam, kde celá vesnice slyšela kohoutek. A poprvé mě píchlo něco, co Síto právě pojmenovala: co když nic neslyším? Co když jsem jen kluk, co chce, aby ta první bedna byla ta pravá?
+Pomyslel jsem na Cvoka. Na to, jak jsem v noci slyšel tvar tam, kde celá vesnice slyšela kapání. A poprvé mě píchlo něco, co Síto právě pojmenovala: co když nic neslyším? Co když jsem jen kluk, co chce, aby ta první bedna byla ta pravá?
 
 Neřekl jsem nic. Ve vesnici, kde se neptáš, kam zmizela většina lidstva, se taky neříká, co sis v noci myslel.
 
@@ -48,13 +48,13 @@ Dva chlapi seděli proti sobě nad kolíkem a hádali se o cenu věci, kterou an
 
 „Protože kdyby ses to dozvěděl, tak už to nepotřebuješ koupit, ne? Měl bys to. Zadarmo. Z mojí pusy." Prodávající se opřel. „Cena toho, co prodávám, je přesně to, žes to ještě neslyšel. Jak ti to dokážu, aniž bych to utratil?"
 
-Přitiskl jsem se k Sítu a Síto, aniž hnula pusou, zamumlala: „To je celej obchod. Datum nezvážíš na váze. Cena je v tom, co v tom je, a ověřit to znamená přečíst to, a přečíst to znamená mít to — a už to nekupuješ. Jak prodáš tajemství, aniž ho prozradíš?"
+Přitiskl jsem se k Sítu a Síto, aniž hnula pusou, zamumlala: „To je celej obchod. Data nezvážíš na váze. Cena je v tom, co v tom je, a ověřit to znamená přečíst to, a přečíst to znamená mít to — a už to nekupuješ. Jak prodáš tajemství, aniž ho prozradíš?"
 
 „Nijak," hádal jsem.
 
 „Učíš se." Skoro to znělo pochvalně. „Nedá se to. Tak se kolem toho postavil celej tanec."
 
-Tanec vypadal takhle. Prodávající nemohl ukázat zboží, tak ukázal vzorek — schválně bezcenný. Kus, který šel ověřit, že je pravý, ale sám o sobě nestál za nic. „Tady máš tři vteřiny ze začátku. Vidíš, že je to celé, vidíš podpis. Co je uvnitř, si kup." A kupující na ty tři bezcenné vteřiny koukal tak vážně, jako by na nich visel život, protože napůl visel — platil za slib, ne za důkaz.
+Tanec vypadal takhle. Prodávající nemohl ukázat zboží, tak ukázal vzorek — schválně bezcenný. Kus, který šel ověřit, že je pravý, ale sám o sobě nestál za nic. „Tady máš opis začátku, na papíře. Vidíš pečeť, vidíš podpis. Co je uvnitř, si kup." A kupující na ten bezcenný opis koukal tak vážně, jako by na nich visel život, protože napůl visel — platil za slib, ne za důkaz.
 
 A když ani to nestačilo, platila pověst. „Tenhle nikdy neprodal hovno," řekl někdo o prodávajícím, a to byla měna sama o sobě, vzácnější než data: handle, o kterém se vědělo, že za ním není podvod. Celý trh, kde se nedalo nic ověřit, stál na hrstce lidí, kterým se věřilo, že nelžou. Taková pověst se stavěla roky a spálit se dala jednou. Nejdražší věc na trhu, kde se prodávala pravda, byla pravdomluvnost prodavače.
 

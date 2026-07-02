@@ -22,4 +22,4 @@ Ve městě jsou oficiální peněženky veřejné. To je na nich to oficiální.
 
 ---
 
-*Poznámka vydavatele (mimo nahrávku): adresy jsou skutečné bitcoinové peněženky. Komu a proč něco pošleš, je tvoje věc; kniha je zdarma a zdarma zůstane. Nic z toho není povinné a nic z toho kniha nepotřebuje. Jen upozorňujeme, že odměna za oznámení se vyplácí i v tomhle světě — a že se to taky vidí.*
+*Poznámka vydavatele (mimo nahrávku): adresy jsou skutečné bitcoinové peněženky. Komu a proč něco pošleš, je tvoje věc; kniha je zdarma a zdarma zůstane. Nic z toho není povinné a nic z toho kniha nepotřebuje.*
