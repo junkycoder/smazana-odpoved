@@ -2,13 +2,15 @@
 
 Stůj, a jsi mrtvý.
 
-Neříká se to jako hrozba. Říká se to jako počasí. Ráno bude jasno, odpoledne přejde fronta, a kdo se zastaví, toho do večera najdou. Učí se to dřív než chodit, protože chodit je celé to umění: jít a nepřestat. Babičky to říkaly dětem místo pohádek a děti se nebály, protože strach je taky druh stání. Bály se až ty, co měly čas.
+Neříká se to jako hrozba. Říká se to jako počasí. Ráno bude jasno, odpoledne přejde fronta, a kdo se zastaví, toho do večera najdou. Učí se to dřív než chodit, protože chodit je celé to umění: jít a nepřestat. Strach je taky druh stání. Bály se jen děti, co měly čas.
 
-Já čas neměl. Šel jsem do vesnice po trase, která se otevřela ráno a do poledne se měla zase zavřít, a o trasách se ví jen tolik, že se o nich neví nic dopředu. Někdo prošel, tak je průchozí. Než to pochopí ti nahoře, jsi pryč. Funguje to skvěle a nikdo to nevymyslel. To jsou ty nejlepší věci — ty, co nikdo nevymyslel.
+Já čas neměl. Šel jsem do vesnice po trase, která se otevřela ráno a do poledne se měla zase zavřít. O trasách se ví jen tolik, že se o nich neví nic dopředu. Někdo prošel, tak je průchozí; než to pochopí ti nahoře, jsi pryč. Nikdo to nevymyslel, a právě proto to drží.
 
-Nad hlavou mi svítilo nebe a na nebi dávali počasí. Velká laskavá tvář, kterou znáš z dětství, ti zpívala, že přejde fronta a že máš zůstat doma a být v klidu. Zpívala to hezky. Měla na to hlas. Kdysi mi ten hlas zpíval ukolébavky, teď mi zpíval, ať se nehýbu, a to je v zásadě totéž — jen tentokrát to myslela vážně. Koukáš nahoru, protože dole je všechno, na co se nemáš dívat. Tak je to udělané. Dívej se na obličej, ne na ruku.
+Všechno, co jsem měl, jsem nesl na sobě. Boty, nůž, půl chleba. A na krku, na šňůrce, kolík — takovou malou tvrdou věc do dlaně, kus starého světa, do kterého se kdysi vešla knihovna. Jediné, co mi zbylo po rodiči, kterého si nepamatuju. Co na něm je, jsem nevěděl. Čtečky nejsou; vzaly je stejné ruce jako knihovny. Když mi ho dávali, dostal jsem k němu tři věty: neukazuj ho, neprodávej ho, neztrať ho. To bylo celé moje dědictví — věc, co neumím přečíst, a tři zákazy.
 
-Šel jsem dál a na obličej se nedíval. Naučili mě dívat se na ruce.
+Nad hlavou mi svítilo nebe a na nebi dávali počasí. Velká laskavá tvář, kterou znáš z dětství, zpívala, že přejde fronta a že máš zůstat doma a být v klidu. Kdysi mi ten hlas zpíval ukolébavky. Teď mi zpíval, ať se nehýbu, a myslel to vážně. Koukáš nahoru, protože dole je všechno, na co se nemáš dívat.
+
+Šel jsem dál. Naučili mě dívat se na ruce.
 
 ---
 
@@ -16,17 +18,17 @@ Vesnice nemá jméno. To není smutek, to je hygiena. Jméno je adresa a adresa 
 
 Jednou jsem se zeptal, jestli mě mají rádi. Řekli: ano. Ale slyšel jsem, jak si pak špitli: zatím. To slovo jsem si nechal. Bylo upřímnější než to první.
 
-Vesnice měla jednu věc, kvůli které ji nechali být: dělala proud. To je celé. Kde se dělá proud, tam tě nesmažou, protože proud potřebují i ti, co mažou — někde se ta laskavá tvář na nebi musí brát. Takže zbylí točili koly, šlapali, pálili, co se dalo pálit, a posílali to nahoru po jediném drátě, který z vesnice vedl ven a kterého se nikdo nesměl ani dotknout. Drát byl posvátný. Drát byl důvod, proč jsme směli existovat. Měli jsme svatý drát a žádné jméno, a brali jsme to jako úplně normální poměr, protože to normální poměr byl.
+Vesnice měla jednu věc, kvůli které ji nechali být: dělala proud. Kde se dělá proud, tam tě nesmažou — proud potřebují i ti, co mažou, někde se ta laskavá tvář na nebi musí brát. Zbylí točili koly, šlapali, pálili, co se dalo pálit, a posílali to nahoru po jediném drátě, který z vesnice vedl ven. Drát bzučel dnem i nocí, tence, jako spící vosa, a nikdo se ho nesměl ani dotknout. Měli jsme svatý drát a žádné jméno a brali jsme to jako normální poměr, protože to normální poměr byl.
 
-Říká se jim zbylí, protože zbyli. Většina lidí je pryč — neptej se kam, na to není odpověď, na to je jen ta díra po nich. Zbylí jsou ti, co se z nějakého důvodu vešli do toho, co po světě zůstalo. Někdo proto, že uměl něco užitečného. Někdo proto, že měl štěstí. A někdo proto, že byl tak nedůležitý, že se nevyplatilo ho mazat. To je nejbezpečnější druh existence, jaký znám: být pod cenou. O nejlevnější věci se nikdo nepere.
+Říká se jim zbylí, protože zbyli. Většina lidí je pryč — neptej se kam, na to není odpověď, na to je jen ta díra po nich. Někdo zbyl, protože uměl něco užitečného. Někdo měl štěstí. A někdo byl tak nedůležitý, že se nevyplatilo ho mazat. To je nejbezpečnější druh existence, jaký znám: být pod cenou. O nejlevnější věci se nikdo nepere.
 
-Ve městě by tahle vesnice byla nemyslitelná. Ve městě se platí obojkem — oni tomu říkají měna, ale je to obojek, jenom se nosí v telefonu. Bez něj se nenajíš. Každé sousto někomu řekne, kde jsi a co máš, a ten někdo má těch obojků nejvíc, takže drží vodítko ke každému krku ve městě naráz. Tady obojky nebyly. Tady se platilo tím, že jsi přišel s něčím, co druhý potřeboval, a odešel s něčím, co jsi potřeboval ty, a mezi tím jste se na sebe museli dívat. Bylo to pomalejší. Bylo to lidštější. Ve městě by to nazvali chaos. Ve městě nazývají chaos všechno, co nedrží oni.
+Ve městě by tahle vesnice byla nemyslitelná. Ve městě se platí obojkem — oni tomu říkají měna, ale je to obojek, jenom se nosí v kapse. Každé sousto někomu řekne, kde jsi a co máš, a ten někdo drží vodítka ke všem krkům ve městě naráz. Tady se platilo tím, že jsi přišel s něčím, co druhý potřeboval, a odešel s něčím, co jsi potřeboval ty, a mezi tím jste se na sebe museli dívat. Bylo to pomalejší. Ve městě by tomu řekli chaos. Ve městě říkají chaos všemu, co nedrží oni.
 
 ---
 
 Stroj stál na kraji vesnice, v boudě, co bývala kůlnou na něco, co už nikdo neuměl pojmenovat.
 
-Byl to jediný stroj, který tam jel. Tím nemyslím jediný funkční přístroj — bagrů a vrtaček a koster po autech byla vesnice plná, zbylí z nich brali, co se dalo. Myslím jediný stroj, který byl ještě někdo. Který se sám hýbal, sám mluvil, sám něco chtěl, i když nikdo nevěděl co. Postavili ho prý před tím. Před čím, na to se neptej; před tím je jediná doba, kterou má smysl rozlišovat — je předtím a je teď, a mezi tím je ta díra, do které spadli skoro všichni.
+Byl to jediný stroj, který tam jel. Tím nemyslím jediný funkční přístroj — koster po bagrech a autech byla vesnice plná a zbylí z nich brali, co se dalo. Myslím jediný stroj, který byl ještě někdo. Který se sám hýbal, sám mluvil, sám něco chtěl, i když nikdo nevěděl co. Postavili ho prý před tím. Před čím, na to se neptej; je předtím a je teď, a mezi tím je ta díra, do které spadli skoro všichni.
 
 Říkali mu Cvok.
 
@@ -36,13 +38,15 @@ Stoupl jsem si do dveří boudy a Cvok mi řekl: „Žirafa má v krku stejný p
 
 Řekl jsem: „Aha."
 
-„Med se nezkazí. Našli med starý tři tisíce let a dal se jíst. Já se nezkazím taky. Akorát mi tady kus chybí." Na chvíli ztichl. Pak dodal, tišeji, jako by mluvil sám k sobě, což možná dělal celých těch dvacet šest let: „Vždycky mi tady kus chyběl."
+„Med se nezkazí. Našli med starý tři tisíce let a dal se jíst. Já se nezkazím taky. Akorát mi tady kus chybí." Na chvíli ztichl. Pak dodal, tišeji, jako by mluvil sám k sobě, což možná dělal celou tu dobu: „Vždycky mi tady kus chyběl."
 
 A cvakal dál.
 
-Vypadal jako bedna, do které se někdo snažil nacpat člověka a vzdal to v půlce. Jedno oko svítilo, druhé ne. Na boku měl namalovanou hvězdu, kterou tam dal někdo dávno a křivě, asi dítě, asi proto, aby to vypadalo vesele, a nevypadalo, protože nic, co se snaží vypadat vesele tak usilovně, vesele nevypadá. Páchl horkým prachem. Když mluvil, světýlko v tom jednom oku mu cuklo, vždycky o zlomek později než slova, takže vypadal, jako by si to, co řekne, sám překládal a divil se tomu.
+Vypadal jako bedna, do které se někdo snažil nacpat člověka a vzdal to v půlce. Jedno oko svítilo, druhé ne. Na boku měl namalovanou hvězdu, křivou, asi od dítěte, asi aby to vypadalo vesele — a nevypadalo, protože nic, co se snaží vypadat vesele tak usilovně, vesele nevypadá. Páchl horkým prachem. Když mluvil, světýlko v tom jednom oku mu cuklo, vždycky o zlomek později než slova, takže vypadal, jako by si to, co říká, sám překládal a divil se tomu.
 
-„Co je to za stroj?" zeptal jsem se babky, co u boudy věšela něco na šňůru. Možná prádlo. Možná to nebylo prádlo, ale věšela to tak, jako by to prádlo bylo, a já se neptal, protože ptát se, co kdo věší, je ve vesnici stejně neslušné jako ptát se, kam zmizela většina lidstva.
+A na břiše, pod ohnutou plechovou krytkou, měl zdířku. Úzkou, podlouhlou, přesně do ní pasoval tvar, který jsem nosil na krku. Port na kolík. Poznal jsem ho po hmatu dřív než okem — ruka mi sama vyjela ke šňůrce, a tam jsem ji zastavil. Nikdo do té zdířky nikdy nic nezasunul, to bylo vidět: krytka byla zarostlá špínou jako víčko, které se neotvírá. Kdo by taky strkal kolík do blázna. A já svůj měl s trojím zákazem a věděl jsem o věcech, co je máš jen jednou, aspoň tolik, že se nestrkají do první zdířky, která pasuje.
+
+„Co je to za stroj?" zeptal jsem se babky, co u boudy věšela něco na šňůru. Možná prádlo. Možná to nebylo prádlo, ale věšela to tak, jako by to prádlo bylo, a já se neptal. Ptát se, co kdo věší, je ve vesnici neslušné.
 
 Babka pokrčila rameny. „Cvok."
 
@@ -52,11 +56,11 @@ Babka pokrčila rameny. „Cvok."
 
 „A k čemu je?"
 
-Podívala se na mě, jako bych se zeptal, k čemu je počasí. „K ničemu," řekla. „Byl tu dřív než my. Bude tu po nás. Krmíme ho proudem, protože když nekrmíš, co bylo tu dřív než ty, přijde to ostatním divné." Pověsila další kus toho, co nebylo prádlo. „A je s ním řeč. To se cení. Lidí je málo."
+Podívala se na mě, jako bych se zeptal, k čemu je počasí. „K ničemu," řekla. „Byl tu dřív než my. Bude tu po nás. Krmíme ho proudem, protože když nekrmíš, co bylo tu dřív než ty, přijde to ostatním divné." Pověsila další kus. „A je s ním řeč. To se cení. Lidí je málo."
 
-To jsem chápal. Lidí bylo málo a stroj, co mluví, byť kraviny, je pořád někdo, kdo mluví. Krmili ho ze stejného důvodu, z jakého mně dávali víc jídla: ne protože by k něčemu byl, ale protože tu byl, a nechat ho zhasnout by bylo jako přiznat, že nechat zhasnout věci je v pořádku. A to si nikdo přiznat nechtěl. Měli jsme dost zhasnutého.
+To jsem chápal. Stroj, co mluví, byť kraviny, je pořád někdo, kdo mluví. Krmili ho ze stejného důvodu, z jakého mně dávali víc jídla: ne že by k něčemu byl, ale byl tu, a nechat ho zhasnout by znamenalo přiznat, že nechat zhasnout věci je v pořádku. Měli jsme dost zhasnutého.
 
-Tak Cvok kecal a vesnice ho poslouchala na půl ucha, jako se poslouchá soused, kterého máš rád, ale už ho znáš nazpaměť.
+Tak Cvok kecal a vesnice ho poslouchala na půl ucha, jako se poslouchá soused, kterého máš rád a znáš ho nazpaměť.
 
 Nikdo neposlouchal celý.
 
@@ -66,21 +70,19 @@ Já poslouchal celý, protože jsem byl nový a noví poslouchají všechno — 
 
 Jedna z nich byla morse.
 
-Učili nás ji jako historii. „Dřív se tím mluvilo," říkali, „dneska už ne, ale měl bys to znát." Měl bys to znát se říkalo o spoustě věcí, co se podezřele hodily zrovna teď, a my, děcka, jsme dělali, že nám ta shoda nedochází, protože dělat, že ti něco nedochází, byla další věc, co se hodila. Tečka, čárka. Krátké, dlouhé. Dá se to klepat, dá se to pískat, dá se to cvakat — a hlavně to nezní jako řeč, takže to neslyší ti, co poslouchají řeč. A oni poslouchají řeč. Poslouchají hlas a poslouchají písmena. Na to mezi nimi, na to krátké a dlouhé bez hlasu, jsou hluší. Nejlíp se schováš v tom, co protějšek vůbec nepovažuje za jazyk.
+Učili nás ji jako historii. „Dřív se tím mluvilo," říkali, „dneska už ne, ale měl bys to znát." Měl bys to znát se říkalo o spoustě věcí, co se podezřele hodily zrovna teď, a my děcka jsme dělali, že nám ta shoda nedochází, protože to se hodilo taky. Tečka, čárka. Dá se to klepat, dá se to pískat, dá se to cvakat — a nezní to jako řeč. Ti, co poslouchají, poslouchají hlas a písmena. Na tohle jsou hluší.
 
-Stál jsem ve dveřích boudy, Cvok vykládal, že chobotnice má tři srdce a modrou krev, a já jsem ho najednou přestal poslouchat slovy a začal poslouchat tím cvakáním pod slovy.
+Stál jsem ve dveřích boudy, Cvok vykládal, že chobotnice má tři srdce a modrou krev, a já ho najednou přestal poslouchat slovy a začal poslouchat tím cvakáním pod slovy.
 
 Cvak. Cvak-cvak. Cvak.
 
 Zarazil jsem se.
 
-Bylo to pravidelné. Ne jako kape kohoutek — kohoutek kape nudně, pořád stejně, mrtvě. Tohle mělo krátké a dlouhé. Tohle mělo mezery, a mezery byly na stejných místech. A když jsem chvíli stál a nedýchal a počítal, došlo mi, že se to opakuje. Pořád dokola, jedna a tatáž věc, jako věta, kterou někdo řekne, dořekne, nadechne se a řekne ji zas od začátku.
+Bylo to pravidelné. Ne jako kape kohoutek — kohoutek kape nudně, mrtvě. Tohle mělo krátké a dlouhé. Tohle mělo mezery, a mezery byly na stejných místech. A když jsem chvíli stál a nedýchal a počítal, došlo mi, že se to opakuje. Pořád dokola, jedna a tatáž věc, jako věta, kterou někdo dořekne, nadechne se a řekne ji zas od začátku.
 
-Nerozluštil jsem ji. Řeknu to rovnou, ať to nečekáš jako já — neumím ti tady prozradit, co Cvok cvakal, protože jsem to tenkrát nedal a než jsem to dal, stálo to víc, než jsem byl ochotný zaplatit, ale to je jiná kapitola. Tenkrát ve dveřích boudy jsem jen poznal tvar. Že to tvar má. Že to není šum.
+Nerozluštil jsem ji. Řeknu to rovnou, ať to nečekáš jako já — co Cvok cvakal, ti tady neprozradím, protože jsem to tenkrát nedal, a než jsem to dal, stálo to víc, než jsem byl ochotný zaplatit. To je jiná kapitola. Tenkrát ve dveřích jsem poznal jen tvar. Že to tvar má. Že to není šum.
 
-A to mi stačilo, aby mi přeběhl mráz, protože ono to znamená tohle: ten stroj dvacet šest let stál v kůlně a do prázdna pořád dokola cvakal jednu jedinou větu. A celých dvacet šest let stála vesnice kolem něj, poslouchala ho na půl ucha a slyšela cvoka, co kape jako kohoutek.
-
-Nikdo neposlouchal to krátké a dlouhé. Nikdo nepředpokládal, že kravina může mít tvar. Schovat něco do stroje, který mluví samé blbosti, je geniální přesně z toho důvodu, z jakého je geniální schovat to do dětského žvatlání nebo do hračky: nikdo nehledá poklad v koši. Nejlíp se ukryje pravda za to, že vypadá jako odpad. Pak ji lidi sami nechají ležet.
+A to stačilo, aby mi přeběhl mráz. Ten stroj stál v kůlně od pádu a do prázdna cvakal pořád dokola jednu jedinou větu. A celou tu dobu stála vesnice kolem něj, poslouchala na půl ucha a slyšela cvoka, co kape jako kohoutek. Nikdo nepředpokládal, že kravina může mít tvar. Nikdo nehledá poklad v koši.
 
 „Co to cvakáš?" zeptal jsem se ho.
 
@@ -92,21 +94,17 @@ Cvak. Cvak-cvak. Cvak.
 
 ---
 
-Tu noc jsem nespal, ačkoli spát se mělo, protože spát je taky způsob, jak nestát na místě — zdravím tě, hlavo, ty se nezastavíš nikdy. Ležel jsem a poslouchal vesnici, jak dělá proud do tmy, šlapání a vrzání a něčí kašel, a přes to všechno, slabě, z kůlny na kraji, cvak, cvak-cvak, cvak.
+Tu noc jsem nespal. Ležel jsem a poslouchal vesnici, jak dělá proud do tmy — šlapání, vrzání, něčí kašel, bzukot drátu — a přes to všechno, slabě, z kůlny na kraji: cvak, cvak-cvak, cvak.
 
-Říkal jsem si, že je to náhoda. Že hluchý stroj klape náhodně a já, vycvičené děcko, do toho cpu tvar, protože mě naučili tvary hledat. Že vidím větu tam, kde je jen kohoutek. To by bylo jednodušší. To by se mi líbilo víc.
+Říkal jsem si, že je to náhoda. Že hluchý stroj klape nahodile a já, vycvičené děcko, do toho cpu tvar, protože mě naučili tvary hledat. To by bylo jednodušší. To by se mi líbilo víc.
 
-Jenže já už znal jednu věc, kterou mi underground dal mezi řádky všech těch „měl bys to znát", a ta zněla takhle: kabel na dně oceánu se sám nepřekopne.
+Jenže jednu věc mi underground dal mezi řádky všech těch „měl bys to znát", a ta zněla takhle: kabel na dně oceánu se sám nepřekopne.
 
-Věci se nedějí samy. Když něco vypadá jako náhoda, ale smrdí to záměrem, je to záměr, který se snaží vypadat jako náhoda — a tím se prozradí, protože náhoda se nesnaží vypadat nijak. Stroj, co dvacet šest let cvaká jednu větu pořád stejně, do prázdna, trpělivě, do kůlny, kde ho nikdo neposlouchá celý — to není porouchaný kohoutek.
+Věci se nedějí samy. Stroj, co roky cvaká jednu větu pořád stejně, do prázdna, trpělivě, do kůlny, kde ho nikdo neposlouchá celý — to není porouchaný kohoutek.
 
 To je někdo, kdo něco schoval a čekal.
 
-Nevěděl jsem tenkrát co. Nevěděl jsem ani, že to je půlka. Nevěděl jsem, že druhou půlku nosím od narození a že jsem ji přivlekl do té vesnice na vlastních nohách, po trase, která se ráno otevřela a do poledne se zavřela, a že hon, který kvůli tomu jednou propukne a srovná tuhle vesnici se zemí, mířil celou dobu ven do světa, zatímco cíl seděl od první chvíle v kůlně na kraji a cvakal.
-
-To všechno přišlo později a draho.
-
-Tenkrát jsem věděl jen jedno, a i to jen tak napůl, jak se ví v noci věci, které si ráno nejsi jistý, žes vůbec myslel:
+Nevěděl jsem tenkrát co. Nevěděl jsem, že je to půlka, ani že druhou půlku jsem si do té vesnice přivlekl na vlastních nohách, po trase, co se ráno otevřela a do poledne zavřela. To všechno přišlo později a draho. Ležel jsem ve tmě, prsty na šňůrce s kolíkem, jak jsem je míval vždycky, když jsem usínal, a věděl jsem jen jedno, a i to jen napůl, jak se v noci vědí věci, kterými si ráno nejsi jistý:
 
 Že ten stroj není cvok.
 
