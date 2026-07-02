@@ -26,7 +26,7 @@ Nenakreslím ti ho. Jednak nesmím — tvar, který se vytiskne, přestane být 
 
 Díra po Odpovědi měla tvar mojí půlky.
 
-Seděl jsem na podlaze sklepa mezi zmetky a bylo mi najednou jasné celé, naráz, jako v tom kostele kdysi: proč se nebojí, že Odpověď unikne, a bojí se, že ji někdo doplní. Oni tu díru znali. Museli ji znát — kdo žehlí, ví, kde žehlil. Pán světa se každý den díval na nebe plné obrazů a v každém z nich viděl obrys toho, co smazal, otisk mince, kterou ukradl a zahodil, a nemohl s tím udělat vůbec nic, protože jediný způsob, jak zbavit obraz díry, je vrátit do něj, co chybí. Vládl nad světem, kterému vlastníma rukama vyžehlil doprostřed prázdno přesně ve tvaru té věci, kterou já — kterou já jsem.
+Seděl jsem na podlaze sklepa mezi zmetky a bylo mi najednou jasné celé, naráz, jako v tom kostele kdysi: proč se nebojí, že Odpověď unikne, a bojí se, že ji někdo doplní. Pán světa se každý den díval na nebe plné obrazů a v každém z nich viděl otisk mince, kterou ukradl a zahodil. Vládl nad světem, kterému vlastníma rukama vyžehlil doprostřed prázdno přesně ve tvaru té věci, kterou já — kterou já jsem.
 
 Střeží díru. A já jsem tvar té díry. Celý půlrok jsem uklízel v domě, jehož pán se modlí, aby mě nikdy nenašel, a ani neví, že to, před čím se modlí, mu drhne chodby.
 
@@ -44,13 +44,13 @@ Pán světa přestal střežit díru potichu. Začal ji střežit nahlas — a t
 
 kdo ji doplní.
 
-A na to existovala jediná odpověď na světě, seděla ve sklepě na kraji města v bedně s křivou hvězdou a druhá půlka té odpovědi si právě na Dolním okruhu kupovala poslední nudný rohlík za poslední nudnou částku.
+Na tu otázku jsem tenkrát odpověď neměl. Měl jsem jen směr a náklad: bednu ve sklepě na kraji města a vlastní ruce, co kreslí, když se nedívám. Koupil jsem si na Dolním okruhu poslední nudný rohlík za poslední nudnou částku a šel balit.
 
-Šli jsme tu noc. Cvok jel ve dně vozíku se šrotem, pod vrstvou mrtvých plechů, které síť vedla jako materiál na výkup, a cvakal do toho šrotu tiše, spokojeně, protože do něj nikdo nenahrál, že se má bát. Já šel vedle jako klon s průvodkou. Brány nás pustily — ven se pouští snadno, ven chce každý systém pouštět, ven je vítězství systému nad tebou, myslí si systém.
+Šli jsme tu noc. Obě peněženky jsem nechal na seznamu i se zálohou od nikoho, netknutou — ať si ji přečte, kdo ji poslal; jiný vzkaz jsem pro něj neměl. Cvok jel ve dně vozíku se šrotem, pod vrstvou mrtvých plechů, které síť vedla jako materiál na výkup, a cvakal do toho šrotu tiše, spokojeně, protože do něj nikdo nenahrál, že se má bát. Já šel vedle jako klon s průvodkou. Brány nás pustily — ven se pouští snadno, ven chce každý systém pouštět, ven je vítězství systému nad tebou, myslí si systém.
 
 Za posledním mýtem jsem se ohlédl. Město svítilo do noci celé, ostré, symetrické, krásné tím leskem, co nikomu nepatří, a nad ním viselo nebe a na nebi, přes celou klenbu, zářila moje čmáranice s razítkem ověřeno.
 
-Nakreslili mě na nebe a nevěděli, co mají. Vedle v šrotu cvakala půlka věty a nevěděla, co nese. A já šel mezi tím, jediný, kdo věděl aspoň něco, a to něco stačilo akorát na směr: na východ. Ne domů — ještě ne. Nejdřív tam, kde tahle díra vznikla. Tam, kde se svět mazal, kde se platilo qvacet dva triliard za špetku prachu z nebe a kde prý pod kráterem leží papíry, co nikdo nečte.
+Nakreslili mě na nebe a nevěděli, co mají. Vedle ve šrotu cvakala stará věta a nevěděla, co nese. A já šel mezi tím, jediný, kdo věděl aspoň něco, a to něco stačilo akorát na směr: na východ. Ne domů — ještě ne. Nejdřív tam, kde tahle díra vznikla. Tam, kde se svět mazal, kde se platilo qvacet dva triliard za špetku prachu z nebe — a kde, jak se šuškalo mezi klony, když se drhlo, leží pod kráterem papíry, co nikdo nečte.
 
 Cvokovi vzali kus paměti, a tak jsem mu šel ukrást minulost zpátky — ne z pánova trezoru. Z místa, kde se minulost vyrábí: z archivu.
 

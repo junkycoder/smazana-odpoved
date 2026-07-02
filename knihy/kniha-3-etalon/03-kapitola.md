@@ -2,13 +2,13 @@
 
 Studia, odkud se plnilo nebe, byla největší budova, jakou jsem kdy viděl zevnitř, a nejprázdnější.
 
-Čekal jsem mraveniště. Ono tam skoro nikdo nebyl. Patra sálů, kilometry chodeb, všude ten lesk, co nikomu nepatří — a lidí hrstka, roztroušená po kancelářích jako poslední hosté po slavnosti, která se koná už jen ze setrvačnosti. Nebe totiž dávno plnily stroje. Počasí generovaly stroje, přehledy skládaly stroje, blahopřání psaly stroje a četly je tváře, které stroje kreslily podle tváří, co už nežily. Celé to obrovské studio byla vlastně jen jedna velká zdířka, kterou se do nebe lil výpočet, a hrstka lidí kolem hlídala, aby se nezadrhl, a uklízela po sobě kelímky, a ty kelímky jsem uklízel já.
+Čekal jsem mraveniště. Ono tam skoro nikdo nebyl. Patra sálů, kilometry chodeb, všechno naleštěné — a lidí hrstka, roztroušená po kancelářích jako poslední hosté po slavnosti, která se koná už jen ze setrvačnosti. Nebe totiž dávno plnily stroje. Počasí generovaly stroje, přehledy skládaly stroje, blahopřání psaly stroje a četly je tváře, které stroje kreslily podle tváří, co už nežily. Celé to obrovské studio byla vlastně jen jedna velká zdířka, kterou se do nebe lil výpočet, a hrstka lidí kolem hlídala, aby se nezadrhl, a uklízela po sobě kelímky, a ty kelímky jsem uklízel já.
 
 Ale jedna živá tvář tam pořád byla. Jednou týdně, sál C, dopoledne. Ta velká. Ta laskavá. Ta z ukolébavek.
 
 Nebudu ti říkat, jak se jmenovala, jednak proto, že jména nedávám, jednak proto, že její jméno stejně nebylo její — bylo to obchodní označení, vedené na etalon, jak jsem se dozvěděl mnohem později z papírů, které nikdo neskartoval, protože papíry, co nikdo nečte, se skartovat nemusí. Řeknu jí Tvář, protože to byla její práce i její celá osoba: být tvář.
 
-Zpívala nám, když jsme byli malí. To si nes s sebou celou tuhle kapitolu: ten hlas, co mi doma nad hlavou sliboval jasno a klid, ten hlas znělo moje nejranější dětství, dřív než vesnice, dřív než všechno. Byla milovaná tak, jak už nikdo nikdy milovaný nebude, protože ji milovaly tři generace naráz a všechny za něco jiného. A já ji teď vídal jednou týdně naživo, z chodby, hadrem po lino, a řeknu ti, co jsem viděl.
+Zpívala nám, když jsme byli malí. To si nes s sebou celou tuhle kapitolu: ten hlas, co mi doma nad hlavou sliboval jasno a klid — tím hlasem znělo moje nejranější dětství, dřív než vesnice, dřív než všechno. Byla milovaná tak, jak už nikdo nikdy milovaný nebude, protože ji milovaly tři generace naráz a všechny za něco jiného. A já ji teď vídal jednou týdně naživo, z chodby, hadrem po lino, a řeknu ti, co jsem viděl.
 
 Viděl jsem starou paní, kterou přivážejí v křesle, hodinu líčí a pak jí do ucha diktují, co má říkat. Doslova do ucha — měla sluchátko, a v něm jí běžel text, foneticky, slabika po slabice, protože text měnili na poslední chvíli a ona už se nové věci neučila. Zpívala rozkazy, kterým nerozuměla, protože jí přicházely po slabikách; slabiky nemají obsah, obsah má věta, a věta nebyla její. Jednou se zadrhla uprostřed hlášení a řekla do ticha sálu, bezradně, tím hlasem z ukolébavek: „Já nevím, co je za tím slovem dál." A střih to vzal, stroj doplnil zbytek její tváří a nebe si ničeho nevšimlo.
 
@@ -32,7 +32,7 @@ Zastavil se tři kroky ode mě, u okna, za kterým se přes celé město dívalo
 
 A šel dál, a chodba se za ním zase pokřivila do normálu, a já stál s hadrem v ruce a skládal si po slabikách, co jsem slyšel, jako Tvář svoje hlášení, jenže mně z těch slabik věta vyšla.
 
-Nedokončená. Rozdělaná. Špatně evidovaná. Nemluvili o plechovkách. Tak se nemluví o plechovkách — tak se mluví o věci, která má být celá, a není, a její necelost někoho nahoře žere dvacet šest let. Hledali něco, čemu chyběl kus. A vedle toho, druhou rukou, platili odměny za „staré mašiny" z neregulovaných zón a říkali tomu úklid, a říkali tomu binec se starými daty, a zvyšovali cenu.
+Nedokončená. Rozdělaná. Špatně evidovaná. Nemluvili o plechovkách. Tak se nemluví o plechovkách — tak se mluví o věci, která má být celá, a není, a její necelost někoho nahoře žere od pádu. Hledali něco, čemu chyběl kus. A vedle toho, druhou rukou, platili odměny za „staré mašiny" z neregulovaných zón a říkali tomu úklid, a říkali tomu binec se starými daty, a zvyšovali cenu.
 
 Tenkrát na té chodbě jsem poprvé celý pochopil, že — tady mi kus chybí.
 
@@ -56,7 +56,7 @@ Vezli ho do centra. Všechno zabavené se vozilo do centra — to jsem věděl z
 
 A co cenu nemělo, šlo do skartace.
 
-Cvakej, prosil jsem ho tu noc přes celé město, přes všechna jeho razítka a všechny jeho zelené tečky. Cvakej tiše, ty stará bedno. Kapej jako kohoutek. Buď blázen, buď k ničemu, buď pod cenou — je to jediná řeč, které rozumějí, a jediná, která tě kdy zachránila.
+Cvakej, prosil jsem ho tu noc přes celé město, přes všechna jeho razítka a všechny jeho zelené tečky. Cvakej tiše, ty stará bedno. Buď porucha. Buď blázen, buď k ničemu — je to jediná řeč, které rozumějí, a jediná, která tě kdy zachránila.
 
 Jenže já věděl, že tentokrát to stačit nemusí. Doma ho míjeli, protože nikdo nesbírá odpad. Tady ho zajali *jako odpad* — a odpad se tady neminul. Odpad se tady likvidoval, na to byl postup, okno, formulář a fronta.
 

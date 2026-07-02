@@ -106,7 +106,7 @@ Zaseje se ve 3, plná konvergence v 5. V rozhodující scéně **robot nesmí ro
 
 - **Otázková štafeta:** každá kniha končí obrácením své otázky (K1 co je to za stroj → čí je · K2 kdo je to dítě → co nese · K3 proč chybí → kdo ji doplní · K4 co se stalo v 00 → co se stane v 00 · K5 co je Odpověď → vykonej ji). Závazný vzorec.
 - **Eskalace cen:** K1 půlka vesnice → K2 kurýr + agora → K3 Cvokova paměť (modul) → K4 Rozpůlitel + spuštěné mazání 2.0 → K5 Síto + sirotek. Každá kniha bere něco, co předchozí naučila čtenáře milovat; nikdy nebrat dvakrát totéž.
-- **Playbackové díry** (rámec nahrávky): K2 žádná → K3 tři, poprvé v klimaxu (moment poškození) → K4 v nejtemnějším bodě → K5 playback dožene přítomnost a přejde v nahrávání; kapitoly K5 nesou odpočet 05→00.
+- **Playbackové díry** (rámec nahrávky): K2 žádná → K3 tři (kap. 3, 5, 6) — **korelují s blízkostí Lháře**, ne s fyzickým poškozením (Cvokova ztráta = modul, jiná rána); sirotek si korelace všimne („díry sedí tam, kde seděl on"), nevysvětluje se → K4 jedna, v nejtemnějším bodě → K5 playback dožene přítomnost a přejde v nahrávání; kapitoly K5 nesou odpočet 05→00. **Splátka v K5:** Lhář je člověk „vyrobený tak, aby se nedal popsat" — chodící díra; místa, kde stál, se z nahrávky žehlí sama (rým s dírou v obrazech).
 
 ## Tón a co hlídat
 

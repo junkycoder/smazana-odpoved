@@ -6,7 +6,7 @@ Na Dolním okruhu, kudy jezdila ranní kolona klonů do centra, jich sedávala �
 
 Klíče k těm peněženkám neměl nikdo z těch, co u nich seděli.
 
-To mi vysvětlil parťák z úklidové čety, klon o dvacet let starší, který mluvil, jen když se drhlo, protože drhnutí hluší kamerám odezírání. „Klíče drží správa," řekl a drhl. „Vybraný se jim pouští po kapkách, na jídlo, na nocleh — v poukázkách, aby to nepropili. Kdyby měli klíče, mohli by se jednoho dne sebrat a odejít, a to nejde. Voni maj bejt vidět. Vod toho tam sou."
+To mi vysvětlil parťák z úklidové čety, klon o dvacet let starší, který mluvil, jen když se drhlo, protože drhnutí kazí kamerám odezírání. „Klíče drží správa," řekl a drhl. „Vybraný se jim pouští po kapkách, na jídlo, na nocleh — v poukázkách, aby to nepropili. Kdyby měli klíče, mohli by se jednoho dne sebrat a odejít, a to nejde. Voni maj bejt vidět. Vod toho tam sou."
 
 „Od čeho?"
 
@@ -24,7 +24,7 @@ Bylo všude. Na chlebu: složení ověřeno. Na zprávách, co běžely po fasá
 
 Chvíli mi trvalo, než jsem pochopil, co přesně se ověřuje. Neověřovalo se, jestli je něco pravda. Ověřovalo se, jestli něco souhlasí se záznamem. Chleba nebyl ověřeně dobrý; byl ověřeně stejný jako včera. Zpráva nebyla ověřeně pravdivá; byla ověřeně vydaná tím, kdo měl na vydávání zpráv oprávnění. Člověk nebyl ověřeně slušný; byl ověřeně totožný sám se sebou z minulého týdne. Celé město si každý den razítkovalo, že je pořád to včerejší město, a tomu razítku říkalo pravda.
 
-A protože razítko bylo levné, razítkovalo se všechno, a protože se razítkovalo všechno, neznamenalo razítko nic, a protože neznamenalo nic, prodávalo se v balíčcích. Na černo — i tady byl trh, jen se mu říkalo služby optimalizace. Za slušnou částku ti služba srovnala skóre, dorazítkovala díry v historii, dodala ti pár měsíců nudných plateb zpětně. Ověřeno znamenalo, že to někdo potřeboval mít ověřený. Nic víc to neznamenalo už dávno, a všichni to věděli, a nikdo to neřekl, protože razítko, o kterém se nahlas řekne, že neplatí, přestane platit i na chleba, a pak by se muselo začít znova a ptát se, co je pravda, a na to tady nebyl formulář.
+A protože razítko bylo levné, razítkovalo se všechno, a protože se razítkovalo všechno, neznamenalo razítko nic, a protože neznamenalo nic, prodávalo se v balíčcích. Na černo — i tady byl trh, jen se mu říkalo služby optimalizace. Za slušnou částku ti služba srovnala skóre, dorazítkovala díry v historii, dodala ti pár měsíců nudných plateb zpětně. Ověřeno znamenalo, že to někdo potřeboval mít ověřený. Nic víc to neznamenalo už dávno, a všichni to věděli, a nikdo to neřekl, protože razítko, o kterém se nahlas řekne, že neplatí, přestane platit i na chleba, a pak by se muselo začít znova a ptát se, co je pravda, a tu otázku si tohle město nemohlo dovolit.
 
 Věděl jsem, odkud to znám. Z trhu ve vesnici, kde se cenila pravdomluvnost prodavače, protože se nedalo ověřit nic. Tady se dalo ověřit všechno — a právě proto tu pravdomluvnost neměl nikdo. Ty dvě věci, jak jsem si tenkrát v duchu poznamenal a dodnes to neumím říct líp, rostou vždycky do kříže: čím víc razítek, tím míň slova.
 

@@ -4,9 +4,9 @@ Do města se nevchází. Do města se vstupuje, a ten rozdíl je celé město v 
 
 Zapsala mě tam Schránkova síť, a trvalo to půl roku.
 
-Půl roku jsem bydlel v předměstských troskách u lidí, co se na mě nedívali, protože co nevidíš, to nemůžeš popsat, a učil se roli. Role byla tahle: jsem klon. Ne něčí dítě, ne kurýr, ne kluk odnikud — klon, vypěstovaná pracovní kopie jistého poustevníka, kterého jsem nikdy neuvidím, protože poustevníci se nevidí, a přesně proto to fungovalo. Klonů byly ve městě tisíce. Odírali městskou práci za lidi se statusem: chodili do zaměstnání, stáli fronty, nastavovali tvář kamerám, a večer mizeli do ubytoven, kde se o ně nikdo nezajímal, protože zajímat se o klona je jako zajímat se o něčí deštník. Klon bylo to nejneviditelnější, čím se ve městě dalo být — kopie bez vlastního obsahu, tělo vedené cizím jménem.
+Půl roku jsem bydlel v předměstských troskách u lidí, co se na mě nedívali, protože co nevidíš, to nemůžeš popsat, a učil se roli. Role byla tahle: jsem klon. Ne něčí dítě, ne kurýr, ne kluk odnikud — klon, vypěstovaná pracovní kopie jistého poustevníka, kterého jsem nikdy neuvidím, protože poustevníci se nevidí, a přesně proto to fungovalo. Klonů byly ve městě tisíce. Odíraly městskou práci za lidi se statusem: chodily do zaměstnání, stály fronty, nastavovaly tvář kamerám, a večer mizely do ubytoven, kde se o ně nikdo nezajímal, protože zajímat se o klona je jako zajímat se o něčí deštník. Klon bylo to nejneviditelnější, čím se ve městě dalo být — kopie bez vlastního obsahu, tělo vedené cizím jménem.
 
-Under mě naučil chodit jako klon (o poznání pomaleji, klon nikam nespěchá, jeho čas patří jinému), dívat se jako klon (nikam), mluvit jako klon (málo a zdvořile — klon je vizitka svého majitele a vizitky nemluví sprostě). A pak mi dali to hlavní.
+Podzemí mě naučilo chodit jako klon (o poznání pomaleji, klon nikam nespěchá, jeho čas patří jinému), dívat se jako klon (nikam), mluvit jako klon (málo a zdvořile — klon je vizitka svého majitele a vizitky nemluví sprostě). Kolík jsem si přešil z krku do pásku: klon nenosí na krku nic, co se nedá zaúčtovat. A pak mi dali to hlavní.
 
 Peněženky.
 

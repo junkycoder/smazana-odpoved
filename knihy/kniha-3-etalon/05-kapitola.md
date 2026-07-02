@@ -26,7 +26,7 @@ A já věděl, že tam jdu. Věděl jsem to dřív, než jsem si to dovolil mysl
 
 ---
 
-Do jádra jsem se dostal jedinou cestou, která tam vedla, totiž tou, kterou tam city pouštělo samo: s hadrem. Evidence vytěžených dílů sídlila v prvním prstenci jádra — pořád ještě předsíň, říkal jsem si, pořád ještě ne pokoj — a první prstenec se uklízel, protože prach nečte oprávnění.
+Do jádra jsem se dostal jedinou cestou, která tam vedla, totiž tou, kterou tam město pouštělo samo: s hadrem. Evidence vytěžených dílů sídlila v prvním prstenci jádra — pořád ještě předsíň, říkal jsem si, pořád ještě ne pokoj — a první prstenec se uklízel, protože prach nečte oprávnění.
 
 Šel jsem tam v pondělí, s rozpisem, který mě stál poslední laskavost, kterou mi Schránkova síť dlužila, a s legendou tenkou jako mop. A protože osud je vypravěč se smyslem pro úspory, vedla cesta do evidence chodbou podél sálu, kterému se neříkalo nijak, a já ho uviděl, protože dveře byly prosklené a světla uvnitř svítila vždycky.
 

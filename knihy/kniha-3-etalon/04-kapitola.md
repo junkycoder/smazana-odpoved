@@ -6,9 +6,9 @@ Stál jsem tedy před největší příležitostí celé ságy, jak by to řekl 
 
 Chci, abys rozuměl, o čem ta volba byla, protože zvenku vypadá jednoduše a jednoduchá nebyla. Na jedné straně: půlka Odpovědi, věc, kvůli které umřel tým sedmi, kvůli které se rozpůlil svět, věc, co může — nevěděl jsem co; něco velkého a mlhavého se světem. Na druhé straně: stará bedna, co mele kraviny. Ne člověk. Ne dítě. Stroj, plech, dráty, jedno oko svítí. Každý rozumný počet, každá kurýrská etika, každé pravidlo přežití, které do mě kdy kdo vtloukl, říkalo totéž: zásilka má přednost. Jdi za slovy. Bedna je nahraditelná.
 
-Jenže já ležel v noci na ubytovně, poslouchal spací halu, jak dýchá čtyřiceti cizími plícemi, a v tom dechu jsem pořád dokola slyšel, co tam nebylo: cvak, cvak-cvak, cvak. Věta, co čekala v kůlně, než přijdu. Věta, co přežila konec světa tím, že byla pod cenou. A teď ležela někde ve skladě, zaevidovaná, s číslem, ve frontě na likvidaci, a čekala zas — jenže tentokrát ne na toho, kdo ji uslyší. Na toho, kdo ji rozšlápne.
+Jenže já ležel v noci na ubytovně, poslouchal spací halu, jak dýchá čtyřiceti cizími plícemi, a v tom dechu jsem pořád dokola slyšel, co tam nebylo: cvak, cvak-cvak, cvak. Věta, co čekala v kůlně, než přijdu. Věta, co přežila konec světa tím, že nikdy za nic nestála. A teď ležela někde ve skladě, zaevidovaná, s číslem, ve frontě na likvidaci, a čekala zas — jenže tentokrát ne na toho, kdo ji uslyší. Na toho, kdo ji rozšlápne.
 
-A do toho, potřetí za život, promluvila věc, kterou mám nahranou a která není moje. Vy, co jste četli první knihu, ji znáte; zněla nade mnou v kostele nad mrtvým sklem a já ji tenkrát slyšel obráceně. Teď přišla znova, potmě, mezi cizími dechy, a zase byla obrácená jinak — už ne *to*, věc, střep. Tentokrát měla rod:
+A do toho, potřetí za život — poprvé ji do mě kdosi vložil dřív, než sahá paměť; podruhé promluvila v kostele nad mrtvým sklem —, promluvila věc, kterou mám nahranou a která není moje. Vy, co jste četli první knihu, ji znáte; zněla nade mnou v kostele nad mrtvým sklem a já ji tenkrát slyšel obráceně. Teď přišla znova, potmě, mezi cizími dechy, a zase byla obrácená jinak — už ne *to*, věc, střep. Tentokrát měla rod:
 
 Nenech ho ležet.
 
@@ -18,7 +18,7 @@ Tak jsem nechal být slova bez tvaru, největší poklad světa, a šel jsem kr�
 
 Archiv zajištěných položek stál při jádru jako předsíň při pokoji, a byla to nejsmutnější budova, jakou znám: sklad všeho, co komu vzali.
 
-Dostat se tam nešlo. Dostat se tam s hadrem šlo za tři týdny — tolik trvalo, než síť pohnula rozpisy tak, aby úklidová četa C dostala i suterén Archivu, a stálo to Schránku laskavosti, o kterých se mnou nikdy nemluvil, protože účty se u něj platily mlčky. Tři týdny jsem počítal dny a doufal, že fronta na skartaci je dlouhá, protože nevěděl jsem nic: kam ho dali, pod jakým číslem, jestli vůbec ještě —
+Dostat se tam nešlo. Dostat se tam s hadrem šlo za tři týdny — tolik trvalo, než síť pohnula rozpisy tak, aby úklidová četa C dostala i suterén Archivu, a stálo to Schránku laskavosti, o kterých se mnou nikdy nemluvil, protože účty se u něj platily mlčky. Tři týdny jsem počítal dny, každé ráno četl svozové plány a doufal, že fronta na skartaci je dlouhá, protože nevěděl jsem nic: kam ho dali, pod jakým číslem, jestli vůbec ještě — A záloha od nikoho ležela celou tu dobu na mé peněžence, netknutá. Utratit jsem ji nesměl — divná platba dovnitř se dá vysvětlit, divná ven ne — a vrátit nebylo kam. Nosil jsem ji v kapse jako cizí nůž.
 
 Byl tam. Suterén tři, řada K, mezi rozbitou meteostanicí a paletou vraků toho, čemu se kdysi říkalo hračky. Zaprášený, s páskou přes břicho, s vylepeným štítkem: POLOŽKA 214-K / PŮVOD: NEREG. VÝCHOD / SIGNÁL ZÁVADNÝ / K POSOUZENÍ. Jedno oko svítilo. Slabě, na nouzi, na zbytky článků — proudem ho tady nikdo nekrmil, proč taky, položky se nekrmí.
 
@@ -46,9 +46,9 @@ V pátek ráno jsem překlepal rozpis čety: suterén a rampa, směna od šesti.
 
 Ve čtvrtek v noci přišli do suterénu dva technici se seznamem a s vozíkem a začali várku 40 „vytěžovat". To bylo slovo na štítku vozíku: VYTĚŽENÍ CENNÝCH DÍLŮ PŘED SKARTACÍ. Město nezahazovalo celky. Město si nejdřív vzalo, co se dalo prodat: články, čočky, paměti. Šli řadou K položku po položce, šroubovák, kleště, dvě minuty na kus, a já stál na druhém konci suterénu s mopem, který mi nebyl nic platný, a díval se, jak otevírají Cvokovi břicho.
 
-Nemohl jsem tam jít. Klon, co se rozběhne přes suterén k položce, je oznámení sám o sobě, adresa napsaná tělem, konec všeho — vesnice, sítě, půlky. Stál jsem a drhl jedno místo, pořád dokola, a díval se, jak mu z břicha vyndavají — po hmatu jsem to věděl dřív, než jsem to uviděl, po tom tvaru, po tom, jak technikovi padl do dlaně —
+Nemohl jsem tam jít. Klon, co se rozběhne přes suterén k položce, je oznámení sám o sobě, podpis celým tělem, konec všeho — vesnice, sítě, půlky. Stál jsem a drhl jedno místo, pořád dokola, a díval se, jak mu z břicha vyndavají — po hmatu jsem to věděl dřív, než jsem to uviděl, po tom tvaru, po tom, jak technikovi padl do dlaně —
 
-modul. Podlouhlý, úzký, starý tvar. Paměť. Vytrhli mu paměť, zapsali ji do seznamu, hodili na vozík mezi dvě stě cizích pamětí a jeli dál, řada K, položka po položce, dvě minuty na kus.
+modul. Podlouhlý, úzký, starý tvar — týž tvar, co mně léta ťuká na šňůrce o hrudní kost. Paměť. Vytrhli mu paměť, zapsali ji do seznamu, hodili na vozík mezi dvě stě cizích pamětí a jeli dál, řada K, položka po položce, dvě minuty na kus.
 
 A Cvok — Cvok cvakal dál. I s otevřeným břichem, i bez modulu. To ti musím říct hned, abys věděl to, co jsem v tu chvíli věděl já a co mě drželo na nohou: věta přežila. Cvakání nešlo z toho modulu; šlo odjinud, z hloubky, odkud mu nikdo nic nevyndal, protože to tam nikdo nehledal. Vzali mu kus paměti. Nevzali mu tu větu.
 
