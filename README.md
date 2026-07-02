@@ -12,6 +12,18 @@ Svět **26 let po pádu.** Síť se nerozpadla — někdo ji rozpojil. Co projde
 
 Vypravěčem je **robot Cvok** — jediný funkční stroj ve vesnici, postavený v roce 2026 —, který přehrává nahrávku zmizelého dítěte a sám jí nerozumí. Tón: **satira, podaná deadpan.** Adams přes českou cyniku.
 
+## Stav: SÁGA KOMPLETNÍ (1. průchod všech pěti knih)
+
+| # | Kniha | Otázka → obrat | Šifra | Stav |
+|---|---|---|---|---|
+| 1 | [Vesnice](knihy/kniha-1-vesnice/) | Co je to za stroj? → Čí je ten stroj? | Morse + falešný klíč | ✅ 2. verze (přepis) |
+| 2 | [Trasy](knihy/kniha-2-trasy/) | Kdo je to dítě? → Co to dítě nese? | Glyfy | ✅ + redakce |
+| 3 | [Etalon](knihy/kniha-3-etalon/) | Proč Odpověď chybí? → Kdo ji doplní? | Obraz-prompt | ✅ + redakce |
+| 4 | [Archiv](knihy/kniha-4-archiv/) | Co se stalo v 00? → Co se stane v 00? | Cross-book | ✅ + redakce |
+| 5 | [Kopie 00](knihy/kniha-5-kopie-00/) | Co je Odpověď? → Vykonej ji. | Sjednocení | ✅ + redakce |
+
+Každá kniha: předmluva (hlas Cvoka) + 6 kapitol (hlas sirotka) + **Klíč** (šifra dílu) + **Kolík** (protokol kurýra — reálný dead-drop: zkopíruj knihy na flash disk a polož je, kde se nekouká) + **Úřední údaje** (in-world zveřejněné BTC peněženky jako QR; adresy zatím `bc1q-DOPLNIT-…` — před vydáním nahradit reálnými).
+
 ## Struktura repozitáře
 
 ```
@@ -21,27 +33,17 @@ Vypravěčem je **robot Cvok** — jediný funkční stroj ve vesnici, postaven�
 ├── bible/                     # story bible — kánon, postavy, svět, pravidla
 │   └── kanon.md
 └── knihy/
-    └── kniha-1-vesnice/       # KNIHA 1: Vesnice — KOMPLETNÍ
-        ├── README.md          # osnova a stav knihy 1
-        ├── 00-predmluva.md    # předmluva (hlas Cvoka)
-        ├── 01-kapitola.md     # Kapitola 1 — Cvok
-        ├── 02-kapitola.md     # Kapitola 2 — Šum
-        ├── 03-kapitola.md     # Kapitola 3 — Nebe
-        ├── 04-kapitola.md     # Kapitola 4 — Sklo
-        ├── 05-kapitola.md     # Kapitola 5 — Stopa
-        ├── 06-kapitola.md     # Kapitola 6 — Tvar
-        └── 07-klic.md         # Klíč (morse + falešný klíč, hlas Cvoka)
+    ├── kniha-1-vesnice/       # KNIHA 1: Vesnice (00-predmluva … 09-penezenky)
+    ├── kniha-2-trasy/         # KNIHA 2: Trasy
+    ├── kniha-3-etalon/        # KNIHA 3: Etalon
+    ├── kniha-4-archiv/        # KNIHA 4: Archiv
+    └── kniha-5-kopie-00/      # KNIHA 5: Kopie 00 (kapitoly nesou odpočet 05→00)
 ```
 
-## Oblouk pěti knih
+## Reálný přesah (in-world × realita)
 
-| # | Kniha | Otázka | Šifra |
-|---|---|---|---|
-| 1 | Vesnice | Co je to za stroj? | Morse (+ falešný klíč) |
-| 2 | Trasy | Kdo je to dítě? | Glyfy |
-| 3 | Etalon | Proč Odpověď chybí? | Obraz-prompt |
-| 4 | Archiv | Co se stalo v 00? | Cross-book |
-| 5 | Kopie 00 | Co je Odpověď? | Sjednocení |
+- **Kolík (USB):** každá kniha končí protokolem kurýra — čtenář zkopíruje ságu na flash disk a „zatluče kolík" na dead-drop. Pointa K5: kniha je záloha kolíku; Cvok je kolík, který došel.
+- **BTC peněženky:** oficiální peněženky jsou v tom světě povinně veřejné (transparentnost jako propaganda) — knihy je proto tisknou jako úřední údaj s QR. Čtenář může poslat skutečné satoshi komukoli, klidně ironicky (odměna za udání, Lhářova nadace, žebrací stanoviště 07, mrtvé peněženky převratu, nakonec „projekt drát"). Text ironii nikdy nekomentuje.
 
 ## Distribuce
 
