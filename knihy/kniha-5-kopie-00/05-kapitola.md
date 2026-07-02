@@ -40,7 +40,7 @@ Tohle. Tohle, co slyšíš. Kolík od rodiče byl prázdný a čistý — jednou
 
 Nahrával jsem po kouskách, jak přikázal rodič — po kouskách se do něj vejde všechno a najednou nic —, večer za večerem, od začátku: Stůj, a jsi mrtvý. Neříká se to jako hrozba, říká se to jako počasí. Vesnici, trh, nebe, sklo, kavalerii, tvar. Trasy, značku, párty, agoru, klec, zatopenou knihovnu. Město, masku, modul, dutinu, díru. Kráter, důl, archiv, starce, jeho jméno řečené kameře, den, který jsem nenahrál. Drát, světla, hladké místo, rozkaz, kterému nešlo poslechnout jinak než neposlechnutím. Síto.
 
-A Cvok to bral a nesl a nerozuměl ničemu, věrně, spolehlivě, dvacet šest let vycvičený nerozumět — jediná schránka na světě, které se dalo svěřit všechno, protože jí nešlo vzít smysl, který neměla.
+A Cvok to bral a nesl a nerozuměl ničemu, věrně, spolehlivě, celý svůj dlouhý život vycvičený nerozumět — jediná schránka na světě, které se dalo svěřit všechno, protože jí nešlo vzít smysl, který neměla.
 
 Někde v půlce těch večerů mi došlo, proč to dělám, a od té chvíle jsem nahrával jinak: pomaleji, pečlivěji, na tebe. Nenahrával jsem kroniku. Nahrával jsem předání. Slova už běžela světem po drátech a tvar visel na nebi a lidi si skládali svoje — ale příběh, ten dlouhý, celý, s talíři a tužkami a hrnky s vodou, ten nikde neběžel, a příběh je třetí půlka každé rozpůlené věci: to, co drží první dvě u sebe, aby zase nevyschly na heslo a razítko. Tak jsem ho dal bedně. Bedna vydrží. Med se nezkazí.
 

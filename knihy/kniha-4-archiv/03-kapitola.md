@@ -12,7 +12,7 @@ A teď to horší. Uspořádání.
 
 PROTOKOL O ZAJIŠTĚNÍ A LIKVIDACI ZÁVADNÝCH MÉDIÍ. Číslo zásahu, datum, adresa. Kolonka *druh média*, kolonka *množství (kg)*, kolonka *způsob likvidace* — spáleno / skartováno / uloženo. Kolonka *odpor obyvatel*: nejčastěji NE, občas ANO a pak odkaz na jiný protokol, jiného úřadu, s jinou hlavičkou. A dole podpisy. Dva. Vždycky dva: kdo provedl, kdo schválil. Statisíce protokolů, miliony podpisů, a všechny čitelné, protože je psali lidé, kteří se nebáli — proč by se báli, dělali svou práci, práce měla formulář a formulář je nevina.
 
-Rozumíš, co ti říkám? Já to pochopil v tom sále a už to nepustím: mazání světa je zdokumentované líp než svět. Pálili paměť a vedli si o tom účetnictví. Nejpečlivěji vedený záznam v dějinách je seznam toho, co jsme smazali — a leží tady, pod jámou, srovnaný, podepsaný, s razítky. Kdyby ses chtěl dozvědět, co lidstvo vědělo, musel bys přebrat sudy. Kdyby ses chtěl dozvědět, co mu vzali — stačí číst rejstříky. Oni ti ten svět sepsali, když ho zabíjeli. Inventura je taky druh pomníku.
+Rozumíš, co ti říkám? Já to pochopil v tom sále a už to nepustím: mazání světa je zdokumentované líp než svět. Pálili paměť a vedli si o tom účetnictví. Nejpečlivěji vedený záznam v dějinách je seznam toho, co jsme smazali — a leží tady, pod jámou, srovnaný, podepsaný, s razítky. Kdyby ses chtěl dozvědět, co lidstvo vědělo, musel bys přebrat sudy. Kdyby ses chtěl dozvědět, co mu vzali — stačí číst rejstříky. Oni ti ten svět sepsali, když ho zabíjeli.
 
 ---
 

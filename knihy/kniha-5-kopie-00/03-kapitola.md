@@ -28,7 +28,7 @@ Já ne. A ne proto, že bych byl lepší. Proto, že jsem přesně tohle už jed
 
 Prošli jsme kolem. Sklo za námi zvonilo dál, trpělivě, do prázdné chodby — pánova poslední pojistka, poslední falešný klíč, čekající tady kdovíkolik let na toho, kdo dojde k ráně: na zoufalce, který si sáhne, vyčerpá se jediným pohledem na kus naleštěného nic, a odejde s prázdnou, přesvědčený, že Odpověď byla lež. Bylo to postavené na jedinou lidskou slabost, tu nejstarší: že po dlouhé cestě chce člověk, aby cíl vypadal jako cíl.
 
-Náš cíl vypadal takhle: šedé dveře bez nápisu, za nimi žebřík dolů, a dole sál rozvodného kmene — kilometr mědi srostlé do jednoho svazku, hučení, ze kterého bolely zuby, a prach. Obyčejný, poctivý, dvacet šest let starý prach, kterého se nikdo nedotkl.
+Náš cíl vypadal takhle: šedé dveře bez nápisu, za nimi žebřík dolů, a dole sál rozvodného kmene — kilometr mědi srostlé do jednoho svazku, hučení, ze kterého bolely zuby, a prach. Obyčejný, poctivý prach, starý jako pád, kterého se nikdo nedotkl.
 
 Tady. Tady se to stalo a tady se to odestane.
 

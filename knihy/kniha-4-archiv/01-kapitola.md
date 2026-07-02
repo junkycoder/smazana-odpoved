@@ -22,9 +22,9 @@ Dvě. To je na tom kráteru to nejdůležitější a proto ti je popíšu obě.
 
 Na severní vyhlídce stál pomník z bílého kompozitu, ošetřovaný, s tabulí. Tabule říkala: ZDE DOPADL DAR. Dar z hlubin vesmíru, vzácný materiál, který umožnil pokrok, konsolidaci a bezpečnou budoucnost; věnujte tichou vzpomínku průkopníkům těžby. Květiny, ověřeno, kamera.
 
-Na jižní vyhlídce stál pomník z rezavého železa, neošetřovaný, s tabulí. Tabule říkala: ZDE DOPADLA PAST. Kámen, který si někdo objednal, zaplatil a nechal spadnout přesně tam, kam bylo potřeba, aby se strhla válka o jámu; věnujte tichou vzpomínku těm, co jámu kopali a nevylezli. Žádné květiny, žádná kamera, jeden hrnek s vodou, do kterého někdo denně doléval.
+Na jižní vyhlídce stál pomník z rezavého železa, neošetřovaný, s tabulí. Tabule říkala: ZDE DOPADLA PAST. Kámen, který si někdo objednal, zaplatil a nechal spadnout přesně tam, kam bylo potřeba, aby se strhla válka o jámu; věnujte tichou vzpomínku těm, co jámu kopali a nevylezli. Žádné květiny, žádná kamera, jeden hrnek s vodou, do kterého někdo doléval.
 
-Mezi vyhlídkami bylo po stezce dvacet minut chůze a poutníci chodili na obě, jedni zbožně sem a s odporem tam, druzí obráceně, a všichni se dole v hospodě u cesty hádali, která tabule lže, a hádali se tak dvacet šest let, a nikdo to nerozhodl, protože rozhodnout to nešlo: obě verze měly papíry, obě verze měly svědky, obě verze měly mrtvé. U cesty se prodával prach z kráteru v lahvičkách, pravý, s certifikátem. Certifikáty byly dva druhy, podle vyhlídky. Prach byl stejný.
+Mezi vyhlídkami bylo po stezce dvacet minut chůze a poutníci chodili na obě, jedni zbožně sem a s odporem tam, druzí obráceně, a všichni se dole v hospodě u cesty hádali, která tabule lže, a hádali se tak od pádu, a nikdo to nerozhodl, protože rozhodnout to nešlo: obě verze měly papíry, obě verze měly svědky, obě verze měly mrtvé. U cesty se prodával prach z kráteru v lahvičkách, pravý, s certifikátem. Certifikáty byly dva druhy, podle vyhlídky. Prach byl stejný.
 
 Stál jsem mezi těmi dvěma tabulemi a poprvé v životě viděl, jak vypadá svět, kterému někdo smazal odpověď: ne jako prázdno. Jako dvě plné, pečlivě udržované verze, mezi kterými se dá do smrti chodit sem a tam.
 
@@ -38,7 +38,7 @@ Poutníci mluvili o zázraku a o pasti, podle vyhlídky. Místní nemluvili o kr
 
 Neřekl jsem nic. Mlčení je jediná odpověď, kterou nejde použít proti tobě, a i to jen většinou.
 
-„Neboj se," řekl dědek. „Tady se nehlásí. Tady u jámy jsme všichni závadový vzor, na to nemaj dost sazebníku." Usrkl. „Já jen — že jsem takový cvakání slyšel naposledy jako mladej. Dělal jsem u pásu, ještě před jámou. Montovali jsme ledacos." Podíval se na mě jedním okem, tak, jak se přebírá hromada. „Tyhle bedny stavěl jeden člověk. Jeden jedinej. Nikdy jsem ho neviděl, jen ty jeho — poznaly se podle toho cvakání, capacita navíc, říkalo se, že tam dává schránku na —" mávl rukou. „Řeči. Každej u pásu měl nějaký řeči."
+„Neboj se," řekl dědek. „Tady se nehlásí. Tady u jámy jsme všichni závadový vzor, na to nemaj dost sazebníku." Usrkl. „Já jen — že jsem takový cvakání slyšel naposledy jako mladej. Dělal jsem u pásu, ještě před jámou. Montovali jsme ledacos." Podíval se na mě jedním okem, tak, jak se přebírá hromada. „Tyhle bedny stavěl jeden člověk. Jeden jedinej. Nikdy jsem ho neviděl, jen ty jeho — poznaly se podle toho cvakání, kapacita navíc, říkalo se, že tam dává schránku na —" mávl rukou. „Řeči. Každej u pásu měl nějaký řeči."
 
 „Kde je?" zeptal jsem se. Moc rychle. Hlad je vidět.
 

@@ -26,7 +26,7 @@ Seděl jsem tam a bylo mi zima z krásy toho plánu, protože přesně tohle zna
 
 „— je tam, kde to všechno mažou," dořekla Síto. „Kopie nula nula."
 
-Kopie 00. Slyšel jsem to jméno poprvé vyslovené nahlas jako místo, ne jako datum: uzel, kde se před dvaceti šesti lety svět odpojil od sebe; datacentrum, ze kterého tenkrát vyjel příkaz přeseknout, zamknout, spálit; sál, kde masátko dostalo poprvé napít. Rána sama. Stálo to pořád — samozřejmě, že to stálo, staré a celé, pád to minul, protože pád odtamtud vyšel — a všechno, co v téhle zemi teklo, teklo tamtudy: proud, nebe, rozkazy.
+Kopie 00. Slyšel jsem to jméno poprvé vyslovené nahlas jako místo, ne jako datum: uzel, kde se tenkrát v nula nula svět odpojil od sebe; datacentrum, ze kterého tenkrát vyjel příkaz přeseknout, zamknout, spálit; sál, kde masátko dostalo poprvé napít. Rána sama. Stálo to pořád — samozřejmě, že to stálo, staré a celé, pád to minul, protože pád odtamtud vyšel — a všechno, co v téhle zemi teklo, teklo tamtudy: proud, nebe, rozkazy.
 
 Dojít k nule. Ne obrazně. Po trase, s bednou na voze, do místa, kde se svět rozbil, a rozeslat odtamtud po jeho vlastních drátech to, co se v něm rozbít nepovedlo.
 

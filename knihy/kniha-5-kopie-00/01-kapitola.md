@@ -10,7 +10,7 @@ Přišli jsme za soumraku. U prvních baráků se od stěny odlepil stín s vidl
 
 „Cvaká."
 
-„No jo," řekl stín, opřel vidle a šel ohlásit, že se vrátil ten kluk s tou bednou. Tři roky, půl světa, město, jáma, archiv, konec peněz, začátek mazání — a doma to celé vešlo do čtyř slov a jednoho no jo. Kdybych někdy zpychl, vzpomenu si na tohle. Doma se nevrací hrdinové. Doma se vrací kluci s bednami.
+„No jo," řekl stín, opřel vidle a šel ohlásit, že se vrátil ten kluk s tou bednou. Pár let, půl světa, město, jáma, archiv, konec peněz, začátek mazání — a doma to celé vešlo do čtyř slov a jednoho no jo. Kdybych někdy zpychl, vzpomenu si na tohle. Doma se nevrací hrdinové. Doma se vrací kluci s bednami.
 
 Síto stála u svých dveří, jako by od té doby nikam nešla.
 
@@ -26,9 +26,9 @@ Kůlna stála. Prázdná ty roky, s dírou po bedně jako s vytrženým zubem �
 
 Cvok se rozsvítil oběma — ne. Jedním okem. To druhé nesvítilo nikdy a nesvítilo ani teď, a mně to udělalo radost, jakou neumím vysvětlit: svět se hroutil a skládal, ale některé věci držely. Jedno oko, křivá hvězda, cvak, cvak-cvak, cvak.
 
-„Tady to znám," řekl Cvok. „Tady mě krmili. Tady jsem ležel dvacet šest let." Pauza. „Ta díra v hlíně má můj tvar. To se nevidí často, aby díra měla něčí tvar."
+„Tady to znám," řekl Cvok. „Tady mě krmili. Tady jsem ležel skoro celý svůj život." Pauza. „Ta díra v hlíně má můj tvar. To se nevidí často, aby díra měla něčí tvar."
 
-To se nevidí často. Kdybys věděl, bedno, pomyslel jsem si, a nahlas jsem neřekl nic, protože jsem měl v ruce šňůrku z krku a na ní kolík a před sebou zarostlou krytku, kterou jsem poprvé viděl před třemi roky a nechal ji být.
+To se nevidí často. Kdybys věděl, bedno, pomyslel jsem si, a nahlas jsem neřekl nic, protože jsem měl v ruce šňůrku z krku a na ní kolík a před sebou zarostlou krytku, kterou jsem poprvé viděl před lety a nechal ji být.
 
 Otevřel jsem ji nožem. Špína povolila po kouskách, jako povoluje všechno staré, a pod ní byla zdířka, čistá, nedotčená, přesně toho tvaru. Podíval jsem se na Cvoka. Světýlko v oku mu cuklo, o zlomek později, jako vždycky, a neřekl nic, protože se ho nikdo na nic neptal.
 
