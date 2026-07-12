@@ -1,0 +1,428 @@
+<!doctype html>
+<html lang="cs">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>Smazaná odpověď · Kolík</title>
+  <style>
+    :root {
+      --bg: #080908;
+      --panel: #11130f;
+      --paper: #e9e6d9;
+      --ink: #171913;
+      --muted: #a7aa9c;
+      --gold: #d0a94b;
+      --gold-soft: #74602f;
+      --line: #303329;
+      --danger: #c86b58;
+      --max: 78rem;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background:
+        radial-gradient(circle at 88% 5%, rgba(208, 169, 75, .11), transparent 26rem),
+        linear-gradient(180deg, #0c0d0b 0, var(--bg) 32rem);
+      color: #f0eee4;
+      font: 17px/1.65 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    }
+
+    a { color: var(--gold); text-underline-offset: .2em; }
+    a:hover { color: #f3cf72; }
+    button, input { font: inherit; }
+    button:focus-visible, input:focus-visible, a:focus-visible, summary:focus-visible {
+      outline: 3px solid #f3cf72;
+      outline-offset: 3px;
+    }
+
+    .skip {
+      position: absolute;
+      left: -9999px;
+      top: 1rem;
+      z-index: 10;
+      padding: .7rem 1rem;
+      background: var(--paper);
+      color: var(--ink);
+    }
+    .skip:focus { left: 1rem; }
+
+    .hero {
+      min-height: 78vh;
+      display: grid;
+      align-content: center;
+      padding: 5rem max(1.25rem, calc((100vw - var(--max)) / 2));
+      border-bottom: 1px solid var(--line);
+    }
+    .eyebrow {
+      margin: 0 0 1.2rem;
+      color: var(--gold);
+      letter-spacing: .22em;
+      text-transform: uppercase;
+      font-size: .8rem;
+    }
+    .hero h1 {
+      max-width: 11ch;
+      margin: 0;
+      font: 800 clamp(3rem, 10vw, 8.4rem)/.86 system-ui, sans-serif;
+      letter-spacing: -.07em;
+      text-transform: uppercase;
+    }
+    .lede {
+      max-width: 43rem;
+      margin: 2rem 0 0;
+      color: #d7d5c9;
+      font-size: clamp(1rem, 2vw, 1.3rem);
+    }
+    .hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2rem; }
+    .button {
+      display: inline-block;
+      border: 1px solid var(--gold-soft);
+      padding: .75rem 1rem;
+      background: transparent;
+      color: #f2efe5;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    .button.primary { background: var(--gold); color: #111; border-color: var(--gold); font-weight: 700; }
+    .button:hover { border-color: var(--gold); }
+
+    .warning {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 1rem 1.25rem;
+      border-inline: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+      color: #d5c9bf;
+      background: rgba(200, 107, 88, .08);
+    }
+    .warning strong { color: #f0a895; }
+
+    .section {
+      max-width: var(--max);
+      margin: 0 auto;
+      padding: 5rem 1.25rem;
+    }
+    .section-header { max-width: 48rem; margin-bottom: 2.5rem; }
+    .section-header h2 {
+      margin: 0 0 .8rem;
+      font: 750 clamp(2rem, 5vw, 4rem)/1 system-ui, sans-serif;
+      letter-spacing: -.04em;
+    }
+    .section-header p { color: var(--muted); }
+
+    .reader {
+      display: grid;
+      grid-template-columns: minmax(15rem, 21rem) minmax(0, 1fr);
+      gap: 2rem;
+      align-items: start;
+    }
+    .book-nav {
+      position: sticky;
+      top: 1rem;
+      max-height: calc(100vh - 2rem);
+      overflow: auto;
+      padding: 1rem;
+      border: 1px solid var(--line);
+      background: rgba(17, 19, 15, .94);
+    }
+    .book-nav label { display: block; margin-bottom: .5rem; color: var(--muted); font-size: .8rem; }
+    .book-nav input {
+      width: 100%;
+      margin-bottom: 1rem;
+      padding: .65rem;
+      border: 1px solid var(--line);
+      background: #070806;
+      color: #fff;
+    }
+    .book-nav details { border-top: 1px solid var(--line); padding: .65rem 0; }
+    .book-nav summary { cursor: pointer; color: #f1eee4; }
+    .book-nav ol { margin: .7rem 0 0; padding-left: 1.4rem; color: var(--muted); }
+    .book-nav li { margin: .35rem 0; }
+    .book-nav a { color: #bfc2b5; text-decoration: none; }
+    .book-nav a:hover { color: var(--gold); }
+
+    .chapter {
+      margin-bottom: 3rem;
+      padding: clamp(1.25rem, 4vw, 3.5rem);
+      background: var(--paper);
+      color: var(--ink);
+      box-shadow: 0 1.5rem 5rem rgba(0, 0, 0, .35);
+    }
+    .chapter[hidden] { display: none; }
+    .chapter-kicker { color: #736c59; text-transform: uppercase; letter-spacing: .12em; font-size: .72rem; }
+    .chapter h2 {
+      margin: .3rem 0 2rem;
+      font: 750 clamp(1.9rem, 4vw, 3rem)/1 system-ui, sans-serif;
+      letter-spacing: -.04em;
+    }
+    .chapter-body { max-width: 47rem; }
+    .chapter-body p { margin: 1.15em 0; }
+    .chapter-body blockquote { margin: 1.5rem 0; padding-left: 1rem; border-left: .25rem solid var(--gold); color: #4b493f; }
+    .chapter-body hr { margin: 2.4rem auto; border: 0; width: 4rem; border-top: .2rem solid #8a8064; }
+    .chapter-body table { width: 100%; border-collapse: collapse; font-size: .82rem; }
+    .chapter-body th, .chapter-body td { border: 1px solid #aaa48f; padding: .45rem; vertical-align: top; }
+    .chapter-body code { background: #d9d4c2; padding: .08em .25em; }
+    .chapter-body a { color: #624b11; }
+    .back-link { display: inline-block; margin-top: 2rem; color: #624b11; }
+    .empty-search { color: var(--muted); padding: 1rem; border: 1px dashed var(--line); }
+
+    .shards {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: .75rem;
+      margin: 2rem 0;
+    }
+    .shard {
+      min-height: 16rem;
+      padding: 1rem;
+      border: 1px solid var(--gold-soft);
+      background:
+        linear-gradient(135deg, transparent 49%, rgba(208,169,75,.15) 49.5%, transparent 50.5%),
+        #10120e;
+      overflow: hidden;
+    }
+    .shard.spent { background: #030403; color: #51534b; border-color: #20221c; }
+    .shard-number { color: var(--gold); font-size: .72rem; letter-spacing: .15em; }
+    .shard h3 { min-height: 2.6em; font: 700 1.05rem/1.3 system-ui, sans-serif; }
+    .shard p { font-size: .8rem; color: var(--muted); }
+    .fragment {
+      display: none;
+      margin: .8rem 0;
+      padding: .7rem;
+      border: 1px solid var(--line);
+      color: #f4d887;
+      overflow-wrap: anywhere;
+      font-size: .72rem;
+    }
+    .shard.revealed .fragment { display: block; }
+    .shard.spent .fragment, .shard.spent .reveal, .shard:not(.revealed) .darken { display: none; }
+
+    .workbench {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+      margin-top: 2rem;
+      padding: clamp(1rem, 3vw, 2rem);
+      border: 1px solid var(--line);
+      background: #0e100c;
+    }
+    .workbench h3 { margin-top: 0; font-family: system-ui, sans-serif; }
+    .result {
+      min-height: 8rem;
+      white-space: pre-wrap;
+      overflow-wrap: anywhere;
+      padding: 1rem;
+      background: #050604;
+      border: 1px solid var(--line);
+      color: #f4d887;
+    }
+    .manual { color: var(--muted); font-size: .85rem; }
+    noscript { display: block; padding: 1rem; border: 1px solid var(--danger); color: #ffd4ca; }
+
+    .about-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
+    .about-card { padding: 1.3rem; border: 1px solid var(--line); background: var(--panel); }
+    .about-card h3 { font-family: system-ui, sans-serif; }
+    footer { border-top: 1px solid var(--line); padding: 3rem 1.25rem; color: var(--muted); text-align: center; }
+
+    @media (max-width: 900px) {
+      .reader { grid-template-columns: 1fr; }
+      .book-nav { position: static; max-height: none; }
+      .shards { grid-template-columns: 1fr 1fr; }
+      .workbench, .about-grid { grid-template-columns: 1fr; }
+    }
+    @media (max-width: 540px) {
+      body { font-size: 15px; }
+      .hero { min-height: 70vh; padding-block: 3rem; }
+      .shards { grid-template-columns: 1fr; }
+      .chapter { padding: 1rem; }
+    }
+    @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Přeskočit na obsah</a>
+
+  <header class="hero">
+    <p class="eyebrow">Kopie 00 · offline vydání</p>
+    <h1>Smazaná odpověď</h1>
+    <p class="lede">Pět knih. Pět klíčů. Jedna věc, kterou za tebe žádná bedna nesloží. Tahle kopie funguje bez sítě a nic neposílá ven.</p>
+    <div class="hero-actions">
+      <a class="button primary" href="#cist">Začít číst</a>
+      <a class="button" href="#skladat">Otevřít skla</a>
+    </div>
+  </header>
+
+  <div class="warning" role="note">
+    <strong>Bezpečnost:</strong> Neznámý nalezený USB disk nepřipojuj k osobnímu počítači. Kolík má smysl jen jako ověřená kopie od známého člověka nebo označeného výdejního místa. Tento web nic neinstaluje a nemá autorun.
+  </div>
+
+  <main id="main">
+    <section class="section" id="cist">
+      <header class="section-header">
+        <p class="eyebrow">Nahrávka</p>
+        <h2>Čti po kouskách.</h2>
+        <p>Všechny kapitoly jsou uvnitř tohoto jediného souboru. Vyhledávání probíhá pouze v prohlížeči; žádný dotaz neopustí zařízení.</p>
+      </header>
+      <div class="reader">
+        <nav class="book-nav" aria-label="Obsah knih">
+          <label for="search">Najít v nahrávce</label>
+          <input id="search" type="search" placeholder="slovo nebo věta" autocomplete="off">
+          <!-- BOOK_NAV -->
+          <p><a href="SHA256SUMS.txt">SHA-256 součty</a><br><a href="release-manifest.json">Release manifest</a></p>
+        </nav>
+        <div id="chapters">
+          <p class="empty-search" id="empty-search" hidden>V nahrávce tohle nemám.</p>
+          <!-- BOOK_SECTIONS -->
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="skladat">
+      <header class="section-header">
+        <p class="eyebrow">Pět skel</p>
+        <h2>Slož, nevlastni.</h2>
+        <p>Každé sklo ukáže jeden provozní kus. Po ztmavení zůstane v pracovní ploše jen to, co sis převzal. Reset je schválně možný: jednorázovost je rituál, ne DRM.</p>
+      </header>
+
+      <noscript>
+        JavaScript je vypnutý. Ruční varianta: ŠUM = <code>-.-..-.-.--..--.-..--..--..--.-.-..--.-..--..--.-..-.--.-.-.-.-..--..--..-.-.--..-.--.-..--..--.-.</code>;
+        PRAVOPIS = <code>3,2,4,2,1,3,4,3,4,3,2,4,4,4,2,2,2</code>;
+        DÍRA = <code>10011010010110011010100101100101101001100110100101011001101010011001011010010110011001101001011010</code>;
+        PŘES KNIHY = <code>5,6,6</code>. Vyber ze šumu pozice označené jedničkou, rozděl je pravopisem, převeď Morseovou tabulkou a slova odděl délkami 5/6/6.
+      </noscript>
+
+      <div class="shards" aria-label="Pět fragmentů šifry">
+        <article class="shard" data-key="stream" data-value="-.-..-.-.--..--.-..--..--..--.-.-..--.-..--..--.-..-.--.-.-.-.-..--..--..-.-.--..-.--.-..--..--.-.">
+          <span class="shard-number">01 · Vesnice</span><h3>Šum</h3><p>Pulsy jsou celé. Ne všechny jsou pravé.</p>
+          <div class="fragment"></div><button class="button reveal" type="button">Přečíst jednou</button><button class="button darken" type="button">Ztmavit</button>
+        </article>
+        <article class="shard" data-key="lengths" data-value="3,2,4,2,1,3,4,3,4,3,2,4,4,4,2,2,2">
+          <span class="shard-number">02 · Trasy</span><h3>Pravopis</h3><p>Znak bez hranic je pořád jen cesta.</p>
+          <div class="fragment"></div><button class="button reveal" type="button">Přečíst jednou</button><button class="button darken" type="button">Ztmavit</button>
+        </article>
+        <article class="shard" data-key="mask" data-value="10011010010110011010100101100101101001100110100101011001101010011001011010010110011001101001011010">
+          <span class="shard-number">03 · Etalon</span><h3>Díra</h3><p>Jednička drží. Nula se nabízí.</p>
+          <div class="fragment"></div><button class="button reveal" type="button">Přečíst jednou</button><button class="button darken" type="button">Ztmavit</button>
+        </article>
+        <article class="shard" data-key="words" data-value="5,6,6">
+          <span class="shard-number">04 · Archiv</span><h3>Přes knihy</h3><p>Tři kusy. Čti je až po písmenech.</p>
+          <div class="fragment"></div><button class="button reveal" type="button">Přečíst jednou</button><button class="button darken" type="button">Ztmavit</button>
+        </article>
+        <article class="shard" data-key="method" data-value="PROSIT|ROZDELIT|PREVEST|SESKUPIT">
+          <span class="shard-number">05 · Kopie 00</span><h3>Sjednocení</h3><p>Prosít. Rozdělit. Převést. Seskupit.</p>
+          <div class="fragment"></div><button class="button reveal" type="button">Přečíst jednou</button><button class="button darken" type="button">Ztmavit</button>
+        </article>
+      </div>
+
+      <div class="workbench">
+        <div>
+          <h3>Pracovní plocha</h3>
+          <p class="manual">Nástroj pouze odstraní šum a rozdělí pulsy. Písmena za tebe nepřečte. Morseovou tabulku máš v první knize.</p>
+          <button class="button primary" id="sift" type="button">Prosít odhalené kusy</button>
+          <button class="button" id="reset" type="button">Resetovat rituál</button>
+          <p id="solver-status" aria-live="polite"></p>
+        </div>
+        <div>
+          <div class="result" id="solver-result" aria-label="Výsledek prosívání">Čekám na pět kusů.</div>
+          <p class="manual">Mezery mezi slovy: <strong id="word-pattern">—</strong>. Poslední krok patří tobě.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="o-koliku">
+      <header class="section-header"><p class="eyebrow">Protokol</p><h2>Co tenhle Kolík nedělá.</h2></header>
+      <div class="about-grid">
+        <article class="about-card"><h3>Nic nespouští</h3><p>Žádný autorun, instalátor, makro ani binární launcher. Otevíráš obyčejný HTML soubor.</p></article>
+        <article class="about-card"><h3>Nic neposílá</h3><p>Žádná analytika, účet, CDN ani vzdálený font. Síť může být celou dobu vypnutá.</p></article>
+        <article class="about-card"><h3>Nic nezamyká</h3><p>Stejný obsah má být zdarma na webu i v ZIPu. Platit lze za předmět, nikdy za jedinou kopii pravdy.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer>Prototyp · release není podepsaný · nic, co je na jednom místě, nepřežije.</footer>
+
+  <script>
+    (function () {
+      'use strict';
+      const state = Object.create(null);
+      const shards = Array.from(document.querySelectorAll('.shard'));
+      const status = document.getElementById('solver-status');
+      const result = document.getElementById('solver-result');
+      const wordPattern = document.getElementById('word-pattern');
+
+      shards.forEach((shard) => {
+        const fragment = shard.querySelector('.fragment');
+        shard.querySelector('.reveal').addEventListener('click', () => {
+          const key = shard.dataset.key;
+          const value = shard.dataset.value;
+          state[key] = value;
+          fragment.textContent = value;
+          shard.classList.add('revealed');
+          status.textContent = `Převzato: ${Object.keys(state).length} z 5.`;
+        });
+        shard.querySelector('.darken').addEventListener('click', () => {
+          shard.classList.remove('revealed');
+          shard.classList.add('spent');
+          fragment.textContent = '';
+        });
+      });
+
+      document.getElementById('sift').addEventListener('click', () => {
+        const required = ['stream', 'lengths', 'mask', 'words', 'method'];
+        const missing = required.filter((key) => !state[key]);
+        if (missing.length) {
+          status.textContent = `Chybí ${missing.length} kusů. Postupy se nepřeskakují.`;
+          return;
+        }
+        if (state.stream.length !== state.mask.length) {
+          status.textContent = 'Šum a díra nemají stejný tvar.';
+          return;
+        }
+        const selected = Array.from(state.stream).filter((_, index) => state.mask[index] === '1').join('');
+        const lengths = state.lengths.split(',').map(Number);
+        const chunks = [];
+        let cursor = 0;
+        lengths.forEach((length) => {
+          chunks.push(selected.slice(cursor, cursor + length));
+          cursor += length;
+        });
+        if (cursor !== selected.length || chunks.some((chunk) => !chunk)) {
+          status.textContent = 'Pravopis nesedí na prosátý kus.';
+          return;
+        }
+        result.textContent = `PROSÁTÉ PULSY (${selected.length})\n${selected}\n\nPÍSMENA (${chunks.length})\n${chunks.join('  ')}`;
+        wordPattern.textContent = state.words.split(',').join(' / ');
+        status.textContent = 'Šum je pryč. Písmena a význam zůstávají na tobě.';
+      });
+
+      document.getElementById('reset').addEventListener('click', () => {
+        Object.keys(state).forEach((key) => delete state[key]);
+        shards.forEach((shard) => {
+          shard.classList.remove('revealed', 'spent');
+          shard.querySelector('.fragment').textContent = '';
+        });
+        result.textContent = 'Čekám na pět kusů.';
+        wordPattern.textContent = '—';
+        status.textContent = 'Skla jsou znovu průsvitná. Divadlo, ne DRM.';
+      });
+
+      const search = document.getElementById('search');
+      const chapters = Array.from(document.querySelectorAll('.chapter'));
+      const empty = document.getElementById('empty-search');
+      search.addEventListener('input', () => {
+        const query = search.value.trim().toLocaleLowerCase('cs');
+        let visible = 0;
+        chapters.forEach((chapter) => {
+          const match = !query || chapter.textContent.toLocaleLowerCase('cs').includes(query);
+          chapter.hidden = !match;
+          if (match) visible += 1;
+        });
+        empty.hidden = visible !== 0;
+      });
+    }());
+  </script>
+</body>
+</html>

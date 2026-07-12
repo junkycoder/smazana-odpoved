@@ -10,6 +10,17 @@
 *~
 .idea/
 .vscode/
+node_modules/
+
+# Lokální tajné hodnoty
+.env.local
+
+# Generované mapy a cache
+/graphify-out/
+
+# Python
+__pycache__/
+*.pyc
 
 # Dočasné / exporty
 *.tmp
