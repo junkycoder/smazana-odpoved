@@ -6,7 +6,7 @@ Neříká se to jako hrozba. Říká se to jako počasí. Ráno bude jasno, odpo
 
 Já čas neměl. Šel jsem do vesnice po trase, která se otevřela ráno a do poledne se měla zase zavřít. O trasách se ví jen tolik, že se o nich neví nic dopředu. Někdo prošel, tak je průchozí; než to pochopí ti nahoře, jsi pryč. Nikdo to nevymyslel, a právě proto to drží.
 
-Všechno, co jsem měl, jsem nesl na sobě. Boty, nůž, půl chleba. A na krku, na šňůrce, kolík — takovou malou tvrdou věc do dlaně, kus starého světa, do kterého se kdysi vešla knihovna. Jediné, co mi zbylo po rodiči, kterého si nepamatuju. Co na něm je, jsem nevěděl. Čtečky nejsou; vzaly je stejné ruce jako knihovny. Když mi ho dávali, dostal jsem k němu tři věty: neukazuj ho, neprodávej ho, neztrať ho. To bylo celé moje dědictví — věc, co neumím přečíst, a tři zákazy.
+Všechno, co jsem měl, jsem nesl na sobě. Boty, nůž, půl chleba. A na krku, na šňůrce, kolík — takovou malou tvrdou věc do dlaně, kus starého světa, do kterého se kdysi vešla knihovna. Jediné, co mi zbylo po rodiči, kterého si nepamatuju. Co na něm je, jsem nevěděl. Čtečky tady dole nejsou — čtečka je věc poustevníků a měst; ostatní vzaly stejné ruce jako knihovny. Když mi ho dávali, dostal jsem k němu tři věty: neukazuj ho, neprodávej ho, neztrať ho. To bylo celé moje dědictví — věc, co neumím přečíst, a tři zákazy.
 
 Nad hlavou mi svítilo nebe a na nebi dávali počasí. Velká laskavá tvář, kterou znáš z dětství, zpívala, že přejde fronta a že máš zůstat doma a být v klidu. Kdysi mi ten hlas zpíval ukolébavky. Teď mi zpíval, ať se nehýbu, a myslel to vážně. Koukáš nahoru, protože dole je všechno, na co se nemáš dívat.
 
@@ -58,7 +58,7 @@ Babka pokrčila rameny. „Cvok."
 
 Podívala se na mě, jako bych se zeptal, k čemu je počasí. „K ničemu," řekla. „Byl tu dřív než my. Bude tu po nás. Krmíme ho proudem, protože když nekrmíš, co bylo tu dřív než ty, přijde to ostatním divné." Pověsila další kus. „A je s ním řeč. To se cení. Lidí je málo."
 
-To jsem chápal. Stroj, co mluví, byť kraviny, je pořád někdo, kdo mluví. Krmili ho ze stejného důvodu, z jakého mně dávali víc jídla: ne že by k něčemu byl, ale byl tu, a nechat ho zhasnout by znamenalo přiznat, že nechat zhasnout věci je v pořádku. Měli jsme dost zhasnutého.
+To jsem chápal. Stroj, co mluví, byť kraviny, je pořád někdo, kdo mluví. Krmili ho ze svého — šlapalo se o kus déle, nahoru šlo, co šlo vždycky — a ze stejného důvodu, z jakého mně dávali víc jídla: ne že by k něčemu byl, ale byl tu, a nechat ho zhasnout by znamenalo přiznat, že nechat zhasnout věci je v pořádku. Měli jsme dost zhasnutého.
 
 Tak Cvok kecal a vesnice ho poslouchala na půl ucha, jako se poslouchá soused, kterého máš rád a znáš ho nazpaměť.
 

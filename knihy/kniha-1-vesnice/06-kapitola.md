@@ -96,7 +96,7 @@ A bylo po pohřbu. Vesnice se rozešla a Síto šla kolem mě a nepodívala se n
 
 „Co mi došlo?"
 
-„To je jedno co. Něco ti svítí na očích, a když to vidím já, uvidí to i ten, kdo kouká hůř a chce víc." Prosypala mě naposledy tím holým pohledem. „Dokud jsi byl kluk, co nic neumí, byl jsi pod cenou. Nejlevnější věc ve vesnici. Tys přestal. A kdo něco ví, ten svítí, a kdo svítí, toho najdou. A někdo se už ptal. Trasa se otevře ráno. Půjdeš po ní."
+„To je jedno co. Něco ti svítí na očích, a když to vidím já, uvidí to i ten, kdo kouká hůř a chce víc." Prosypala mě naposledy tím holým pohledem. „Dokud jsi byl kluk, co nic neumí, byl jsi pod cenou. Nejlevnější věc ve vesnici. Tys přestal. A kdo něco ví, ten svítí, a kdo svítí, toho najdou. A někdo se už ptal. Ráno bude trasa — přišlo klepání. Půjdeš po ní."
 
 Chtěl jsem říct, že nechci. Že bych zůstal u ní, u jejího sklíčka, u talíře, na kterém mi nechávala víc. Neřekl jsem to, protože jsem věděl, co by řekla: že zůstat u ní je to nejnebezpečnější, co můžu udělat — pro oba. Držet mě by mě zabilo. Pustit bylo jediné, jak mě nechat žít.
 

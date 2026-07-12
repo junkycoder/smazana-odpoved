@@ -54,7 +54,7 @@ Přitiskl jsem se k Sítu a Síto, aniž hnula pusou, zamumlala: „To je celej 
 
 „Učíš se." Skoro to znělo pochvalně. „Nedá se to. Tak se kolem toho postavil celej tanec."
 
-Tanec vypadal takhle. Prodávající nemohl ukázat zboží, tak ukázal vzorek — schválně bezcenný. Kus, který šel ověřit, že je pravý, ale sám o sobě nestál za nic. „Tady máš opis začátku, na papíře. Vidíš pečeť, vidíš podpis. Co je uvnitř, si kup." A kupující na ten bezcenný opis koukal tak vážně, jako by na nich visel život, protože napůl visel — platil za slib, ne za důkaz.
+Tanec vypadal takhle. Prodávající nemohl ukázat zboží, tak ukázal vzorek — schválně bezcenný. Kus, který šel ověřit, že je pravý, ale sám o sobě nestál za nic. „Tady máš opis začátku, na ručním papíře. Vidíš pečeť, vidíš podpis. Co je uvnitř, si kup." A kupující na ten bezcenný opis koukal tak vážně, jako by na nich visel život, protože napůl visel — platil za slib, ne za důkaz.
 
 A když ani to nestačilo, platila pověst. „Tenhle nikdy neprodal hovno," řekl někdo o prodávajícím, a to byla měna sama o sobě, vzácnější než data: handle, o kterém se vědělo, že za ním není podvod. Celý trh, kde se nedalo nic ověřit, stál na hrstce lidí, kterým se věřilo, že nelžou. Taková pověst se stavěla roky a spálit se dala jednou. Nejdražší věc na trhu, kde se prodávala pravda, byla pravdomluvnost prodavače.
 

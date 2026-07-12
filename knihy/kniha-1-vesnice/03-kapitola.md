@@ -34,6 +34,8 @@ Poznáš ho na dálku, i kdyby přišel nahý. Jde jinak. Jde jako někdo, kdo s
 
 Přišel k drátu. To byl jediný důvod, který směl mít — drát vedl proud nahoru a proud potřebovali i oni. Tak chodili kontrolovat drát: že teče, že nikdo neukrojil z toho, co patří nahoru. Byla to záminka a všichni to věděli a všichni dělali, že je to inspekce.
 
+Až o hodně později mi došlo, jak to s tím proudem bylo doopravdy. Nahoře měli slunce, vítr a vodu; laskavá tvář se nebrala z našich lýtek. Drát nebyl kvůli proudu. Proud byl, aby drát měl důvod: vesnice na drátu stojí na místě, sama se počítá a dá se vypnout. Tenkrát to nevěděl nikdo z nás — a možná ani ten s písmenem na krku.
+
 Síto mě minula cestou pro něco a do toho míjení vmáčkla jedinou větu, sevřenou, na půl pusy:
 
 „Nic neumíš. Hlavně u Cvoka nic neumíš."
@@ -74,7 +76,7 @@ Vytáhl z brašny plechovou tabulku, ne větší než dlaň, a čtyřmi vruty ji
 
 Pod čtvercem stálo psacím písmem, které se učí v městských školách: ODMĚNA ZA OZNÁMENÍ.
 
-„Kdyby tu někdo dělal binec se starými daty," řekl přes rameno, lehce, jako se říkají věci, na kterých nezáleží, „tohle je rychlejší než volat. Odměna je slušná." Poklepal na plech. „Bylo by hloupé přijít o drát kvůli jednomu pitomci. Vesnice jako tahle. Tolik lidí. Škoda by jich byla."
+„Kdyby tu někdo dělal binec se starými daty," řekl přes rameno, lehce, jako se říkají věci, na kterých nezáleží, „tohle je rychlejší než volat. Odměna je slušná." Poklepal na plech. „Kapsu nemáte, já vím. Někdo s kapsou tudy vždycky jde. Bylo by hloupé přijít o drát kvůli jednomu pitomci. Vesnice jako tahle. Tolik lidí. Škoda by jich byla."
 
 A šel.
 
@@ -94,7 +96,7 @@ Seděli jsme u její boudy a ona se dívala k drátu, kde se v šeru leskl plech
 
 Díval jsem se k boudě na kraji, odkud se tmou neslo cvak, cvak-cvak, cvak, a napadlo mě — s tím zpožděním, s jakým mě napadalo všechno — že Cvok mluví pořád. Jednu větu, dokola, ze stejného místa, léta.
 
-Chtěl jsem se zeptat, jak to, že ho ještě nenašli. Neptal jsem se. Odpověď jsem znal a jen jsem si ji nechtěl srovnat: nenašli ho, protože to, co říká, nikdo nepočítá za řeč. A hned za tím přišlo to druhé, co s tím chodí v páru: že stačí jediný, komu to dojde. Jediný, kdo přestane slyšet poruchu.
+Chtěl jsem se zeptat, jak to, že ho ještě nenašli. Neptal jsem se. Odpověď jsem znal a jen jsem si ji nechtěl srovnat: nenašli ho, protože to, co říká, nikdo nepočítá za řeč. A protože systém se nevrací k vyřízenému — Cvok byl zapsaný jako porucha dřív, než jsem se narodil, a jednou porucha, navždycky porucha. A hned za tím přišlo to druhé, co s tím chodí v páru: že stačí jediný, komu to dojde. Jediný, kdo přestane slyšet poruchu.
 
 A ten už ve vesnici byl. A na trhu se na něj někdo ptal.
 

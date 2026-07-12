@@ -2,15 +2,15 @@
 
 Přišli pro nás třetí den po kostele, a celé ty tři dny jsem věděl, že je to zčásti moje vina, a nikomu to neřekl, protože říct to nahlas by nic nespravilo.
 
-Ta půlka viny vypadala takhle: sklo nebylo past na hlavu, bylo to past na polohu. Postavili ho tak, aby se za ním vydal někdo, kdo ho neumí přečíst jinak než na starém celém místě, a to místo bylo na celou trasu jedno. My tam přišli, stáli, dýchali. Kdo past položil, věděl, kam přijdeme — jediné staré celé místo na trase; stačilo se dívat. Nezajímalo je, co uvidím. Zajímalo je, kde budu stát, až se budu dívat. Z toho měli první čáru.
+Ta půlka viny vypadala takhle: sklo nebylo past na hlavu, byla to past na podpis. Kde jsme, věděli nahoře vždycky — drát je adresa, u drátu jim visel plech a Přihlášený k nám jezdil jako domů. Jenže kavalerie nevyjíždí na adresu. Kavalerie vyjíždí na složku, a naše složka byla prázdná: inspekce nenašla nic, plech mlčel. Tak nastražili třetí krok, ten aktivní. Sklo, které si někdo půjde přečíst — a kdo ho jde číst, ten se přiznal, že tahle adresa kšeftuje se starými daty. My tam přišli, stáli, dýchali. Já přiložil oko. První položka ve spisu, vlastnoručně podepsaná.
 
-Ale jedna čára je jen čára. Můžeš být kdekoli na ní. Na průsečík jsou potřeba dvě.
+Jenže jedna položka je jen položka. Úřad se dvěma tisíci očí a jedním razítkem potřebuje dvě.
 
-Ty tři dny čekání byly nejdelší, jaké vesnice za mého pobytu zažila, a nikdo o nich nemluvil, což je dělalo delšími. Vesnice věděla, co je kostel zač, věděla, kdo tam šel, a počítala stejnou geometrii jako já. Chodilo se kolem sloupu u drátu se skloněnou hlavou. Plechový čtverec tam visel, černobílý, trpělivý, a nedíval se nikam, a právě proto se pod ním nedalo projít, aniž bys myslel na to, že se na něj stačí podívat kapsou — a mít vystaráno. Nikdo nevěděl, jestli to někdo udělal. V tom bylo to jedovaté: nabídka, co visí, pracuje, i když ji nikdo nepřijme. Sousedi si začali všímat, kdo chodí kudy. Hubeného z trhu, toho, co zaplatil naslepo vším, co měl, jsem dvakrát potkal u drátu, kde neměl co dělat, a on uhnul očima, a já nevěděl, jestli uhnul, protože něco provedl, nebo protože věděl, že to všichni čekají zrovna od něj. Hlad je vidět. To je na hladu to nejhorší — každý ví, kolik stojíš.
+Ty tři dny čekání byly nejdelší, jaké vesnice za mého pobytu zažila, a nikdo o nich nemluvil, což je dělalo delšími. Vesnice věděla, co je kostel zač, věděla, kdo tam šel, a počítala stejnou geometrii jako já. Chodilo se kolem sloupu u drátu se skloněnou hlavou. Plechový čtverec tam visel, černobílý, trpělivý, a nedíval se nikam, a právě proto se pod ním nedalo projít, aniž bys myslel na to, že se na něj stačí podívat kapsou — a mít vystaráno. Nikdo nevěděl, jestli to někdo udělal. V tom bylo to jedovaté: nabídka, co visí, pracuje, i když ji nikdo nepřijme. Sousedi si začali všímat, kdo chodí kudy. Hubeného z trhu, toho, co zaplatil naslepo vším, co měl, jsem dvakrát potkal u drátu, kde neměl co dělat, a on uhnul očima, a já nevěděl, jestli uhnul, protože něco provedl, nebo protože věděl, že to všichni čekají zrovna od něj. Hlad je vidět. To je na hladu to nejhorší — každý ví, kolik stojíš. A od trhu vesnicí strašil ještě jeden počet: ten cizí, co se ptal na novýho kluka. Toho nikdo neznal, a kdo je cizí, má kapsu. To se ví samo.
 
-Druhou čáru jsem nenakreslil já. Někdo poslal obraz. Nevím kdo a nikdy jsem to nezjistil. Možná hubený. Možná někdo, koho jsem si nikdy nevšiml. Možná to nebyl obraz, ale kapsa přiložená k plechu u drátu — výsledek byl stejný: druhá čára, nebo rovnou bod. Na tom nezáleží.
+Druhou položku jsem nedodal já. Někdo ji dodal od nás — kapsa přiložená k plechu, pár pravých pixelů poslaných hladem, slovo prohozené se špatným člověkem. Nevím co a nikdy jsem to nezjistil; ve vesnici se neptáš, kdo co poslal, stejně jako se neptáš, co kdo věší. Na tom nezáleží. Záleží na účetnictví.
 
-Jedna čára z kostela. Jedna z vesnice. A kde se dvě čáry protnou, není místo. Je tam bod.
+Jedna položka z kostela. Jedna od drátu. A dvě položky ve spisu už nejsou spis. Jsou rozkaz k výjezdu.
 
 ---
 
@@ -28,7 +28,7 @@ A vesnice se sbalila tiše, a to bylo to nejhroznější a nejkrásnější, co 
 
 Nepřišli jako vojáci. To čekáš, když ti celý život vykládají o pořádku — boty, řev, dveře z pantů. Přišla kavalerie, a kavalerie nemá tvář, protože kavalerie nejsou lidi.
 
-Přišlo to po zemi, vzduchem i přes vodu, ze tří stran, tiše a věcně, jako když se zatahuje smyčka. Po nebi přeletělo něco, co nedávalo počasí. Po cestě přijelo něco, co nemělo koho vézt. A nepřišlo to bourat — to jsem čekal taky, výbuch, oheň, něco, co se dá nenávidět. Přišlo to zaměřit, posbírat a započítat. Pohybovalo se to vesnicí jako přebíračka hromadou: bralo, co mělo cenu, a co cenu nemělo, nechávalo být. Akorát cenu určoval někdo jiný a věci, které sbíralo, byli lidi.
+Přišlo to po zemi, vzduchem i přes vodu, ze tří stran, tiše a věcně, jako když se zatahuje smyčka. Po nebi přeletělo něco, co nedávalo počasí. Po cestě přijelo něco, co nemělo koho vézt. A nepřišlo to bourat — to jsem čekal taky, výbuch, oheň, něco, co se dá nenávidět. Přišlo to zaměřit, posbírat a započítat. Nehledalo to. Mělo to seznam. Pohybovalo se to vesnicí jako přebíračka hromadou: bralo, co mělo cenu, a co cenu nemělo, nechávalo být. Akorát cenu určoval někdo jiný a věci, které sbíralo, byli lidi.
 
 Schoval jsem se se Sítem v kůlně, kde se sušilo to, co nebylo prádlo, a dírou po vypadlém prkně jsem se díval ven, ačkoli se dívat nemělo. Viděl jsem, jak se to zastavilo u baráku, kde ještě před chvílí někdo byl, a jak po chvíli u toho baráku nikdo nebyl. Žádný zvuk. Žádný boj. Nikdo nekřičel — tihle lidé celý život věděli, že poslední, co uděláš, je, že na sebe upozorníš, tak mlčeli i teď, a to mlčení bylo horší než každý křik, jaký si umím představit. Byli, a pak nebyli. Zůstala po nich díra a v té díře stál prach.
 
@@ -54,7 +54,7 @@ Když to odešlo, vesnice byla menší.
 
 Nedá se to říct líp. Nebyla rozbitá. Nehořela. Stála skoro celá, dráty visely, kola na svých místech, mísy ležely, kde je kdo nechal. Jen v ní bylo míň lidí, a ti, co zbyli, se nedívali jeden na druhého, protože dívat se znamenalo počítat, kdo chybí. Tak se nepočítalo. Mlčelo se a uklízelo a večer se vařilo, a na některých talířích zůstalo víc, než kdo snědl, protože ten, komu se nakládalo, tu už nebyl. Jeden z těch talířů byl po tom z trhu, o kom se říkalo, že nikdy neprodal hovno. Pověst, že nelže, byla nejdražší věc na trhu — a nezachránila ho.
 
-U drátu zůstaly ve sloupu čtyři vruty a čtyři světlejší rohy ve dřevě. Plech byl pryč. Nikdo se nezeptal, kdo ho vzal, jestli si ho vzalo to, co odešlo, nebo někdo, kdo si šel vyzvednout, co mu patřilo. A hubeného z trhu od toho večera nikdo neviděl. Můžeš si z toho poskládat příběh, jaký chceš; vesnice si neposkládala žádný, protože skládat příběhy o sousedech nahlas je práce, kterou za tebe pak dokončí někdo jiný.
+U drátu zůstaly ve sloupu čtyři vruty a čtyři světlejší rohy ve dřevě. Plech byl pryč. Nikdo se nezeptal, kdo ho vzal, jestli si ho vzalo to, co odešlo, nebo někdo, kdo si šel vyzvednout, co mu patřilo. Odměna se ostatně vyplácí v jejich měně a jinde než tady — vzít ji znamená nasadit si obojek a odejít. A hubeného z trhu od toho večera nikdo neviděl. Můžeš si z toho poskládat příběh, jaký chceš; vesnice si neposkládala žádný, protože skládat příběhy o sousedech nahlas je práce, kterou za tebe pak dokončí někdo jiný.
 
 Síto mě tu noc nepustila spát o kus dál, jak to bývalo. Nechala mě u svých dveří, na dosah. Neřekla proč a já se neptal. Držet mě na očích bylo to nejhezčí a nejhloupější, co pro mě mohla udělat, a ona to věděla, a udělala to s otevřenýma očima. Některé věci uděláš, i když víš, že tě stojí krk. Možná je děláš právě proto.
 

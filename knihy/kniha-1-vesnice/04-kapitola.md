@@ -74,9 +74,9 @@ Schránkův člověk to pochopil dřív než já a hůř než já.
 
 „Tohle nasadil někdo, kdo věděl, že přijdeme," řekl tiše, a najednou se mu nelíbil ten velký prázdný kostel, najednou v něm bylo moc oken a za každým moc světa. „Reputace seděla. Broker seděl. To znamená, že někdo koupil brokera, nebo vyrobil falešnýho, kterýmu všichni věří. A to neudělá překupník. To udělá jenom —"
 
-Nedořekl. Nemusel. To udělá jen ten, kdo má dost na to, aby koupil i pravdomluvnost — to jediné, co se koupit nedá. A mně docvaklo, odkud jsem tu ruku znal: totéž město nám před dvěma dny přišroubovalo na sloup nabídku. Jednou odměna, jednou návnada. Sklo nás sem nepřivedlo, aby nám dalo lež; lež byla jen obal. Přivedlo nás sem, abychom přišli — abychom se kvůli pravdě sešli na jednom starém místě na konci trasy a chvíli tam stáli pohromadě.
+Nedořekl. Nemusel. To udělá jen ten, kdo má dost na to, aby koupil i pravdomluvnost — to jediné, co se koupit nedá. A mně docvaklo, odkud jsem tu ruku znal: totéž město nám před dvěma dny přišroubovalo na sloup nabídku. Jednou odměna, jednou návnada. Sklo nás sem nepřivedlo, aby nám dalo lež; lež byla jen obal. Přivedlo nás sem, abychom šli. Kde bydlíme, věděli nahoře vždycky — drát je adresa. Potřebovali podpis, že jsme víc než adresa: kdo jde číst staré sklo na staré místo, ten se ke starým datům přiznal.
 
-Past nebyla na hlavu. Past byla na to, kde jsme.
+Past nebyla na hlavu. Past byla na podpis.
 
 ---
 
