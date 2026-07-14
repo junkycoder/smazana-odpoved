@@ -2,7 +2,15 @@
 
 > Pětidílná sága. Zdarma, digitálně. **Volné šíření _je_ ta věc.**
 
-<img src="export/covers/Smazana-odpoved-KOMPLETNI-SAGA.png" width="300" align="right" alt="Obálka: Smazaná odpověď — kompletní sága">
+<a href="#ke-stazeni" title="Ke stažení — všechny formáty"><img src="export/header/hero-saga.png" width="300" align="right" alt="Obálka ságy s lepítky na stažení — Smazaná odpověď"></a>
+
+**⬇&nbsp;&nbsp;Stáhni celou ságu zdarma** — vyber si formát, klikni na lepítko:
+
+<a href="export/epub/Smazana-odpoved-KOMPLETNI-SAGA.epub"><img src="export/header/sticker-epub.png" height="54" alt="Stáhnout EPUB — čtečky a telefon"></a>&nbsp;
+<a href="export/mobi/Smazana-odpoved-KOMPLETNI-SAGA.mobi"><img src="export/header/sticker-mobi.png" height="54" alt="Stáhnout MOBI — Amazon Kindle"></a>&nbsp;
+<a href="export/azw3/Smazana-odpoved-KOMPLETNI-SAGA.azw3"><img src="export/header/sticker-azw3.png" height="54" alt="Stáhnout AZW3 — Kindle (novější)"></a>
+
+<sub>Radši **po dílech** nebo chceš **PDF**? → [celá nabídka ke stažení](#ke-stazeni)</sub>
 
 **Internet padl — ne, někdo ho vypnul.** Volný přenos dat je zločin. Pravda přežívá rozpůlená a schovaná jako odpad. Tahle kniha je její kus — zadarmo, šiř ji dál, staneš se kurýrem. Pět dílů, pět šifer, Odpověď, kterou nezná ani vypravěč. Slož ji.
 
@@ -23,6 +31,8 @@ Vypráví **robot Cvok** — jediný funkční stroj ve vesnici, postavený v ro
 | V | [Kopie 00](knihy/kniha-5-kopie-00/) | Co je Odpověď? → Vykonej ji. | Sjednocení |
 
 Každý díl: předmluva (hlas Cvoka) + 6 kapitol (hlas sirotka) + **Klíč** (šifra dílu) + **Kolík** (jak knihu předat dál).
+
+<a id="ke-stazeni"></a>
 
 ## Ke stažení
 
@@ -53,12 +63,12 @@ Každý díl končí kapitolou **Kolík** — návodem, jak ságu předat dál: 
 
 ```
 knihy/     zdrojové texty všech pěti dílů (Markdown — dá se číst rovnou tady)
-export/    ke stažení: pdf/ · epub/ · mobi/ · azw3/ · covers/ (obálky)
+export/    ke stažení: pdf/ · epub/ · mobi/ · azw3/ · covers/ (obálky) · header/ (lepítka)
 gadget/    kolik-offline — nástroj pro předání knihy dál
-scripts/   build ságy do ebooků (make_covers.py, build_ebooks.py)
+scripts/   build ságy do ebooků (make_covers.py, make_stickers.py, build_ebooks.py)
 ```
 
-Ebooky se generují z `knihy/` příkazem `python3 scripts/build_ebooks.py` (potřebuje `pandoc` a `calibre`).
+Ebooky se generují z `knihy/` příkazem `python3 scripts/build_ebooks.py` (potřebuje `pandoc` a `calibre`). Obálky dělá `make_covers.py` (`rsvg-convert`), stahovací lepítka do headeru `make_stickers.py` (`Pillow`).
 
 ---
 
